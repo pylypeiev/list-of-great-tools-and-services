@@ -20,7 +20,7 @@
 - [Test a website's performance](https://www.webpagetest.org/)
 - [Googles Mobile friendly tester](https://search.google.com/test/mobile-friendly)
 
-
+***
 <a name="tools"></a>
 ## 2. Tools
 - [Lorem Ipsum ](https://www.lipsum.com/)
@@ -32,7 +32,7 @@
 - [C# online IDE ](https://repl.it/repls/LastHorizontalMegabyte)
 - [Beautiful images of your source code ](https://carbon.now.sh/)
 
-
+***
 <a name="generators"></a>
 ## 3. Code generators
 - [FLEXBOX generator ](http://the-echoplex.net/flexyboxes/)
@@ -42,7 +42,7 @@
 - [Transform css generator ](https://html-css-js.com/css/generator/transform/)
 - [Fancy border radius generator ](https://9elements.github.io/fancy-border-radius)
 
-
+***
 <a name="colors"></a>
 ## 4. Backgrounds and Palettes
 - [Gradients ](https://uigradients.com)
@@ -60,7 +60,7 @@
 - [Color names ](http://colours.neilorangepeel.com/)
 - [Color thief ](https://lokeshdhakar.com/projects/color-thief/)
 
-
+***
 <a name="css"></a>
 ## 5. CSS nice effects
 - [Checkbox ](https://codepen.io/dylanraga/pen/Qwqbab)
@@ -80,6 +80,7 @@
 - [Button hover effect ](https://codepen.io/ViktorKorolyuk/pen/GYGwpv)
 - [10 hover effects ](https://codepen.io/caraujo/pen/VYOjNM)
 
+***
 <a name="api"></a>
 ## 6. Public APIs
 - [REQRES test  your AJAX requests ](https://reqres.in/)
@@ -88,7 +89,7 @@
 - [API Directory ](https://www.programmableweb.com/category/all/apis)
 - [Public APIs ](https://github.com/toddmotto/public-apis)
 
-
+***
 <a name="tip"></a>
 ## 7. Tips and tricks
 - [CSS Centering Explorer ](https://www.chunqiuyiyu.com/css-centering-explorer/)
@@ -103,7 +104,7 @@
 - [A quick reminder of all SQL queries ](https://github.com/enochtangg/quick-SQL-cheatsheet)
 - [CSS Helper ](https://lesson-web.ru/modules/css_helper)
 
-
+***
 <a name="library"></a>
 ## 8. Libraries
 ### Table of Contents 
@@ -179,7 +180,7 @@
 ### Uploads
  - [FilePond upload library ](https://pqina.nl/filepond/)
 
-
+***
 <a name="info"></a>
 ## 9. Info
 - [commonly used language features in a side-by-side format ](http://hyperpolyglot.org/)
