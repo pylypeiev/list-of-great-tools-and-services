@@ -10,7 +10,7 @@
 6. [ Public APIs ](#api)
 7. [ Tips and tricks ](#tip)
 8. [ Libraries ](#library)
-8. [ Info ](#info)
+9. [ Info ](#info)
 
 <a name="validators"></a>
 ## 1. Testers and Validators
@@ -19,7 +19,7 @@
 ## 2. Tools
 
 <a name="Code generators"></a>
-## 3. Tools
+## 3. Code generators
 
 <a name="colors"></a>
 ## 4. Backgrounds and Palettes
@@ -34,7 +34,7 @@
 ## 7. Tips and tricks
 
 <a name="library"></a>
-## 7. Libraries
+## 8. Libraries
 
 <a name="info"></a>
-## 7. Info
+## 9. Info
