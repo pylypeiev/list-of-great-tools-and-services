@@ -1,5 +1,5 @@
-# List of great tools, services and **nice-to-have** bookmarks
-### My list of great web tools and services for **programming and web development**
+# List of great tools, services and **nice-to-have** bookmarks :exclamation: :exclamation: :exclamation:
+### My list of great web tools and services for **programming and web development** :ok_hand:
 
 # Table of Contents 
 1. [ Testers and Validators ](#validators)
