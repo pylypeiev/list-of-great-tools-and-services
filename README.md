@@ -33,7 +33,7 @@
 - [Beautiful images of your source code ](https://carbon.now.sh/)
 
 
-<a name="Code generators"></a>
+<a name="generators"></a>
 ## 3. Code generators
 - [FLEXBOX generator ](http://the-echoplex.net/flexyboxes/)
 - [GRID generator ](https://www.layoutit.com/grid)
@@ -45,6 +45,21 @@
 
 <a name="colors"></a>
 ## 4. Backgrounds and Palettes
+- [Gradients ](https://uigradients.com)
+- [Flat UI colors ](https://flatuicolors.com/)
+- [CSS gradient generator ](https://www.css-gradient.com/)
+- [Cool HUE ](https://webkul.github.io/coolhue/)
+- [CSS gradient ](http://www.ourownthing.co.uk/gradpad.html)
+- [CSS gradient ](https://cssgradient.io/)
+- [CSS3 Patterns Gallery ](https://leaverou.github.io/css3patterns/)
+- [Automatic UI Color Palette Generator ](https://palx.jxnblk.com/)
+- [Palette generator ](https://learnui.design/tools/data-color-picker.html)
+- [Transparent textures ](https://www.transparenttextures.com/)
+- [SVG backgrounds ](https://www.svgbackgrounds.com/)
+- [SVG backgrounds ](http://www.heropatterns.com/)
+- [Color names ](http://colours.neilorangepeel.com/)
+- [Color thief ](https://lokeshdhakar.com/projects/color-thief/)
+
 
 <a name="css"></a>
 ## 5. CSS nice effects
