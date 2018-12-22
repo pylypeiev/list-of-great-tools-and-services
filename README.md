@@ -122,7 +122,7 @@
 - [Angular 2+ Components & Libraries ](https://github.com/brillout/awesome-angular-components)
 
 <a name="sliders"></a>
-#### Sliders, Carousels, Lightboxes
+#### Sliders, Carousels, Lightboxes :framed_picture:
   - [Simple slider ](http://ruyadorno.github.io/simple-slider/)
   - [Slick carousel ](http://kenwheeler.github.io/slick/)
   - [Image lightbox ](https://osvaldas.info/examples/image-lightbox-responsive-touch-friendly/)
@@ -131,12 +131,12 @@
   - [Slick carousel ](http://kenwheeler.github.io/slick/)
 
 <a name="alerts"></a>
-#### Alerts and notifications
+#### Alerts and notifications :speech_balloon:
   - [Izitost notification plugin with no dependencies ](http://izitoast.marcelodolce.com/)
   - [SweetAlert popup ](https://sweetalert2.github.io/)
 
 <a name="dom"></a>
-#### DOM effects
+#### DOM effects :fire:
   - [fullscreen background videos ](https://rishabhp.github.io/bideo.js/)
   - [fluid and interactive gradient animations ](https://sarcadass.github.io/granim.js/index.html)
   - [Animated spinners ](http://tobiasahlin.com/spinkit/)
@@ -145,18 +145,18 @@
   - [library for creating particles ](https://vincentgarreau.com/particles.js/)
 
 <a name="data"></a>
-#### Data
+#### Data :date:
   - [D3 Data-Driven Documents ](https://d3js.org/)
   - [Charts ](https://www.chartjs.org/)
 
 <a name="utilities"></a>
-#### Utilities
+#### Utilities :wrench:
   - [Random generator of strings and numbers ](http://chancejs.com/)
   - [Validation library ](https://github.com/imbrn/v8n)
   - [Credit Card input masking and validation ](https://github.com/nogorilla/angular-cc-library)
 
 <a name="text"></a>
-#### Text
+#### Text :bookmark_tabs:
   - [Highlight any text ](https://lumin.rocks/)
   - [Typewriter effect library ](https://chriscavs.github.io/t-writer-demo/?utm_source=bypeople)
   - [Auto complete  ](https://github.com/TarekRaafat/autoComplete.js)
@@ -165,19 +165,19 @@
   - [.NET implementation of the GNU/Gettext library ](https://github.com/neris/NGettext)
 
 <a name="numbers"></a>
-#### Time and numbers
+#### Time and numbers :date:
   - [Parse, validate, manipulate, and display dates and times ](http://momentjs.com/)
   - [ODOMETER numbers ](https://github.hubspot.com/odometer/docs/welcome/)
 
 <a name="animation"></a>
-#### Animation
+#### Animation :dizzy:
   - [Animate css ](https://daneden.github.io/animate.css/)
   - [Some CSS classes to move your DOM ](https://elrumordelaluz.github.io/csshake/)
   - [Magic animation ](https://www.minimamente.com/example/magic_animations/)
   - [MicronJS animate via data attribute ](https://webkul.github.io/micron/)
 
 <a name="uploads"></a>
-#### Uploads
+#### Uploads :open_file_folder:
   - [FilePond upload library ](https://pqina.nl/filepond/)
 
 ***
