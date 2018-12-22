@@ -1,4 +1,4 @@
-# List of great tools, services and **nice-to-have** bookmarks :exclamation: :exclamation: :exclamation:
+# List of great tools, services and **nice-to-have** bookmarks :exclamation:
 ### My list of great web tools and services for **programming and web development** :ok_hand:
 
 # Table of Contents 
