@@ -91,7 +91,7 @@
 
 <a name="tip"></a>
 ## 7. Tips and tricks
-- [CSS Centering Explorer ](https://www.chunqiuyiyu.com/css-centering-explorer/?utm_source=frontendfocus&utm_medium=email)
+- [CSS Centering Explorer ](https://www.chunqiuyiyu.com/css-centering-explorer/)
 - [GRID cheat sheet ](http://grid.malven.co/)
 - [FLEX cheat sheet ](http://flexbox.malven.co/)
 - [Шпаргалка по Flexbox CSS ](https://tpverstak.ru/flex-cheatsheet/)
@@ -106,6 +106,65 @@
 
 <a name="library"></a>
 ## 8. Libraries
+### Table of Contents 
+1. [ Sliders ](#sliders)
+2. [ Alerts and notifications ](#alerts)
+3. [ DOM effects ](#dom)
+4. [ Data ](#data)
+5. [ Utilities ](#utilities)
+6. [ Text ](#text)
+7. [ Time and numbers ](#numbers)
+8. [ Animation  ](#animation)
+9. [ Uploads ](#uploads)
+
+- [Search for type script npm packages ](https://microsoft.github.io/TypeSearch/)
+- [Angular 2+ Components & Libraries ](https://github.com/brillout/awesome-angular-components)
+
+<a name="sliders"></a>
+### 1. Sliders
+ - [commonly used language features in a side-by-side format ](http://hyperpolyglot.org/)
+ - [101 LINQ samples ](https://code.msdn.microsoft.com/101-LINQ-Samples-3fb9811b)
+
+<a name="alerts"></a>
+### 2. Alerts
+ - [commonly used language features in a side-by-side format ](http://hyperpolyglot.org/)
+ - [101 LINQ samples ](https://code.msdn.microsoft.com/101-LINQ-Samples-3fb9811b)
+
+<a name="dom"></a>
+### 3. DOM effects
+ - [commonly used language features in a side-by-side format ](http://hyperpolyglot.org/)
+ - [101 LINQ samples ](https://code.msdn.microsoft.com/101-LINQ-Samples-3fb9811b)
+
+<a name="data"></a>
+### 4. Data
+ - [commonly used language features in a side-by-side format ](http://hyperpolyglot.org/)
+ - [101 LINQ samples ](https://code.msdn.microsoft.com/101-LINQ-Samples-3fb9811b)
+
+<a name="utilities"></a>
+### 5. Utilities
+ - [commonly used language features in a side-by-side format ](http://hyperpolyglot.org/)
+ - [101 LINQ samples ](https://code.msdn.microsoft.com/101-LINQ-Samples-3fb9811b)
+
+<a name="text"></a>
+### 6. Text
+ - [commonly used language features in a side-by-side format ](http://hyperpolyglot.org/)
+ - [101 LINQ samples ](https://code.msdn.microsoft.com/101-LINQ-Samples-3fb9811b)
+
+<a name="numbers"></a>
+### 7. Time and numbers
+ - [commonly used language features in a side-by-side format ](http://hyperpolyglot.org/)
+ - [101 LINQ samples ](https://code.msdn.microsoft.com/101-LINQ-Samples-3fb9811b)
+
+<a name="animation"></a>
+### 8. Animation
+ - [commonly used language features in a side-by-side format ](http://hyperpolyglot.org/)
+ - [101 LINQ samples ](https://code.msdn.microsoft.com/101-LINQ-Samples-3fb9811b)
+
+<a name="uploads"></a>
+### 9. Animation
+ - [commonly used language features in a side-by-side format ](http://hyperpolyglot.org/)
+ - [101 LINQ samples ](https://code.msdn.microsoft.com/101-LINQ-Samples-3fb9811b)
+
 
 <a name="info"></a>
 ## 9. Info
