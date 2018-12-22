@@ -14,7 +14,11 @@
 
 <a name="validators"></a>
 ## 1. Testers and Validators
-
+*[HTML validator](https://validator.w3.org/)
+*[CSS validator](https://csstree.github.io/docs/validator.html)
+*[Link checker](https://validator.w3.org/checklink)
+*[Test a website's performance](https://www.webpagetest.org/)
+*[Googles Mobile friendly tester](https://search.google.com/test/mobile-friendly)
 <a name="tools"></a>
 ## 2. Tools
 
