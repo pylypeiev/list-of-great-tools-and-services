@@ -63,7 +63,22 @@
 
 <a name="css"></a>
 ## 5. CSS nice effects
-
+- [Checkbox ](https://codepen.io/dylanraga/pen/Qwqbab)
+- [Pulse div ](https://codepen.io/MrBandaruk/pen/NzdNyM)
+- [Buttons flipping](https://codepen.io/ainalem/pen/LJYRxz/)
+- [Button hover effect ](http://nisnom.com/veb-razrabotki/knopka-s-krasivym-effektom-i-gradientnym-svecheniem-pri-navedenii/)
+- [Buttons hover effect ](http://nisnom.com/veb-razrabotki/knopka-s-krasivym-effektom-i-gradientnym-svecheniem-pri-navedenii/)
+- [Button\Link hover effect](https://codepen.io/Rawnly/pen/qQLvKO)
+- [Border animations ](https://freefrontend.com/css-border-animations/?ref=webdesignernews.com)
+- [The Shapes of CSS ](https://css-tricks.com/the-shapes-of-css/)
+- [Loader squares ](https://codepen.io/poziomq/pen/bwQmYG)
+- [Shapes generated with CSS background gradients ](https://codepen.io/yuanchuan/full/vVRKRQ/)
+- [Text shadows ](https://freebiesupply.com/blog/css-text-shadows/)
+- [3D credit card ](https://codepen.io/kivanfan/pen/BGxXKR)
+- [Loader escalade ](https://codepen.io/ykadosh/pen/PxvbYQ)
+- [Border transitions ](https://codepen.io/giana/pen/yYBpVY)
+- [Button hover effect ](https://codepen.io/ViktorKorolyuk/pen/GYGwpv)
+- [10 hover effects ](https://codepen.io/caraujo/pen/VYOjNM)
 
 <a name="api"></a>
 ## 6. Public APIs
@@ -97,7 +112,7 @@
 - [commonly used language features in a side-by-side format ](http://hyperpolyglot.org/)
 - [101 LINQ samples ](https://code.msdn.microsoft.com/101-LINQ-Samples-3fb9811b)
 - [W3C cheat sheet ](https://www.w3.org/2009/cheatsheet/)
-- [Adaptation of Design Patterns for Humans to C# ](https://github.com/anupavanm/csharp-design-patterns-for-humans/blob/master/README.md?utm_source=csharpdigest&utm_medium=email&utm_campaign=featured
+- [Adaptation of Design Patterns for Humans to C# ](https://github.com/anupavanm/csharp-design-patterns-for-humans)
 - [JavaScript Algorithms and Data Structures ](https://github.com/trekhleb/javascript-algorithms#readme)
 - [C# ALGORITHMS ](https://github.com/aalhour/C-Sharp-Algorithms)
 - [Angular Developer Roadmap ](https://github.com/sulco/angular-developer-roadmap)
