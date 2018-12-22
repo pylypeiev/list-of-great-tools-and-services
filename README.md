@@ -13,7 +13,7 @@
 9. [ Info ](#info)
 
 <a name="validators"></a>
-## 1. Testers and Validators
+## 1. Testers and Validators :bug:
 - [HTML validator](https://validator.w3.org/)
 - [CSS validator](https://csstree.github.io/docs/validator.html)
 - [Link checker](https://validator.w3.org/checklink)
@@ -22,7 +22,7 @@
 
 ***
 <a name="tools"></a>
-## 2. Tools
+## 2. Tools :hammer:
 - [Lorem Ipsum ](https://www.lipsum.com/)
 - [DRAW.IO Create diagrams ](https://www.draw.io/)
 - [JSON formatter and validator ](https://jsonformatter.curiousconcept.com/)
@@ -34,7 +34,7 @@
 
 ***
 <a name="generators"></a>
-## 3. Code generators
+## 3. Code generators :computer:
 - [FLEXBOX generator ](http://the-echoplex.net/flexyboxes/)
 - [GRID generator ](https://www.layoutit.com/grid)
 - [Box shadow generator ](https://html-css-js.com/css/generator/box-shadow/)
@@ -44,7 +44,7 @@
 
 ***
 <a name="colors"></a>
-## 4. Backgrounds and Palettes
+## 4. Backgrounds and Palettes :crystal_ball:
 - [Gradients ](https://uigradients.com)
 - [Flat UI colors ](https://flatuicolors.com/)
 - [CSS gradient generator ](https://www.css-gradient.com/)
@@ -62,7 +62,7 @@
 
 ***
 <a name="css"></a>
-## 5. CSS nice effects
+## 5. CSS nice effects :collision:
 - [Checkbox ](https://codepen.io/dylanraga/pen/Qwqbab)
 - [Pulse div ](https://codepen.io/MrBandaruk/pen/NzdNyM)
 - [Buttons flipping](https://codepen.io/ainalem/pen/LJYRxz/)
@@ -82,7 +82,7 @@
 
 ***
 <a name="api"></a>
-## 6. Public APIs
+## 6. Public APIs :key:
 - [REQRES test  your AJAX requests ](https://reqres.in/)
 - [JSON placeholder ](https://jsonplaceholder.typicode.com/)
 - [Get placeholder images ](https://placeholder.com/)
@@ -91,7 +91,7 @@
 
 ***
 <a name="tip"></a>
-## 7. Tips and tricks
+## 7. Tips and tricks :older_man:
 - [CSS Centering Explorer ](https://www.chunqiuyiyu.com/css-centering-explorer/)
 - [GRID cheat sheet ](http://grid.malven.co/)
 - [FLEX cheat sheet ](http://flexbox.malven.co/)
@@ -106,7 +106,7 @@
 
 ***
 <a name="library"></a>
-## 8. Libraries
+## 8. Libraries :book:
 ### Table of Contents 
 1. [ Sliders, Carousels, Lightboxes ](#sliders)
 2. [ Alerts and notifications ](#alerts)
@@ -182,7 +182,7 @@
 
 ***
 <a name="info"></a>
-## 9. Info
+## 9. Info :information_source:
 - [commonly used language features in a side-by-side format ](http://hyperpolyglot.org/)
 - [101 LINQ samples ](https://code.msdn.microsoft.com/101-LINQ-Samples-3fb9811b)
 - [W3C cheat sheet ](https://www.w3.org/2009/cheatsheet/)
