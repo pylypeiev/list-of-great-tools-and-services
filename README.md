@@ -17,9 +17,10 @@
 - [HTML validator](https://validator.w3.org/)
 - [CSS validator](https://csstree.github.io/docs/validator.html)
 - [Link checker](https://validator.w3.org/checklink)
+- [Autoprefixer ONLINE](https://autoprefixer.github.io/)
 - [Test a website's performance](https://www.webpagetest.org/)
 - [Googles Mobile friendly tester](https://search.google.com/test/mobile-friendly)
-
+- [Scan headers of web site](https://securityheaders.com/)
 ***
 <a name="tools"></a>
 ## 2. Tools :hammer:
@@ -31,7 +32,7 @@
 - [MINIFY JAVASCRIPT OR CSS CODE ](https://www.minifier.org/)
 - [C# online IDE ](https://repl.it/repls/LastHorizontalMegabyte)
 - [Beautiful images of your source code ](https://carbon.now.sh/)
-
+- [PNG and JPEG compression ](https://tinypng.com/)
 ***
 <a name="generators"></a>
 ## 3. Code generators :computer:
@@ -41,6 +42,9 @@
 - [Text shadow generator ](https://cssgenerator.org/text-shadow-css-generator.html)
 - [Transform css generator ](https://html-css-js.com/css/generator/transform/)
 - [Fancy border radius generator ](https://9elements.github.io/fancy-border-radius)
+- [CSS Gradients generator ](https://shapy.app/)
+- [CSS Animations generator ](http://animista.net/)
+- [CSS Animations generator ](http://bouncejs.com/)
 
 ***
 <a name="colors"></a>
@@ -51,6 +55,7 @@
 - [Cool HUE ](https://webkul.github.io/coolhue/)
 - [CSS gradient ](http://www.ourownthing.co.uk/gradpad.html)
 - [CSS gradient ](https://cssgradient.io/)
+- [CSS gradient ](https://www.grabient.com/)
 - [CSS Patterns Gallery ](https://leaverou.github.io/css3patterns/)
 - [Automatic UI Color Palette Generator ](https://palx.jxnblk.com/)
 - [Palette generator ](https://learnui.design/tools/data-color-picker.html)
@@ -79,6 +84,9 @@
 - [Border transitions ](https://codepen.io/giana/pen/yYBpVY)
 - [Button hover effect ](https://codepen.io/ViktorKorolyuk/pen/GYGwpv)
 - [10 hover effects ](https://codepen.io/caraujo/pen/VYOjNM)
+- [Input Focus & Placeholder Effects with CSS3 ](https://codepen.io/Mestika/pen/EKRoeB)
+- [Modern devices in pure CSS ](https://picturepan2.github.io/devices.css/)
+- [4 Loaders ](https://codepen.io/AlexWarnes/pen/jXYYKL)
 
 ***
 <a name="api"></a>
@@ -88,6 +96,7 @@
 - [Get placeholder images ](https://placeholder.com/)
 - [API Directory ](https://www.programmableweb.com/category/all/apis)
 - [Public APIs ](https://github.com/toddmotto/public-apis)
+- [Israel government public APIs ](https://data.gov.il/)
 
 ***
 <a name="tip"></a>
@@ -163,6 +172,7 @@
   - [Form validation ](http://parsleyjs.org/)
   - [Split words and charts ](https://splitting.js.org/)
   - [.NET implementation of the GNU/Gettext library ](https://github.com/neris/NGettext)
+  - [Simple autocomplete pure vanilla JS library ](https://tarekraafat.github.io/autoComplete.js/#/)
 
 <a name="numbers"></a>
 #### Time and numbers :date:
@@ -192,6 +202,13 @@
 - [Angular Developer Roadmap ](https://github.com/sulco/angular-developer-roadmap)
 - [Can I Use ](https://caniuse.com/)
 - [33 Concepts Every JavaScript Developer Should Know ](https://github.com/leonardomso/33-js-concepts)
-- [Visualising data structures and algorithms through animation ](https://visualgo.net/en)
+- [Visualizing data structures and algorithms through animation ](https://visualgo.net/en)
 - [A tool for visualizing Execution Context, Hoisting, Closures, and Scopes in JavaScript ](https://tylermcginnis.com/javascript-visualizer/)
 - [JavaScript The Right Way ](http://jstherightway.org/)
+- [The Ultimate Guide to Learning CSS ](https://zendev.com/ultimate-guide-to-learning-css.html)
+- [Info about devices viewport,width etc. ](https://www.mydevice.io/)
+- [A complete collection of web safe CSS font stacks ](https://www.cssfontstack.com/)
+- [CSS animations easing functions visualizer ](https://easings.net/)
+- [List of HTML elements and attributes ](https://htmlreference.io/)
+- [A list of everything that could go in the HEAD of HTML document ](https://gethead.info/)
+- [Front-End Performance Checklist ](https://github.com/thedaviddias/Front-End-Performance-Checklist)
