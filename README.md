@@ -87,6 +87,7 @@
 - [Input Focus & Placeholder Effects with CSS3 ](https://codepen.io/Mestika/pen/EKRoeB)
 - [Modern devices in pure CSS ](https://picturepan2.github.io/devices.css/)
 - [4 Loaders ](https://codepen.io/AlexWarnes/pen/jXYYKL)
+- [Jump and Slide Loader ](http://nisnom.com/veb-razrabotki/jump-and-slide/)
 
 ***
 <a name="api"></a>
