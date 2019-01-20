@@ -45,6 +45,7 @@
 - [CSS Gradients generator ](https://shapy.app/)
 - [CSS Animations generator ](http://animista.net/)
 - [CSS Animations generator ](http://bouncejs.com/)
+- [CSS Clip-path maker ](https://bennettfeely.com/clippy/)
 
 ***
 <a name="colors"></a>
