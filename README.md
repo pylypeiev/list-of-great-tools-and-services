@@ -65,6 +65,7 @@
 - [SVG backgrounds ](http://www.heropatterns.com/)
 - [Color names ](http://colours.neilorangepeel.com/)
 - [Color thief ](https://lokeshdhakar.com/projects/color-thief/)
+- [Color Palette Generator ](https://colorkoala.xyz/)
 
 ***
 <a name="css"></a>
