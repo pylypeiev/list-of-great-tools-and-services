@@ -46,6 +46,11 @@
 - [CSS Animations generator ](http://animista.net/)
 - [CSS Animations generator ](http://bouncejs.com/)
 - [CSS Clip-path maker ](https://bennettfeely.com/clippy/)
+- [CSS3 Generator ](http://css3generator.com/)
+- [Button generator ](https://www.bestcssbuttongenerator.com/)
+- [Wait animate animation generator ](httpshttp://waitanimate.wstone.io/#!/)
+
+
 
 ***
 <a name="colors"></a>
