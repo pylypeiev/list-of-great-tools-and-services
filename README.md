@@ -48,7 +48,7 @@
 - [CSS Clip-path maker ](https://bennettfeely.com/clippy/)
 - [CSS3 Generator ](http://css3generator.com/)
 - [Button generator ](https://www.bestcssbuttongenerator.com/)
-- [Wait animate animation generator ](httpshttp://waitanimate.wstone.io/#!/)
+- [Wait animate animation generator ](http://waitanimate.wstone.io/#!/)
 
 
 
