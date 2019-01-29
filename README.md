@@ -33,6 +33,7 @@
 - [C# online IDE ](https://repl.it/repls/LastHorizontalMegabyte)
 - [Beautiful images of your source code ](https://carbon.now.sh/)
 - [PNG and JPEG compression ](https://tinypng.com/)
+- [SVG compression ](https://jakearchibald.github.io/svgomg/)
 ***
 <a name="generators"></a>
 ## 3. Code generators :computer:
