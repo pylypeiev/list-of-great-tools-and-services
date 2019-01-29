@@ -14,10 +14,10 @@
 
 <a name="validators"></a>
 ## 1. Testers and Validators :bug:
-- [HTML validator](https://validator.w3.org/)
-- [CSS validator](https://csstree.github.io/docs/validator.html)
-- [Link checker](https://validator.w3.org/checklink)
-- [Autoprefixer ONLINE](https://autoprefixer.github.io/)
+- [HTML validator](https://validator.w3.org/){:target="_blank"}
+- [CSS validator](https://csstree.github.io/docs/validator.html){:target="_blank"}
+- [Link checker](https://validator.w3.org/checklink){:target="_blank"}
+- [Autoprefixer ONLINE](https://autoprefixer.github.io/){:target="_blank"}
 - [Test a website's performance](https://www.webpagetest.org/)
 - [Googles Mobile friendly tester](https://search.google.com/test/mobile-friendly)
 - [Scan headers of web site](https://securityheaders.com/)
