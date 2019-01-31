@@ -73,6 +73,8 @@
 - [Color names ](http://colours.neilorangepeel.com/)
 - [Color thief ](https://lokeshdhakar.com/projects/color-thief/)
 - [Color Palette Generator ](https://colorkoala.xyz/)
+- [LOL Colors palette inspiration ](https://www.webdesignrankings.com/resources/lolcolors/)
+- [Color Palettes for Designers and Artists](https://colorhunt.co/)
 
 ***
 <a name="css"></a>
