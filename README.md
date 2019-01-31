@@ -25,6 +25,7 @@
 <a name="tools"></a>
 ## 2. Tools :hammer:
 - [Lorem Ipsum ](https://www.lipsum.com/)
+- [Lorem Ipsum Generator](https://www.webfx.com/tools/lorem-ipsum-generator/)
 - [DRAW.IO Create diagrams ](https://www.draw.io/)
 - [JSON formatter and validator ](https://jsonformatter.curiousconcept.com/)
 - [JSON generator ](https://www.json-generator.com/)
