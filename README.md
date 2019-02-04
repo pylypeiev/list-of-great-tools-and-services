@@ -75,6 +75,8 @@
 - [Color Palette Generator ](https://colorkoala.xyz/)
 - [LOL Colors palette inspiration ](https://www.webdesignrankings.com/resources/lolcolors/)
 - [Color Palettes for Designers and Artists](https://colorhunt.co/)
+- [Material Design Color Palette Generator](https://www.materialpalette.com/)
+- [Coolors color schemes](https://coolors.co/browser/latest/1)
 
 ***
 <a name="css"></a>
