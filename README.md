@@ -199,6 +199,7 @@
   - [Some CSS classes to move your DOM ](https://elrumordelaluz.github.io/csshake/)
   - [Magic animation ](https://www.minimamente.com/example/magic_animations/)
   - [MicronJS animate via data attribute ](https://webkul.github.io/micron/)
+  - [Hover.css  ](http://ianlunn.github.io/Hover/)
 
 <a name="uploads"></a>
 #### Uploads :open_file_folder:
