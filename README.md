@@ -187,6 +187,7 @@
   - [Split words and charts ](https://splitting.js.org/)
   - [.NET implementation of the GNU/Gettext library ](https://github.com/neris/NGettext)
   - [Simple autocomplete pure vanilla JS library ](https://tarekraafat.github.io/autoComplete.js/#/)
+  - [animate typing utility ](https://typeitjs.com/)
 
 <a name="numbers"></a>
 #### Time and numbers :date:
