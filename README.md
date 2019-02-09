@@ -111,6 +111,7 @@
 - [API Directory ](https://www.programmableweb.com/category/all/apis)
 - [Public APIs ](https://github.com/toddmotto/public-apis)
 - [Israel government public APIs ](https://data.gov.il/)
+- [Amazing list of Public APIs ](https://public-apis.xyz/)
 
 ***
 <a name="tip"></a>
@@ -201,6 +202,7 @@
   - [Magic animation ](https://www.minimamente.com/example/magic_animations/)
   - [MicronJS animate via data attribute ](https://webkul.github.io/micron/)
   - [Hover.css  ](http://ianlunn.github.io/Hover/)
+  - [Anime JS  ](https://animejs.com/)
 
 <a name="uploads"></a>
 #### Uploads :open_file_folder:
