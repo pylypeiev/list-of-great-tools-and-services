@@ -127,6 +127,7 @@
 - [HTML cheat sheet ](https://htmlcheatsheet.com/)
 - [A quick reminder of all SQL queries ](https://github.com/enochtangg/quick-SQL-cheatsheet)
 - [CSS Helper ](https://lesson-web.ru/modules/css_helper)
+- [The history of any GitHub file ](https://githistory.xyz/)
 
 ***
 <a name="library"></a>
