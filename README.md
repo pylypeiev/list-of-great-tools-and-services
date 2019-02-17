@@ -114,6 +114,7 @@
 - [Public APIs ](https://github.com/toddmotto/public-apis)
 - [Israel government public APIs ](https://data.gov.il/)
 - [Amazing list of Public APIs ](https://public-apis.xyz/)
+- [httpbin(1): HTTP Request & Response Service ](https://httpbin.davecheney.com/)
 
 ***
 <a name="tip"></a>
