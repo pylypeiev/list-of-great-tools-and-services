@@ -235,3 +235,4 @@
 - [A list of everything that could go in the HEAD of HTML document ](https://gethead.info/)
 - [Front-End Performance Checklist ](https://github.com/thedaviddias/Front-End-Performance-Checklist)
 - [find the cost of adding a npm package to your bundle ](https://bundlephobia.com/)
+- [the most popular CSS properties ](https://cssreference.io/)
