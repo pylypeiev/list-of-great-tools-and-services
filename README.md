@@ -131,6 +131,7 @@
 - [A quick reminder of all SQL queries ](https://github.com/enochtangg/quick-SQL-cheatsheet)
 - [CSS Helper ](https://lesson-web.ru/modules/css_helper)
 - [The history of any GitHub file ](https://githistory.xyz/)
+- [CSS selectors :nth Tester ](https://css-tricks.com/examples/nth-child-tester/)
 
 ***
 <a name="library"></a>
