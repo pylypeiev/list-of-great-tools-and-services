@@ -116,6 +116,7 @@
 - [Israel government public APIs ](https://data.gov.il/)
 - [Amazing list of Public APIs ](https://public-apis.xyz/)
 - [httpbin(1): HTTP Request & Response Service ](https://httpbin.davecheney.com/)
+- [API Marketplace - Free Public & Open Rest APIs | RapidAPI ](https://rapidapi.com/)
 
 ***
 <a name="tip"></a>
