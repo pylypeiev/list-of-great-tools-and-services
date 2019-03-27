@@ -36,6 +36,9 @@
 - [PNG and JPEG compression ](https://tinypng.com/)
 - [SVG compression ](https://jakearchibald.github.io/svgomg/)
 - [SQL Tables Generator ](https://editor.datatables.net/generator/)
+- [The Mailto Link Generator ](https://mailtolink.me/)
+- [JavaScript Obfuscator Tool ](https://obfuscator.io/)
+
 ***
 <a name="generators"></a>
 ## 3. Code generators :computer:
