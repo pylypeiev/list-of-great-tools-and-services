@@ -55,7 +55,8 @@
 - [CSS3 Generator ](http://css3generator.com/)
 - [Button generator ](https://www.bestcssbuttongenerator.com/)
 - [Wait animate animation generator ](http://waitanimate.wstone.io/#!/)
-
+- [Image Slider Maker - Free Generator Tool ](https://imageslidermaker.com/v2)
+- [css arrow please ](http://www.cssarrowplease.com/)
 
 
 ***
@@ -243,3 +244,4 @@
 - [find the cost of adding a npm package to your bundle ](https://bundlephobia.com/)
 - [the most popular CSS properties ](https://cssreference.io/)
 - [Simple CSS Media Query Builder and more tools ](https://simplecss.eu/)
+- [Awesome c#: A curated list of awesome C-Sharp frameworks, libraries and software. ](https://github.com/uhub/awesome-c-sharp)
