@@ -183,6 +183,7 @@
 #### Data :date:
   - [D3 Data-Driven Documents ](https://d3js.org/)
   - [Charts ](https://www.chartjs.org/)
+  - [Chart Image from URL ](https://quickchart.io)
 
 <a name="utilities"></a>
 #### Utilities :wrench:
