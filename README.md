@@ -205,6 +205,7 @@
 #### Time and numbers :date:
   - [Parse, validate, manipulate, and display dates and times ](http://momentjs.com/)
   - [ODOMETER numbers ](https://github.hubspot.com/odometer/docs/welcome/)
+  - [AutoNumeric.js ](http://autonumeric.org/examples)
 
 <a name="animation"></a>
 #### Animation :dizzy:
