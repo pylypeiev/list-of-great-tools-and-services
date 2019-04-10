@@ -38,6 +38,7 @@
 - [SQL Tables Generator ](https://editor.datatables.net/generator/)
 - [The Mailto Link Generator ](https://mailtolink.me/)
 - [JavaScript Obfuscator Tool ](https://obfuscator.io/)
+- [Online Regular Expression Testing ](http://www.regexplanet.com/)
 
 ***
 <a name="generators"></a>
