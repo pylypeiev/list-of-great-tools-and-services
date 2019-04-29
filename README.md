@@ -103,24 +103,68 @@
 
 <a name="css1"></a>
 #### Icons and Symbols :symbols:
+- [ Css Icons ](https://cssicon.space/#/)
+- [ Unicode Codepoint Chart ](http://inamidst.com/stuff/unidata/)
+- [ Favicon Generator ](https://realfavicongenerator.net/)
+- [ Free Icons SVG, PNG, ICO or ICNS ](https://icon-icons.com/)
+- [ Linea: a free outline iconset ](http://linea.io/)
+- [ SVG logos ](https://svgporn.com/)
+- [ Icons in SVG ](https://iconsvg.xyz/)
 
 <a name="css2"></a>
 #### Buttons :radio_button:
+- [ Flippin' burgers ](https://codepen.io/ainalem/pen/LJYRxz/)
+- [ Nice gradient effect](https://nisnom.com/veb-razrabotki/knopka-s-krasivym-effektom-i-gradientnym-svecheniem-pri-navedenii/)
+- [ Links/Buttons Animations ](https://codepen.io/Rawnly/pen/qQLvKO)
+- [ Pure CSS Toggle Buttons / ON-OFF Switches ](https://nisnom.com/veb-razrabotki/pure-css-toggle-buttons-on-off-switches/)
+- [ CSS button hover ](https://codepen.io/Danil89/pen/MzrEdX)
+- [ Button hover animation ](https://codepen.io/Danil89/pen/KvKRyG)
+- [ Download button](https://codepen.io/html5book/pen/QKLLkW)
 
 <a name="css3"></a>
-#### Buttons :loop:
+#### Hover Effects :loop:
+- [ Circular Ripple Hover Effect on Button ](https://nisnom.com/veb-razrabotki/circular-ripple-hover-effect-on-button/)
+- [ CSS Border Transitions ](https://codepen.io/giana/pen/yYBpVY)
+- [ 10 stylish hover effects with less ](https://codepen.io/caraujo/pen/VYOjNM)
+- [ Circular Ripple Hover Effect on Button ](https://codepen.io/ViktorKorolyuk/pen/GYGwpv)
+- [ Custom Cursor Effects ](https://tympanus.net/codrops/2019/01/31/custom-cursor-effects/)
+- [ SVG Animation ](https://codepen.io/seanmccaffery/pen/xBpbG)
+- [ CSS snippets large pack ](https://emilkowalski.github.io/css-effects-snippets/)
+- [ Images Hover Animations ](https://codepen.io/melnik909/pen/QgPpeg)
 
 <a name="css4"></a>
 #### Checkboxes :heavy_check_mark:
+- [ Delightful Checkbox Animation ](https://codepen.io/dylanraga/pen/Qwqbab)
+- [ Pencil and Paper Checkboxes ](https://nisnom.com/veb-razrabotki/pencil-and-paper-checkboxes/)
 
 <a name="css5"></a>
 #### Loaders :running:
+- [ squares loader ](https://codepen.io/poziomq/pen/bwQmYG)
+- [ Escalade Loader ](https://codepen.io/ykadosh/pen/PxvbYQ)
+- [ CSS Loading Animations ](https://codepen.io/AlexWarnes/pen/jXYYKL)
+- [ Jump and Slide ](https://nisnom.com/veb-razrabotki/jump-and-slide/)
+- [ CSS Dash Loader  ](https://nisnom.com/veb-razrabotki/css-dash-loader/)
+- [ CSS3 Loading animations ](https://codepen.io/Manoz/pen/pydxK)
+- [ SVG Loading Images ](https://codepen.io/aurer/pen/jEGbA)
+- [ TRON Spinner ](https://codepen.io/simurai/pen/crieh)
+- [ Loader ](https://codepen.io/dev_loop/pen/VNyBrG)
+- [ Gooey Loader ](https://nisnom.com/veb-razrabotki/gooey-loader-1/)
 
 <a name="css6"></a>
 #### Dom effects :house:
+- [ Pulse effect ](https://codepen.io/MrBandaruk/pen/NzdNyM)
+- [ CSS Text Shadows ](https://freebiesupply.com/blog/css-text-shadows/)
+- [ Jumping Animation ](https://codepen.io/WhiteWolfWizard/pen/vHCys)
+- [ Input Focus & Placeholder Effects](https://codepen.io/Mestika/pen/EKRoeB)
+- [ Moving Underline Nav Menu ](https://codepen.io/bennettfeely/pen/MxOrLO)
+- [ Pure Css Accordion Menu](https://codepen.io/anzjoy/pen/bahAv)
+- [ Pure CSS Tabs ](https://codepen.io/wallaceerick/pen/ojtal)
+- [ Without JavaScript Carousel ](https://codepen.io/koheishingai/pen/uKvJF)
 
 <a name="css7"></a>
 #### Nice to have effects :notebook:
+- [ CSS 3D floating Credit Card! ](https://codepen.io/kivanfan/pen/BGxXKR)
+
 
 ***
 <a name="api"></a>
