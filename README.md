@@ -89,26 +89,38 @@
 ***
 <a name="css"></a>
 ## 5. CSS nice effects :collision:
-- [Checkbox ](https://codepen.io/dylanraga/pen/Qwqbab)
-- [Pulse div ](https://codepen.io/MrBandaruk/pen/NzdNyM)
-- [Buttons flipping](https://codepen.io/ainalem/pen/LJYRxz/)
-- [Button hover effect ](http://nisnom.com/veb-razrabotki/knopka-s-krasivym-effektom-i-gradientnym-svecheniem-pri-navedenii/)
-- [Buttons hover effect ](http://nisnom.com/veb-razrabotki/knopka-s-krasivym-effektom-i-gradientnym-svecheniem-pri-navedenii/)
-- [Button\Link hover effect](https://codepen.io/Rawnly/pen/qQLvKO)
-- [Border animations ](https://freefrontend.com/css-border-animations/?ref=webdesignernews.com)
-- [The Shapes of CSS ](https://css-tricks.com/the-shapes-of-css/)
-- [Loader squares ](https://codepen.io/poziomq/pen/bwQmYG)
-- [Shapes generated with CSS background gradients ](https://codepen.io/yuanchuan/full/vVRKRQ/)
-- [Text shadows ](https://freebiesupply.com/blog/css-text-shadows/)
-- [3D credit card ](https://codepen.io/kivanfan/pen/BGxXKR)
-- [Loader escalade ](https://codepen.io/ykadosh/pen/PxvbYQ)
-- [Border transitions ](https://codepen.io/giana/pen/yYBpVY)
-- [Button hover effect ](https://codepen.io/ViktorKorolyuk/pen/GYGwpv)
-- [10 hover effects ](https://codepen.io/caraujo/pen/VYOjNM)
-- [Input Focus & Placeholder Effects with CSS3 ](https://codepen.io/Mestika/pen/EKRoeB)
-- [Modern devices in pure CSS ](https://picturepan2.github.io/devices.css/)
-- [4 Loaders ](https://codepen.io/AlexWarnes/pen/jXYYKL)
-- [Jump and Slide Loader ](http://nisnom.com/veb-razrabotki/jump-and-slide/)
+1. [ Icons and Symbols ](#css1)
+2. [ Buttons ](#css2)
+3. [ Hover Effects ](#css3)
+4. [ Checkboxes ](#css4)
+5. [ Loaders ](#css5)
+6. [ Dom effects ](#css6)
+7. [ Nice to have effects ](#css7)
+
+- [ The Shapes of CSS ](https://css-tricks.com/the-shapes-of-css/)
+- [ Shapes generated with CSS background gradients ](https://codepen.io/yuanchuan/full/vVRKRQ/)
+
+
+<a name="css1"></a>
+#### Icons and Symbols :symbols:
+
+<a name="css2"></a>
+#### Buttons :radio_button:
+
+<a name="css3"></a>
+#### Buttons :loop:
+
+<a name="css4"></a>
+#### Checkboxes :heavy_check_mark:
+
+<a name="css5"></a>
+#### Loaders :running:
+
+<a name="css6"></a>
+#### Dom effects :house:
+
+<a name="css7"></a>
+#### Nice to have effects :notebook:
 
 ***
 <a name="api"></a>
