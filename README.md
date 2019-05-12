@@ -99,7 +99,7 @@
 
 - [ The Shapes of CSS ](https://css-tricks.com/the-shapes-of-css/)
 - [ Shapes generated with CSS background gradients ](https://codepen.io/yuanchuan/full/vVRKRQ/)
-
+- [ Beautifully simple click-to-copy CSS effects ](https://cssfx.dev/)
 
 <a name="css1"></a>
 #### Icons and Symbols :symbols:
@@ -305,3 +305,4 @@
 - [Simple CSS Media Query Builder and more tools ](https://simplecss.eu/)
 - [Awesome c#: A curated list of awesome C-Sharp frameworks, libraries and software. ](https://github.com/uhub/awesome-c-sharp)
 - [PXtoEM.com PX to EM ](http://pxtoem.com/)
+- [534 ways to reload the page with JavaScript ](http://www.phpied.com/files/location-location/location-location.html)
