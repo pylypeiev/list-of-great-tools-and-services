@@ -97,6 +97,7 @@
 6. [ Dom effects ](#css6)
 7. [ Nice to have effects ](#css7)
 
+- [ Normalize CSS ](https://github.com/necolas/normalize.css/blob/master/normalize.css)
 - [ The Shapes of CSS ](https://css-tricks.com/the-shapes-of-css/)
 - [ Shapes generated with CSS background gradients ](https://codepen.io/yuanchuan/full/vVRKRQ/)
 - [ Beautifully simple click-to-copy CSS effects ](https://cssfx.dev/)
