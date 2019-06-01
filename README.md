@@ -180,6 +180,8 @@
 - [Amazing list of Public APIs ](https://public-apis.xyz/)
 - [httpbin(1): HTTP Request & Response Service ](https://httpbin.davecheney.com/)
 - [API Marketplace - Free Public & Open Rest APIs | RapidAPI ](https://rapidapi.com/)
+- [A collective list of free APIs for use in software and web development. ](https://github.com/toddmotto/public-apis?fbclid=IwAR0wuDA0FEcj-v6gMiJSKE3op0XJxV8oGKOF6usz--GcqEDss9KiARQwlvg)
+- [Any API ](https://any-api.com/?fbclid=IwAR3j5HzIV07CV5X9rAMwGhRareqNfZ8QuRlQ8SwyaTnm8F-qw0NAiarNjyc)
 
 ***
 <a name="tip"></a>
