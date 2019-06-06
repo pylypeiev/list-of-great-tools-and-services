@@ -89,6 +89,7 @@
 - [Color - Cloudflare Design](https://cloudflare.design/color/)
 - [Get Color ](http://getcolor.ru)
 - [Find perfect palettes from delicious pictures](https://colorkitty.com/)
+- [Random Color Picker](https://www.webfx.com/web-design/random-color-picker/)
 
 ***
 <a name="css"></a>
