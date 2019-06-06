@@ -39,6 +39,7 @@
 - [The Mailto Link Generator ](https://mailtolink.me/)
 - [JavaScript Obfuscator Tool ](https://obfuscator.io/)
 - [Online Regular Expression Testing ](http://www.regexplanet.com/)
+- [Typetura a fluid type setting tool ](https://typetura.com/)
 
 ***
 <a name="generators"></a>
@@ -87,6 +88,7 @@
 - [A color tool for finding lighter and darker colors based on any color](http://www.0to255.com/)
 - [Color - Cloudflare Design](https://cloudflare.design/color/)
 - [Get Color ](http://getcolor.ru)
+- [Find perfect palettes from delicious pictures](https://colorkitty.com/)
 
 ***
 <a name="css"></a>
