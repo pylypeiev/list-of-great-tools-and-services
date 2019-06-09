@@ -61,6 +61,7 @@
 - [css arrow please ](http://www.cssarrowplease.com/)
 - [The Ultimate CSS Generator ](https://webcode.tools/css-generator)
 - [CSS Grid Generator ](https://cssgrid-generator.netlify.com/)
+- [On/Off FlipSwitch ](https://proto.io/freebies/onoff/)
 
 ***
 <a name="colors"></a>
