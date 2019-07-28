@@ -245,6 +245,8 @@
   - [Animate On Scroll Library ](https://michalsnik.github.io/aos/)
   - [Yet Another Lazy Loader ](https://github.com/malchata/yall.js)
   - [library for creating particles ](https://vincentgarreau.com/particles.js/)
+  - [Rallax dynamic parallax scrolling effect ](https://chriscavs.github.io/rallax-demo/)
+  - [Balloon.css — simple pure CSS tooltips  ](https://kazzkiq.github.io/balloon.css/)
 
 <a name="data"></a>
 #### Data :date:
