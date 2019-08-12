@@ -40,6 +40,7 @@
 - [JavaScript Obfuscator Tool ](https://obfuscator.io/)
 - [Online Regular Expression Testing ](http://www.regexplanet.com/)
 - [Typetura a fluid type setting tool ](https://typetura.com/)
+- [Web.Config Validator - Free checker for all .NET versions ](https://elmah.io/tools/configvalidator/)
 
 ***
 <a name="generators"></a>
