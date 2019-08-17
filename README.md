@@ -109,6 +109,7 @@
 - [ The Shapes of CSS ](https://css-tricks.com/the-shapes-of-css/)
 - [ Shapes generated with CSS background gradients ](https://codepen.io/yuanchuan/full/vVRKRQ/)
 - [ Beautifully simple click-to-copy CSS effects ](https://cssfx.dev/)
+- [ CSS WAND Easy Copy-Paste Beautiful CSS ](https://www.csswand.dev/)
 
 <a name="css1"></a>
 #### Icons and Symbols :symbols:
@@ -119,6 +120,7 @@
 - [ Linea: a free outline iconset ](http://linea.io/)
 - [ SVG logos ](https://svgporn.com/)
 - [ Icons in SVG ](https://iconsvg.xyz/)
+- [ Transformicons The Animated Icon Builder ](http://www.transformicons.com/builder.html)
 
 <a name="css2"></a>
 #### Buttons :radio_button:
@@ -129,6 +131,10 @@
 - [ CSS button hover ](https://codepen.io/Danil89/pen/MzrEdX)
 - [ Button hover animation ](https://codepen.io/Danil89/pen/KvKRyG)
 - [ Download button](https://codepen.io/html5book/pen/QKLLkW)
+- [ CSS Ripple Effect](https://codepen.io/html5book/pen/QKLLkW)
+- [ A Confusing Toggle Button](https://codepen.io/himalayasingh/pen/KLRNPr?utm_campaign=CSS%20Animation%20Weekly&utm_medium=email&utm_source=Revue%20newsletter)
+- [ Top 20 CSS Buttons + animations - DEV Community 👩‍💻👨‍💻](https://dev.to/webdeasy/top-20-css-buttons-animations-f41)
+- [ Amazing Button Hover [Responsive]](https://codepen.io/dev_loop/pen/agqYaN)
 
 <a name="css3"></a>
 #### Hover Effects :loop:
@@ -140,11 +146,15 @@
 - [ SVG Animation ](https://codepen.io/seanmccaffery/pen/xBpbG)
 - [ CSS snippets large pack ](https://emilkowalski.github.io/css-effects-snippets/)
 - [ Images Hover Animations ](https://codepen.io/melnik909/pen/QgPpeg)
+- [ hover effects for horizontal menu with icons ](https://codepen.io/datisleo/pen/ZZPoaJ)
+- [ CSS directionally aware buttons ✨😎 ](https://codepen.io/jh3y/pen/jjRezM)
+- [ hover icon effects social media ](https://codepen.io/berdiyev/pen/YzKwRWx)
 
 <a name="css4"></a>
 #### Checkboxes :heavy_check_mark:
 - [ Delightful Checkbox Animation ](https://codepen.io/dylanraga/pen/Qwqbab)
 - [ Pencil and Paper Checkboxes ](https://nisnom.com/veb-razrabotki/pencil-and-paper-checkboxes/)
+- [ Menu icon ](https://codepen.io/fromwireframes/pen/arMrYp)
 
 <a name="css5"></a>
 #### Loaders :running:
@@ -158,6 +168,10 @@
 - [ TRON Spinner ](https://codepen.io/simurai/pen/crieh)
 - [ Loader ](https://codepen.io/dev_loop/pen/VNyBrG)
 - [ Gooey Loader ](https://nisnom.com/veb-razrabotki/gooey-loader-1/)
+- [ CSS Truck Loader ](https://codepen.io/jo_Geek/pen/RQjJmJ)
+- [ Building a pure CSS animated SVG spinner ](https://glennmccomb.com/articles/building-a-pure-css-animated-svg-spinner)
+- [ Single Element Rainbow Pen Loader ](https://codepen.io/dariocorsi/pen/XvjrEN)
+- [ Epic Spinners ](https://epic-spinners.epicmax.co/#/)
 
 <a name="css6"></a>
 #### Dom effects :house:
@@ -168,11 +182,16 @@
 - [ Moving Underline Nav Menu ](https://codepen.io/bennettfeely/pen/MxOrLO)
 - [ Pure Css Accordion Menu](https://codepen.io/anzjoy/pen/bahAv)
 - [ Pure CSS Tabs ](https://codepen.io/wallaceerick/pen/ojtal)
-- [ Without JavaScript Carousel ](https://codepen.io/koheishingai/pen/uKvJF)
+- [ NO JS Carousel ](https://codepen.io/koheishingai/pen/uKvJF)
+- [ Typing Effect ](https://codepen.io/Coding_Journey/pen/BEMgbX)
+- [ Download button animation ](https://codepen.io/aaroniker/pen/KjJQER)
 
 <a name="css7"></a>
 #### Nice to have effects :notebook:
 - [ CSS 3D floating Credit Card! ](https://codepen.io/kivanfan/pen/BGxXKR)
+- [ Drag-n-drop sticky, with no JS! ](https://codepen.io/scottkellum/pen/eaXJJb)
+- [ Animated Progress Bar ](https://codepen.io/Thibaut/pen/ouKvy)
+- [ Reddit border inset challenge ](https://codepen.io/daviddarnes/pen/oEEqdp)
 
 
 ***
@@ -189,6 +208,7 @@
 - [API Marketplace - Free Public & Open Rest APIs | RapidAPI ](https://rapidapi.com/)
 - [A collective list of free APIs for use in software and web development. ](https://github.com/toddmotto/public-apis?fbclid=IwAR0wuDA0FEcj-v6gMiJSKE3op0XJxV8oGKOF6usz--GcqEDss9KiARQwlvg)
 - [Any API ](https://any-api.com/?fbclid=IwAR3j5HzIV07CV5X9rAMwGhRareqNfZ8QuRlQ8SwyaTnm8F-qw0NAiarNjyc)
+- [http://restcountries.eu/ ](REST Countries Get information about countries via a RESTful API)
 
 ***
 <a name="tip"></a>
@@ -319,3 +339,4 @@
 - [Awesome c#: A curated list of awesome C-Sharp frameworks, libraries and software. ](https://github.com/uhub/awesome-c-sharp)
 - [PXtoEM.com PX to EM ](http://pxtoem.com/)
 - [534 ways to reload the page with JavaScript ](http://www.phpied.com/files/location-location/location-location.html)
+- [Карта навыков и модель развития тимлидов ](https://github.com/tlbootcamp/tlroadmap)
