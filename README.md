@@ -1,7 +1,9 @@
 # List of great tools, services and **nice-to-have** bookmarks :exclamation:
+
 ### My list of great web tools and services for **programming and web development** :ok_hand:
 
-# Table of Contents 
+# Table of Contents
+
 1. [ Testers and Validators ](#validators)
 2. [ Tools ](#tools)
 3. [ Code generators ](#generators)
@@ -13,41 +15,50 @@
 9. [ Info ](#info)
 
 <a name="validators"></a>
-## 1. Testers and Validators :bug:
-- [HTML validator](https://validator.w3.org/)
-- [CSS validator](https://csstree.github.io/docs/validator.html)
-- [Link checker](https://validator.w3.org/checklink)
-- [Autoprefixer ONLINE](https://autoprefixer.github.io/)
-- [Test a website's performance](https://www.webpagetest.org/)
-- [Googles Mobile friendly tester](https://search.google.com/test/mobile-friendly)
-- [Scan headers of web site](https://securityheaders.com/)
-***
-<a name="tools"></a>
-## 2. Tools :hammer:
-- [Lorem Ipsum ](https://www.lipsum.com/)
-- [Lorem Ipsum Generator](https://www.webfx.com/tools/lorem-ipsum-generator/)
-- [DRAW.IO Create diagrams ](https://www.draw.io/)
-- [JSON formatter and validator ](https://jsonformatter.curiousconcept.com/)
-- [JSON generator ](https://www.json-generator.com/)
-- [JSON parser to any language ](https://app.quicktype.io/)
-- [MINIFY JAVASCRIPT OR CSS CODE ](https://www.minifier.org/)
-- [C# online IDE ](https://repl.it/repls/LastHorizontalMegabyte)
-- [Beautiful images of your source code ](https://carbon.now.sh/)
-- [PNG and JPEG compression ](https://tinypng.com/)
-- [SVG compression ](https://jakearchibald.github.io/svgomg/)
-- [SQL Tables Generator ](https://editor.datatables.net/generator/)
-- [The Mailto Link Generator ](https://mailtolink.me/)
-- [JavaScript Obfuscator Tool ](https://obfuscator.io/)
-- [Online Regular Expression Testing ](http://www.regexplanet.com/)
-- [Typetura a fluid type setting tool ](https://typetura.com/)
-- [Web.Config Validator - Free checker for all .NET versions ](https://elmah.io/tools/configvalidator/)
 
-***
+## 1. Testers and Validators :bug:
+
+- [ HTML validator](https://validator.w3.org/)
+- [ CSS validator](https://csstree.github.io/docs/validator.html)
+- [ Link checker](https://validator.w3.org/checklink)
+- [ Autoprefixer ONLINE](https://autoprefixer.github.io/)
+- [ Test a website's performance](https://www.webpagetest.org/)
+- [ Googles Mobile friendly tester](https://search.google.com/test/mobile-friendly)
+- [ Scan headers of web site](https://securityheaders.com/)
+
+---
+
+<a name="tools"></a>
+
+## 2. Tools :hammer:
+
+- [ Lorem Ipsum ](https://www.lipsum.com/)
+- [ Lorem Ipsum Generator](https://www.webfx.com/tools/lorem-ipsum-generator/)
+- [ DRAW.IO Create diagrams ](https://www.draw.io/)
+- [ JSON formatter and validator ](https://jsonformatter.curiousconcept.com/)
+- [ JSON generator ](https://www.json-generator.com/)
+- [ JSON parser to any language ](https://app.quicktype.io/)
+- [ MINIFY JAVASCRIPT OR CSS CODE ](https://www.minifier.org/)
+- [ C# online IDE ](https://repl.it/repls/LastHorizontalMegabyte)
+- [ Beautiful images of your source code ](https://carbon.now.sh/)
+- [ PNG and JPEG compression ](https://tinypng.com/)
+- [ SVG compression ](https://jakearchibald.github.io/svgomg/)
+- [ SQL Tables Generator ](https://editor.datatables.net/generator/)
+- [ The Mailto Link Generator ](https://mailtolink.me/)
+- [ JavaScript Obfuscator Tool ](https://obfuscator.io/)
+- [ Online Regular Expression Testing ](http://www.regexplanet.com/)
+- [ Typetura a fluid type setting tool ](https://typetura.com/)
+- [ Web.Config Validator - Free checker for all .NET versions ](https://elmah.io/tools/configvalidator/)
+
+---
+
 <a name="generators"></a>
+
 ## 3. Code generators :computer:
-- [FLEXBOX generator ](http://the-echoplex.net/flexyboxes/)
-- [GRID generator ](https://www.layoutit.com/grid)
-- [Box shadow generator ](https://html-css-js.com/css/generator/box-shadow/)
+
+- [ FLEXBOX generator ](http://the-echoplex.net/flexyboxes/)
+- [ GRID generator ](https://www.layoutit.com/grid)
+- [ Box shadow generator ](https://html-css-js.com/css/generator/box-shadow/)
 - [Text shadow generator ](https://cssgenerator.org/text-shadow-css-generator.html)
 - [Transform css generator ](https://html-css-js.com/css/generator/transform/)
 - [Fancy border radius generator ](https://9elements.github.io/fancy-border-radius)
@@ -65,9 +76,12 @@
 - [On/Off FlipSwitch ](https://proto.io/freebies/onoff/)
 - [CSS3 Box Shadow Generator ](https://css3gen.com/box-shadow/)
 
-***
+---
+
 <a name="colors"></a>
+
 ## 4. Backgrounds and Palettes :crystal_ball:
+
 - [Gradients ](https://uigradients.com)
 - [Flat UI colors ](https://flatuicolors.com/)
 - [CSS gradient generator ](https://www.css-gradient.com/)
@@ -94,9 +108,12 @@
 - [Find perfect palettes from delicious pictures](https://colorkitty.com/)
 - [Random Color Picker](https://www.webfx.com/web-design/random-color-picker/)
 
-***
+---
+
 <a name="css"></a>
+
 ## 5. CSS nice effects :collision:
+
 1. [ Icons and Symbols ](#css1)
 2. [ Buttons ](#css2)
 3. [ Hover Effects ](#css3)
@@ -112,7 +129,9 @@
 - [ CSS WAND Easy Copy-Paste Beautiful CSS ](https://www.csswand.dev/)
 
 <a name="css1"></a>
+
 #### Icons and Symbols :symbols:
+
 - [ Css Icons ](https://cssicon.space/#/)
 - [ Unicode Codepoint Chart ](http://inamidst.com/stuff/unidata/)
 - [ Favicon Generator ](https://realfavicongenerator.net/)
@@ -123,7 +142,9 @@
 - [ Transformicons The Animated Icon Builder ](http://www.transformicons.com/builder.html)
 
 <a name="css2"></a>
+
 #### Buttons :radio_button:
+
 - [ Flippin' burgers ](https://codepen.io/ainalem/pen/LJYRxz/)
 - [ Nice gradient effect](https://nisnom.com/veb-razrabotki/knopka-s-krasivym-effektom-i-gradientnym-svecheniem-pri-navedenii/)
 - [ Links/Buttons Animations ](https://codepen.io/Rawnly/pen/qQLvKO)
@@ -137,7 +158,9 @@
 - [ Amazing Button Hover [Responsive]](https://codepen.io/dev_loop/pen/agqYaN)
 
 <a name="css3"></a>
+
 #### Hover Effects :loop:
+
 - [ Circular Ripple Hover Effect on Button ](https://nisnom.com/veb-razrabotki/circular-ripple-hover-effect-on-button/)
 - [ CSS Border Transitions ](https://codepen.io/giana/pen/yYBpVY)
 - [ 10 stylish hover effects with less ](https://codepen.io/caraujo/pen/VYOjNM)
@@ -151,18 +174,22 @@
 - [ hover icon effects social media ](https://codepen.io/berdiyev/pen/YzKwRWx)
 
 <a name="css4"></a>
+
 #### Checkboxes :heavy_check_mark:
+
 - [ Delightful Checkbox Animation ](https://codepen.io/dylanraga/pen/Qwqbab)
 - [ Pencil and Paper Checkboxes ](https://nisnom.com/veb-razrabotki/pencil-and-paper-checkboxes/)
 - [ Menu icon ](https://codepen.io/fromwireframes/pen/arMrYp)
 
 <a name="css5"></a>
+
 #### Loaders :running:
+
 - [ squares loader ](https://codepen.io/poziomq/pen/bwQmYG)
 - [ Escalade Loader ](https://codepen.io/ykadosh/pen/PxvbYQ)
 - [ CSS Loading Animations ](https://codepen.io/AlexWarnes/pen/jXYYKL)
 - [ Jump and Slide ](https://nisnom.com/veb-razrabotki/jump-and-slide/)
-- [ CSS Dash Loader  ](https://nisnom.com/veb-razrabotki/css-dash-loader/)
+- [ CSS Dash Loader ](https://nisnom.com/veb-razrabotki/css-dash-loader/)
 - [ CSS3 Loading animations ](https://codepen.io/Manoz/pen/pydxK)
 - [ SVG Loading Images ](https://codepen.io/aurer/pen/jEGbA)
 - [ TRON Spinner ](https://codepen.io/simurai/pen/crieh)
@@ -174,7 +201,9 @@
 - [ Epic Spinners ](https://epic-spinners.epicmax.co/#/)
 
 <a name="css6"></a>
+
 #### Dom effects :house:
+
 - [ Pulse effect ](https://codepen.io/MrBandaruk/pen/NzdNyM)
 - [ CSS Text Shadows ](https://freebiesupply.com/blog/css-text-shadows/)
 - [ Jumping Animation ](https://codepen.io/WhiteWolfWizard/pen/vHCys)
@@ -187,32 +216,39 @@
 - [ Download button animation ](https://codepen.io/aaroniker/pen/KjJQER)
 
 <a name="css7"></a>
+
 #### Nice to have effects :notebook:
+
 - [ CSS 3D floating Credit Card! ](https://codepen.io/kivanfan/pen/BGxXKR)
 - [ Drag-n-drop sticky, with no JS! ](https://codepen.io/scottkellum/pen/eaXJJb)
 - [ Animated Progress Bar ](https://codepen.io/Thibaut/pen/ouKvy)
 - [ Reddit border inset challenge ](https://codepen.io/daviddarnes/pen/oEEqdp)
 
+---
 
-***
 <a name="api"></a>
-## 6. Public APIs :key:
-- [REQRES test  your AJAX requests ](https://reqres.in/)
-- [JSON placeholder ](https://jsonplaceholder.typicode.com/)
-- [Get placeholder images ](https://placeholder.com/)
-- [API Directory ](https://www.programmableweb.com/category/all/apis)
-- [Public APIs ](https://github.com/toddmotto/public-apis)
-- [Israel government public APIs ](https://data.gov.il/)
-- [Amazing list of Public APIs ](https://public-apis.xyz/)
-- [httpbin(1): HTTP Request & Response Service ](https://httpbin.davecheney.com/)
-- [API Marketplace - Free Public & Open Rest APIs | RapidAPI ](https://rapidapi.com/)
-- [A collective list of free APIs for use in software and web development. ](https://github.com/toddmotto/public-apis?fbclid=IwAR0wuDA0FEcj-v6gMiJSKE3op0XJxV8oGKOF6usz--GcqEDss9KiARQwlvg)
-- [Any API ](https://any-api.com/?fbclid=IwAR3j5HzIV07CV5X9rAMwGhRareqNfZ8QuRlQ8SwyaTnm8F-qw0NAiarNjyc)
-- [http://restcountries.eu/ ](REST Countries Get information about countries via a RESTful API)
 
-***
+## 6. Public APIs :key:
+
+- [ REQRES test your AJAX requests ](https://reqres.in/)
+- [ JSON placeholder ](https://jsonplaceholder.typicode.com/)
+- [ Get placeholder images ](https://placeholder.com/)
+- [ API Directory ](https://www.programmableweb.com/category/all/apis)
+- [ Public APIs ](https://github.com/toddmotto/public-apis)
+- [ Israel government public APIs ](https://data.gov.il/)
+- [ Amazing list of Public APIs ](https://public-apis.xyz/)
+- [ httpbin(1): HTTP Request & Response Service ](https://httpbin.davecheney.com/)
+- [ API Marketplace - Free Public & Open Rest APIs | RapidAPI ](https://rapidapi.com/)
+- [ A collective list of free APIs for use in software and web development. ](https://github.com/toddmotto/public-apis)
+- [ Any API ](https://any-api.com)
+- [ Countries Get information about countries via a RESTful API ](http://restcountries.euREST)
+
+---
+
 <a name="tip"></a>
+
 ## 7. Tips and tricks :older_man:
+
 - [CSS Centering Explorer ](https://www.chunqiuyiyu.com/css-centering-explorer/)
 - [GRID cheat sheet ](http://grid.malven.co/)
 - [FLEX cheat sheet ](http://flexbox.malven.co/)
@@ -227,10 +263,14 @@
 - [The history of any GitHub file ](https://githistory.xyz/)
 - [CSS selectors :nth Tester ](https://css-tricks.com/examples/nth-child-tester/)
 
-***
+---
+
 <a name="library"></a>
+
 ## 8. Libraries :book:
-### Table of Contents 
+
+### Table of Contents
+
 1. [ Sliders, Carousels, Lightboxes ](#sliders)
 2. [ Alerts and notifications ](#alerts)
 3. [ DOM effects ](#dom)
@@ -238,82 +278,103 @@
 5. [ Utilities ](#utilities)
 6. [ Text ](#text)
 7. [ Time and numbers ](#numbers)
-8. [ Animation  ](#animation)
+8. [ Animation ](#animation)
 9. [ Uploads ](#uploads)
 
 - [Search for type script npm packages ](https://microsoft.github.io/TypeSearch/)
 - [Angular 2+ Components & Libraries ](https://github.com/brillout/awesome-angular-components)
 
 <a name="sliders"></a>
+
 #### Sliders, Carousels, Lightboxes :framed_picture:
-  - [Simple slider ](http://ruyadorno.github.io/simple-slider/)
-  - [Slick carousel ](http://kenwheeler.github.io/slick/)
-  - [Image lightbox ](https://osvaldas.info/examples/image-lightbox-responsive-touch-friendly/)
-  - [Fancybox ](http://fancyapps.com/fancybox/3/)
-  - [Simple slider ](http://ruyadorno.github.io/simple-slider/)
-  - [Slick carousel ](http://kenwheeler.github.io/slick/)
+
+- [Simple slider ](http://ruyadorno.github.io/simple-slider/)
+- [Slick carousel ](http://kenwheeler.github.io/slick/)
+- [Image lightbox ](https://osvaldas.info/examples/image-lightbox-responsive-touch-friendly/)
+- [Fancybox ](http://fancyapps.com/fancybox/3/)
+- [Simple slider ](http://ruyadorno.github.io/simple-slider/)
+- [Slick carousel ](http://kenwheeler.github.io/slick/)
 
 <a name="alerts"></a>
+
 #### Alerts and notifications :speech_balloon:
-  - [Izitost notification plugin with no dependencies ](http://izitoast.marcelodolce.com/)
-  - [SweetAlert popup ](https://sweetalert2.github.io/)
+
+- [Izitost notification plugin with no dependencies ](http://izitoast.marcelodolce.com/)
+- [SweetAlert popup ](https://sweetalert2.github.io/)
 
 <a name="dom"></a>
+
 #### DOM effects :fire:
-  - [fullscreen background videos ](https://rishabhp.github.io/bideo.js/)
-  - [fluid and interactive gradient animations ](https://sarcadass.github.io/granim.js/index.html)
-  - [Animated spinners ](http://tobiasahlin.com/spinkit/)
-  - [Animate On Scroll Library ](https://michalsnik.github.io/aos/)
-  - [Yet Another Lazy Loader ](https://github.com/malchata/yall.js)
-  - [library for creating particles ](https://vincentgarreau.com/particles.js/)
-  - [Rallax dynamic parallax scrolling effect ](https://chriscavs.github.io/rallax-demo/)
-  - [Balloon.css — simple pure CSS tooltips  ](https://kazzkiq.github.io/balloon.css/)
+
+- [fullscreen background videos ](https://rishabhp.github.io/bideo.js/)
+- [fluid and interactive gradient animations ](https://sarcadass.github.io/granim.js/index.html)
+- [Animated spinners ](http://tobiasahlin.com/spinkit/)
+- [Animate On Scroll Library ](https://michalsnik.github.io/aos/)
+- [Yet Another Lazy Loader ](https://github.com/malchata/yall.js)
+- [library for creating particles ](https://vincentgarreau.com/particles.js/)
+- [Rallax dynamic parallax scrolling effect ](https://chriscavs.github.io/rallax-demo/)
+- [Balloon.css — simple pure CSS tooltips ](https://kazzkiq.github.io/balloon.css/)
 
 <a name="data"></a>
+
 #### Data :date:
-  - [D3 Data-Driven Documents ](https://d3js.org/)
-  - [Charts ](https://www.chartjs.org/)
-  - [Chart Image from URL ](https://quickchart.io)
+
+- [D3 Data-Driven Documents ](https://d3js.org/)
+- [Charts ](https://www.chartjs.org/)
+- [Chart Image from URL ](https://quickchart.io)
 
 <a name="utilities"></a>
+
 #### Utilities :wrench:
-  - [Random generator of strings and numbers ](http://chancejs.com/)
-  - [Validation library ](https://github.com/imbrn/v8n)
-  - [Credit Card input masking and validation ](https://github.com/nogorilla/angular-cc-library)
+
+- [Random generator of strings and numbers ](http://chancejs.com/)
+- [Validation library ](https://github.com/imbrn/v8n)
+- [Credit Card input masking and validation ](https://github.com/nogorilla/angular-cc-library)
 
 <a name="text"></a>
+
 #### Text :bookmark_tabs:
-  - [Highlight any text ](https://lumin.rocks/)
-  - [Typewriter effect library ](https://chriscavs.github.io/t-writer-demo/?utm_source=bypeople)
-  - [Auto complete  ](https://github.com/TarekRaafat/autoComplete.js)
-  - [Form validation ](http://parsleyjs.org/)
-  - [Split words and charts ](https://splitting.js.org/)
-  - [.NET implementation of the GNU/Gettext library ](https://github.com/neris/NGettext)
-  - [Simple autocomplete pure vanilla JS library ](https://tarekraafat.github.io/autoComplete.js/#/)
-  - [animate typing utility ](https://typeitjs.com/)
+
+- [Highlight any text ](https://lumin.rocks/)
+- [Typewriter effect library ](https://chriscavs.github.io/t-writer-demo/?utm_source=bypeople)
+- [Auto complete ](https://github.com/TarekRaafat/autoComplete.js)
+- [Form validation ](http://parsleyjs.org/)
+- [Split words and charts ](https://splitting.js.org/)
+- [.NET implementation of the GNU/Gettext library ](https://github.com/neris/NGettext)
+- [Simple autocomplete pure vanilla JS library ](https://tarekraafat.github.io/autoComplete.js/#/)
+- [animate typing utility ](https://typeitjs.com/)
 
 <a name="numbers"></a>
+
 #### Time and numbers :date:
-  - [Parse, validate, manipulate, and display dates and times ](http://momentjs.com/)
-  - [ODOMETER numbers ](https://github.hubspot.com/odometer/docs/welcome/)
-  - [AutoNumeric.js ](http://autonumeric.org/examples)
+
+- [Parse, validate, manipulate, and display dates and times ](http://momentjs.com/)
+- [ODOMETER numbers ](https://github.hubspot.com/odometer/docs/welcome/)
+- [AutoNumeric.js ](http://autonumeric.org/examples)
 
 <a name="animation"></a>
+
 #### Animation :dizzy:
-  - [Animate css ](https://daneden.github.io/animate.css/)
-  - [Some CSS classes to move your DOM ](https://elrumordelaluz.github.io/csshake/)
-  - [Magic animation ](https://www.minimamente.com/example/magic_animations/)
-  - [MicronJS animate via data attribute ](https://webkul.github.io/micron/)
-  - [Hover.css  ](http://ianlunn.github.io/Hover/)
-  - [Anime JS  ](https://animejs.com/)
+
+- [Animate css ](https://daneden.github.io/animate.css/)
+- [Some CSS classes to move your DOM ](https://elrumordelaluz.github.io/csshake/)
+- [Magic animation ](https://www.minimamente.com/example/magic_animations/)
+- [MicronJS animate via data attribute ](https://webkul.github.io/micron/)
+- [Hover.css ](http://ianlunn.github.io/Hover/)
+- [Anime JS ](https://animejs.com/)
 
 <a name="uploads"></a>
-#### Uploads :open_file_folder:
-  - [FilePond upload library ](https://pqina.nl/filepond/)
 
-***
+#### Uploads :open_file_folder:
+
+- [FilePond upload library ](https://pqina.nl/filepond/)
+
+---
+
 <a name="info"></a>
+
 ## 9. Info :information_source:
+
 - [commonly used language features in a side-by-side format ](http://hyperpolyglot.org/)
 - [101 LINQ samples ](https://code.msdn.microsoft.com/101-LINQ-Samples-3fb9811b)
 - [W3C cheat sheet ](https://www.w3.org/2009/cheatsheet/)
