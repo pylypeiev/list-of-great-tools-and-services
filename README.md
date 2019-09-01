@@ -199,6 +199,7 @@
 - [ Building a pure CSS animated SVG spinner ](https://glennmccomb.com/articles/building-a-pure-css-animated-svg-spinner)
 - [ Single Element Rainbow Pen Loader ](https://codepen.io/dariocorsi/pen/XvjrEN)
 - [ Epic Spinners ](https://epic-spinners.epicmax.co/#/)
+- [ Loader ](https://codepen.io/kathykato/pen/YzKGrqd)
 
 <a name="css6"></a>
 
