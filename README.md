@@ -398,7 +398,7 @@
 - [ find the cost of adding a npm package to your bundle ](https://bundlephobia.com/)
 - [ the most popular CSS properties ](https://cssreference.io/)
 - [ Simple CSS Media Query Builder and more tools ](https://simplecss.eu/)
-- [ Awesome c#: A curated list of awesome C-Sharp frameworks, libraries and software. ](https://github.com/uhub/awesome-c-sharp)
+- [ Awesome c#: A curated list of awesome frameworks, libraries and software. ](https://github.com/uhub/awesome-c-sharp)
 - [ PXtoEM.com PX to EM ](http://pxtoem.com/)
 - [ 534 ways to reload the page with JavaScript ](http://www.phpied.com/files/location-location/location-location.html)
 - [ Карта навыков и модель развития тимлидов ](https://github.com/tlbootcamp/tlroadmap)
