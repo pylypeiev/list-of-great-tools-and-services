@@ -99,14 +99,15 @@
 - [ Color thief ](https://lokeshdhakar.com/projects/color-thief/)
 - [ Color Palette Generator ](https://colorkoala.xyz/)
 - [ LOL Colors palette inspiration ](https://www.webdesignrankings.com/resources/lolcolors/)
-- [ Color Palettes for Designers and Artists](https://colorhunt.co/)
-- [ Material Design Color Palette Generator](https://www.materialpalette.com/)
-- [ Coolors color schemes](https://coolors.co/browser/latest/1)
-- [ A color tool for finding lighter and darker colors based on any color](http://www.0to255.com/)
-- [ Color - Cloudflare Design](https://cloudflare.design/color/)
+- [ Color Palettes for Designers and Artists ](https://colorhunt.co/)
+- [ Material Design Color Palette Generator ](https://www.materialpalette.com/)
+- [ Coolors color schemes ](https://coolors.co/browser/latest/1)
+- [ A color tool for finding lighter and darker colors based on any color ](http://www.0to255.com/)
+- [ Color - Cloudflare Design ](https://cloudflare.design/color/)
 - [ Get Color ](http://getcolor.ru)
-- [ Find perfect palettes from delicious pictures](https://colorkitty.com/)
-- [ Random Color Picker](https://www.webfx.com/web-design/random-color-picker/)
+- [ Find perfect palettes from delicious pictures ](https://colorkitty.com/)
+- [ Random Color Picker ](https://www.webfx.com/web-design/random-color-picker/)
+- [ Create SVG waves for your next design ](https://getwaves.io/)
 
 ---
 
