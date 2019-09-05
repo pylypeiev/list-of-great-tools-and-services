@@ -174,6 +174,7 @@
 - [ hover effects for horizontal menu with icons ](https://codepen.io/datisleo/pen/ZZPoaJ)
 - [ CSS directionally aware buttons ✨😎 ](https://codepen.io/jh3y/pen/jjRezM)
 - [ hover icon effects social media ](https://codepen.io/berdiyev/pen/YzKwRWx)
+- [ Button Hover Effects ](https://codepen.io/kjbrum/pen/wBBLXx)
 
 <a name="css4"></a>
 
