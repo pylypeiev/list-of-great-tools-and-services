@@ -203,6 +203,7 @@
 - [ Single Element Rainbow Pen Loader ](https://codepen.io/dariocorsi/pen/XvjrEN)
 - [ Epic Spinners ](https://epic-spinners.epicmax.co/#/)
 - [ Loader ](https://codepen.io/kathykato/pen/YzKGrqd)
+- [ Flat Preloader ](https://codepen.io/zerospree/pen/aCjAz)
 
 <a name="css6"></a>
 
