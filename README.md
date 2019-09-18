@@ -109,6 +109,7 @@
 - [ Find perfect palettes from delicious pictures ](https://colorkitty.com/)
 - [ Random Color Picker ](https://www.webfx.com/web-design/random-color-picker/)
 - [ Create SVG waves for your next design ](https://getwaves.io/)
+- [ Subcolor. Find colors between 2 colors ](https://subcolor.github.io/)
 
 ---
 
@@ -219,6 +220,7 @@
 - [ NO JS Carousel ](https://codepen.io/koheishingai/pen/uKvJF)
 - [ Typing Effect ](https://codepen.io/Coding_Journey/pen/BEMgbX)
 - [ Download button animation ](https://codepen.io/aaroniker/pen/KjJQER)
+- [ A fancy CSS Heading animation ](https://codepen.io/kylewetton/pen/omgBgG)
 
 <a name="css7"></a>
 
@@ -406,3 +408,4 @@
 - [ PXtoEM.com PX to EM ](http://pxtoem.com/)
 - [ 534 ways to reload the page with JavaScript ](http://www.phpied.com/files/location-location/location-location.html)
 - [ Карта навыков и модель развития тимлидов ](https://github.com/tlbootcamp/tlroadmap)
+- [ Can I email… Support tables for HTML and CSS in emails ](https://www.caniemail.com/)
