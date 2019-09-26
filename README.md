@@ -26,6 +26,7 @@
 - [ Googles Mobile friendly tester ](https://search.google.com/test/mobile-friendly)
 - [ Scan headers of web site ](https://securityheaders.com/)
 - [ Postwoman. API request builder ](https://postwoman.io/)
+- [ Test your media queries ](https://hover-pointer-media-query.glitch.me/)
 
 ---
 
@@ -156,11 +157,12 @@
 - [ Pure CSS Toggle Buttons / ON-OFF Switches ](https://nisnom.com/veb-razrabotki/pure-css-toggle-buttons-on-off-switches/)
 - [ CSS button hover ](https://codepen.io/Danil89/pen/MzrEdX)
 - [ Button hover animation ](https://codepen.io/Danil89/pen/KvKRyG)
-- [ Download button](https://codepen.io/html5book/pen/QKLLkW)
-- [ CSS Ripple Effect](https://codepen.io/html5book/pen/QKLLkW)
-- [ A Confusing Toggle Button](https://codepen.io/himalayasingh/pen/KLRNPr)
-- [ Top 20 CSS Buttons + animations - DEV Community 👩‍💻👨‍💻](https://dev.to/webdeasy/top-20-css-buttons-animations-f41)
-- [ Amazing Button Hover [Responsive]](https://codepen.io/dev_loop/pen/agqYaN)
+- [ Download button ](https://codepen.io/html5book/pen/QKLLkW)
+- [ CSS Ripple Effect ](https://codepen.io/html5book/pen/QKLLkW)
+- [ A Confusing Toggle Button ](https://codepen.io/himalayasingh/pen/KLRNPr)
+- [ Top 20 CSS Buttons + animations - DEV Community 👩‍💻👨‍💻 ](https://dev.to/webdeasy/top-20-css-buttons-animations-f41)
+- [ Amazing Button Hover [Responsive] ](https://codepen.io/dev_loop/pen/agqYaN)
+- [ Modern Gradient Buttons ](https://codepen.io/TheCSSKing/pen/abowMLW)
 
 <a name="css3"></a>
 
@@ -224,6 +226,8 @@
 - [ Typing Effect ](https://codepen.io/Coding_Journey/pen/BEMgbX)
 - [ Download button animation ](https://codepen.io/aaroniker/pen/KjJQER)
 - [ A fancy CSS Heading animation ](https://codepen.io/kylewetton/pen/omgBgG)
+- [ Pure CSS Glitch Effect ](https://codepen.io/FelixRilling/pen/vNJoMy)
+- [ Clean CSS Glitch 404 ](https://codepen.io/pgalor/pen/OeRWJQ)
 
 <a name="css7"></a>
 
