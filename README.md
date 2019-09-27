@@ -228,6 +228,7 @@
 - [ A fancy CSS Heading animation ](https://codepen.io/kylewetton/pen/omgBgG)
 - [ Pure CSS Glitch Effect ](https://codepen.io/FelixRilling/pen/vNJoMy)
 - [ Clean CSS Glitch 404 ](https://codepen.io/pgalor/pen/OeRWJQ)
+- [ Simple CSS Waves | Mobile & Full width ](https://codepen.io/goodkatz/pen/LYPGxQz)
 
 <a name="css7"></a>
 
