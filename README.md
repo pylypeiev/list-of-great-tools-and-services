@@ -113,6 +113,8 @@
 - [ Random Color Picker ](https://www.webfx.com/web-design/random-color-picker/)
 - [ Create SVG waves for your next design ](https://getwaves.io/)
 - [ Subcolor. Find colors between 2 colors ](https://subcolor.github.io/)
+- [ Color Designer - Simple Color Palette Generator ](https://colordesigner.io/)
+- [ ColorBox by Lyft Design ](https://www.colorbox.io/)
 
 ---
 
@@ -229,6 +231,7 @@
 - [ Pure CSS Glitch Effect ](https://codepen.io/FelixRilling/pen/vNJoMy)
 - [ Clean CSS Glitch 404 ](https://codepen.io/pgalor/pen/OeRWJQ)
 - [ Simple CSS Waves | Mobile & Full width ](https://codepen.io/goodkatz/pen/LYPGxQz)
+- [ Interactive Wheel Menu ](https://codepen.io/wheatup/pen/GbgyLY)
 
 <a name="css7"></a>
 
@@ -257,6 +260,7 @@
 - [ A collective list of free APIs for use in software and web development. ](https://github.com/toddmotto/public-apis)
 - [ Any API ](https://any-api.com)
 - [ Countries Get information about countries via a RESTful API ](http://restcountries.euREST)
+- [ HTTP based JSON storage ](https://jsonbox.io/)
 
 ---
 
