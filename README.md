@@ -53,6 +53,7 @@
 - [ Web.Config Validator - Free checker for all .NET versions ](https://elmah.io/tools/configvalidator/)
 - [ Transform | A polyglot web converter. ](https://transform.tools/)
 - [ GlooMaps Site Map Generator ](https://www.gloomaps.com/blcyaErfGE)
+- [ Tool for starting a new WEBPACK or Parcel project ](https://createapp.dev/)
 
 ---
 
@@ -311,8 +312,7 @@
 - [ Slick carousel ](http://kenwheeler.github.io/slick/)
 - [ Image lightbox ](https://osvaldas.info/examples/image-lightbox-responsive-touch-friendly/)
 - [ Fancybox ](http://fancyapps.com/fancybox/3/)
-- [ Simple slider ](http://ruyadorno.github.io/simple-slider/)
-- [ Slick carousel ](http://kenwheeler.github.io/slick/)
+- [ easy to integrate lightbox gallery library. Super-lightweight, outstanding performance, no dependencies. ](https://github.com/nextapps-de/spotlight)
 
 <a name="alerts"></a>
 
