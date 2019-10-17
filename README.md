@@ -117,6 +117,7 @@
 - [ Subcolor. Find colors between 2 colors ](https://subcolor.github.io/)
 - [ Color Designer - Simple Color Palette Generator ](https://colordesigner.io/)
 - [ ColorBox by Lyft Design ](https://www.colorbox.io/)
+- [ Paletton - The Color Scheme Designer ](http://paletton.com/)
 
 ---
 
