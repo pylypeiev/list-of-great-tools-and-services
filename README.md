@@ -27,6 +27,7 @@
 - [ Scan headers of web site ](https://securityheaders.com/)
 - [ Postwoman. API request builder ](https://postwoman.io/)
 - [ Test your media queries ](https://hover-pointer-media-query.glitch.me/)
+- [ CSS Lint - validate your CSS ](http://csslint.net/)
 
 ---
 
@@ -247,6 +248,7 @@
 - [ Drag-n-drop sticky, with no JS! ](https://codepen.io/scottkellum/pen/eaXJJb)
 - [ Animated Progress Bar ](https://codepen.io/Thibaut/pen/ouKvy)
 - [ Reddit border inset challenge ](https://codepen.io/daviddarnes/pen/oEEqdp)
+- [ Add to cart ](https://codepen.io/aaroniker/pen/QWWXKVP)
 
 ---
 
