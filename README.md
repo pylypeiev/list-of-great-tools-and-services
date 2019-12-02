@@ -84,6 +84,7 @@
 - [ CSS Grid Generator ](https://cssgrid-generator.netlify.com/)
 - [ On/Off FlipSwitch ](https://proto.io/freebies/onoff/)
 - [ CSS3 Box Shadow Generator ](https://css3gen.com/box-shadow/)
+- [ Animated CSS Background Generator | Vincent Will ](https://vincentwill.com/resources/animated-css-background-generator)
 
 ---
 
