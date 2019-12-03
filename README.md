@@ -142,6 +142,7 @@
 - [ Shapes generated with CSS background gradients ](https://codepen.io/yuanchuan/full/vVRKRQ/)
 - [ Beautifully simple click-to-copy CSS effects ](https://cssfx.dev/)
 - [ CSS WAND Easy Copy-Paste Beautiful CSS ](https://www.csswand.dev/)
+- [ CSS Layout  Patterns Explore ](https://csslayout.io/patterns)
 
 <a name="css1"></a>
 
