@@ -473,5 +473,5 @@
 <a name="ext-vs"></a>
 
 ## 12. Visual Studio Extensions :wrench:
-- [  ]()
+- [ ]()
 
