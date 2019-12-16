@@ -14,7 +14,7 @@
 8. [ Libraries ](#library)
 9. [ Info ](#info)
 10. [ Chrome Extensions ](#ext-chrome)
-10. [ Visual Studio Code Extensions ](#ext-vscode)
+11. [ Visual Studio Code Extensions ](#ext-vscode)
 12. [ Visual Studio Extensions ](#ext-vs)
 
 <a name="validators"></a>
@@ -147,7 +147,7 @@
 - [ Shapes generated with CSS background gradients ](https://codepen.io/yuanchuan/full/vVRKRQ/)
 - [ Beautifully simple click-to-copy CSS effects ](https://cssfx.dev/)
 - [ CSS WAND Easy Copy-Paste Beautiful CSS ](https://www.csswand.dev/)
-- [ CSS Layout  Patterns Explore ](https://csslayout.io/patterns)
+- [ CSS Layout Patterns Explore ](https://csslayout.io/patterns)
 
 <a name="css1"></a>
 
@@ -438,12 +438,39 @@
 
 <a name="ext-chrome"></a>
 
-## 10. Chrome Extensions 
+## 10. Chrome Extensions :satellite:
+
+- [ AdGuard AdBlocker ](https://chrome.google.com/webstore/detail/adguard-adblocker/bgnkhhnnamicmpeenaelnjfhikgbkllg)
+- [ Augury ](https://chrome.google.com/webstore/detail/augury/elgalmkoelokbchhkhacckoklkejnhcd)
+- [ BehindTheOverlay ](https://chrome.google.com/webstore/detail/behindtheoverlay/ljipkdpcjbmhkdjjmbbaggebcednbbme)
+- [ BuiltWith Technology Profiler ](https://chrome.google.com/webstore/detail/builtwith-technology-prof/dapjbgnjinbpoindlpdmhochffioedbn)
+- [ ColorZilla ](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp)
+- [ CSS Feature Toggles ](https://chrome.google.com/webstore/detail/css-feature-toggles/aeinmfddnniiloadoappmdnffcbffnjg)
+- [ CSS Peeper ](https://chrome.google.com/webstore/detail/css-peeper/mbnbehikldjhnfehhnaidhjhoofhpehk)
+- [ CSSViewer ](https://chrome.google.com/webstore/detail/cssviewer/ggfgijbpiheegefliciemofobhmofgce)
+- [ EditThisCookie ](https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg)
+- [ Emmet Re:view ](https://chrome.google.com/webstore/detail/emmet-review/epejoicbhllgiimigokgjdoijnpaphdp)
+- [ Gmail Checker Plus ](https://chrome.google.com/webstore/detail/checker-plus-for-gmail/oeopbcgkkoapgobdbedcemjljbihmemj)
+- [ IE Tab ](https://chrome.google.com/webstore/detail/ie-tab/hehijbfgiekmjfkfjpbkbammjbdenadd)
+- [ JsonDiscovery ](https://chrome.google.com/webstore/detail/jsondiscovery/pamhglogfolfbmlpnenhpeholpnlcclo)
+- [ Marinara: Pomodoro® Assistant ](https://chrome.google.com/webstore/detail/marinara-pomodoro%C2%AE-assist/lojgmehidjdhhbmpjfamhpkpodfcodef)
+- [ META SEO inspector ](https://chrome.google.com/webstore/detail/meta-seo-inspector/ibkclpciafdglkjkcibmohobjkcfkaef)
+- [ Octotree ](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc)
+- [ React Developer Tools ](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
+- [ ResponsiveViewer ](https://chrome.google.com/webstore/detail/responsiveviewer/inmopeiepgfljkpkidclfgbgbmfcennb)
+- [ SimilarWeb - Traffic Rank & Website Analysis ](https://chrome.google.com/webstore/detail/similarweb-traffic-rank-w/hoklmmgfnpapgjgcpechhaamimifchmp)
+- [ SVG Gobbler ](https://chrome.google.com/webstore/detail/svg-gobbler/mpbmflcodadhgafbbakjeahpandgcbch)
+- [ User-Agent Switcher for Chrome ](https://chrome.google.com/webstore/detail/user-agent-switcher-for-c/djflhoibgkdhkhhcedjiklpkjnoahfmg)
+- [ VisBug ](https://chrome.google.com/webstore/detail/visbug/cdockenadnadldjbbgcallicgledbeoc)
+- [ Wappalyzer ](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg)
 
 <a name="ext-vscode"></a>
 
-## 11. Visual Studio Code Extensions
+## 11. Visual Studio Code Extensions :hammer:
+
+
 
 <a name="ext-vs"></a>
 
-## 12. Visual Studio Extensions
+## 12. Visual Studio Extensions :wrench:
+
