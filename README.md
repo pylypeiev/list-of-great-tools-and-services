@@ -13,6 +13,9 @@
 7. [ Tips and tricks ](#tip)
 8. [ Libraries ](#library)
 9. [ Info ](#info)
+10. [ Chrome Extensions ](#ext-chrome)
+10. [ Visual Studio Code Extensions ](#ext-vscode)
+12. [ Visual Studio Extensions ](#ext-vs)
 
 <a name="validators"></a>
 
@@ -432,3 +435,15 @@
 - [ 534 ways to reload the page with JavaScript ](http://www.phpied.com/files/location-location/location-location.html)
 - [ Карта навыков и модель развития тимлидов ](https://github.com/tlbootcamp/tlroadmap)
 - [ Can I email… Support tables for HTML and CSS in emails ](https://www.caniemail.com/)
+
+<a name="ext-chrome"></a>
+
+## 10. Chrome Extensions 
+
+<a name="ext-vscode"></a>
+
+## 11. Visual Studio Code Extensions
+
+<a name="ext-vs"></a>
+
+## 12. Visual Studio Extensions
