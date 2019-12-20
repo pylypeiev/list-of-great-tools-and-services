@@ -470,7 +470,7 @@
 
 ## 11. Visual Studio Code Extensions :hammer:
 
-- [ .NET Core Test Explorer ](https://marketplace.visualstudio.com/items?itemName=formulahendry.dotnet-test-explorer)
+- [ .NET Core Test Explorer ](https://marketplace.visualstudio.com/items?itemName=formulahendry.dotnet-test-explorer) 
 - [ Angular 8 Snippets - TypeScript, Html, Angular Material, ngRx, RxJS & Flex Layout ](https://marketplace.visualstudio.com/items?itemName=Mikael.Angular-BeastCode)
 - [ Angular Language Service ](https://marketplace.visualstudio.com/items?itemName=Angular.ng-template)
 - [ Angular Snippets ](https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2)
