@@ -162,6 +162,7 @@
 - [ SVG logos ](https://svgporn.com/)
 - [ Icons in SVG ](https://iconsvg.xyz/)
 - [ Transformicons The Animated Icon Builder ](http://www.transformicons.com/builder.html)
+- [ CSS Icons ](https://css.gg/app)
 
 <a name="css2"></a>
 
@@ -248,6 +249,7 @@
 - [ Simple CSS Waves | Mobile & Full width ](https://codepen.io/goodkatz/pen/LYPGxQz)
 - [ Interactive Wheel Menu ](https://codepen.io/wheatup/pen/GbgyLY)
 - [ Balloon Slider ](https://codepen.io/aaroniker/pen/ZEEWoKj)
+- [ Animated Search Interaction ](https://codepen.io/jkantner/pen/eYmvvqQ)
 
 <a name="css7"></a>
 
