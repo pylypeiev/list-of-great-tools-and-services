@@ -508,6 +508,7 @@
 - [ Instant Markdown ](https://marketplace.visualstudio.com/items?itemName=dbankier.vscode-instant-markdown)
 - [ IntelliSense for CSS class names in HTML ](https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion)
 - [ JavaScript (ES6) code snippets ](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets)
+- [ JavaScript Booster ](https://marketplace.visualstudio.com/items?itemName=sburg.vscode-javascript-booster)
 - [ JavaScript Test Runner ](https://marketplace.visualstudio.com/items?itemName=nilobarp.javascript-test-runner)
 - [ Jest ](https://marketplace.visualstudio.com/items?itemName=Orta.vscode-jest)
 - [ jQuery Code Snippets ](https://marketplace.visualstudio.com/items?itemName=donjayamanne.jquerysnippets)
