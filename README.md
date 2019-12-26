@@ -499,6 +499,7 @@
 - [ Debugger for Firefox ](https://marketplace.visualstudio.com/items?itemName=firefox-devtools.vscode-firefox-debug)
 - [ ESLint ](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 - [ Excel Viewer ](https://marketplace.visualstudio.com/items?itemName=GrapeCity.gc-excelviewer)
+- [ Fabulous ](https://marketplace.visualstudio.com/items?itemName=Raathigeshan.fabulous)
 - [ GitLens — Git supercharged ](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
 - [ HTML CSS Support ](https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css)
 - [ HTML Snippets ](https://marketplace.visualstudio.com/items?itemName=abusaidm.html-snippets)
