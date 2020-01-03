@@ -163,6 +163,8 @@
 - [ Icons in SVG ](https://iconsvg.xyz/)
 - [ Transformicons The Animated Icon Builder ](http://www.transformicons.com/builder.html)
 - [ CSS Icons ](https://css.gg/app)
+- [ Jam SVG icons / pixel perfect icons ](https://jam-icons.com/)
+- [ Illustration Gallery by ManyPixels | Open-Source Editable Illustrations ](https://www.manypixels.co/gallery/)
 
 <a name="css2"></a>
 
