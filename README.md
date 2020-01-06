@@ -165,6 +165,7 @@
 - [ CSS Icons ](https://css.gg/app)
 - [ Jam SVG icons / pixel perfect icons ](https://jam-icons.com/)
 - [ Illustration Gallery by ManyPixels | Open-Source Editable Illustrations ](https://www.manypixels.co/gallery/)
+- [ favicon.ico Generator ](https://www.favicon.cc/)
 
 <a name="css2"></a>
 
@@ -252,6 +253,7 @@
 - [ Interactive Wheel Menu ](https://codepen.io/wheatup/pen/GbgyLY)
 - [ Balloon Slider ](https://codepen.io/aaroniker/pen/ZEEWoKj)
 - [ Animated Search Interaction ](https://codepen.io/jkantner/pen/eYmvvqQ)
+- [ CSS Card Hover Effects NO JS ](https://codepen.io/Jhonierpc/pen/MWgBJpy)
 
 <a name="css7"></a>
 
@@ -370,6 +372,7 @@
 - [ Random generator of strings and numbers ](http://chancejs.com/)
 - [ Validation library ](https://github.com/imbrn/v8n)
 - [ Credit Card input masking and validation ](https://github.com/nogorilla/angular-cc-library)
+- [ Workbox  PWA |  Google Developers ](https://developers.google.com/web/tools/workbox/)
 
 <a name="text"></a>
 
