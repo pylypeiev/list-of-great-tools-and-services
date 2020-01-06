@@ -320,6 +320,7 @@
 7. [ Time and numbers ](#numbers)
 8. [ Animation ](#animation)
 9. [ Uploads ](#uploads)
+10. [ Dotnet Nuggets ](#nuggets)
 
 - [ Search for type script npm packages ](https://microsoft.github.io/TypeSearch/)
 - [ Angular 2+ Components & Libraries ](https://github.com/brillout/awesome-angular-components)
@@ -408,6 +409,40 @@
 
 - [ FilePond upload library ](https://pqina.nl/filepond/)
 
+
+<a name="nuggets"></a>
+
+#### Dotnet Nuggets :poultry_leg:
+- [ A curated list of awesome C-Sharp frameworks, libraries and software ](https://github.com/pylypeiev/awesome-c-sharp)
+
+
+
+- [ AutoMapper ](https://www.nuget.org/packages/AutoMapper/)
+- [ BenchmarkDotNet ](https://www.nuget.org/packages/BenchmarkDotNet/)
+- [ BookFx - creating Excel workbooks.](https://www.nuget.org/packages/BookFx/)
+- [ CacheManager.Core ](https://www.nuget.org/packages/CacheManager.Core)
+- [ ConsoleTables ](https://www.nuget.org/packages/ConsoleTables/)
+- [ CSCore -  advanced audio library](https://www.nuget.org/packages/CSCore/)
+- [ CsvHelper ](https://www.nuget.org/packages/CsvHelper/)
+- [ Dapper ](https://www.nuget.org/packages/Dapper/)
+- [ Elasticsearch.Net ](https://www.nuget.org/packages/Elasticsearch.Net/)
+- [ EntityFramework ](https://www.nuget.org/packages/EntityFramework/)
+- [ EntityFramework Core ](https://www.nuget.org/packages/Microsoft.EntityFrameworkCore/)
+- [ FluentValidation ](https://www.nuget.org/packages/fluentvalidation)
+- [ HtmlAgilityPack ](https://www.nuget.org/packages/HtmlAgilityPack/)
+- [ Humanizer ](https://www.nuget.org/packages/Humanizer/)
+- [ JWT ](https://www.nuget.org/packages/JWT)
+- [ LiteDB ](https://www.nuget.org/packages/LiteDB)
+- [ log4net ](https://www.nuget.org/packages/log4net/)
+- [ Moq ](https://www.nuget.org/packages/Moq/)
+- [ MvvmCross ](https://www.nuget.org/packages/MvvmCross/)
+- [ NewtonsoftJson ](https://www.nuget.org/packages/Newtonsoft.Json/)
+- [ Polly ](https://www.nuget.org/packages/Polly/)
+- [ Reactive Extensions (Rx) for .NET ](https://www.nuget.org/packages/System.Reactive/)
+- [ Selenium.WebDriver ](https://www.nuget.org/packages/Selenium.WebDriver)
+- [ SimpleInjector ](https://www.nuget.org/packages/SimpleInjector/)
+- [ TinyORM ](https://www.nuget.org/packages/TinyORM/)
+- [ UnitConversion ](https://www.nuget.org/packages/UnitConversion/)
 ---
 
 <a name="info"></a>
