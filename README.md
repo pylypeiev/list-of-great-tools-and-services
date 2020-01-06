@@ -513,6 +513,8 @@
 - [ Angular 8 Snippets - TypeScript, Html, Angular Material, ngRx, RxJS & Flex Layout ](https://marketplace.visualstudio.com/items?itemName=Mikael.Angular-BeastCode)
 - [ Angular Language Service ](https://marketplace.visualstudio.com/items?itemName=Angular.ng-template)
 - [ Angular Snippets ](https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2)
+- [ Angular Files ](https://marketplace.visualstudio.com/items?itemName=alexiv.vscode-angular2-files)
+- [ Angular Follow Selector ](https://marketplace.visualstudio.com/items?itemName=sanderledegen.angular-follow-selector)
 - [ Auto Close Tag ](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
 - [ Auto Import ](https://marketplace.visualstudio.com/items?itemName=steoates.autoimport)
 - [ Auto Rename Tag ](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
