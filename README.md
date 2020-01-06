@@ -413,10 +413,7 @@
 <a name="nuggets"></a>
 
 #### Dotnet Nuggets :poultry_leg:
-- [ A curated list of awesome C-Sharp frameworks, libraries and software ](https://github.com/pylypeiev/awesome-c-sharp)
-
-
-
+- [ Awesome C-Sharp frameworks, libraries and software ](https://github.com/pylypeiev/awesome-c-sharp)
 - [ AutoMapper ](https://www.nuget.org/packages/AutoMapper/)
 - [ BenchmarkDotNet ](https://www.nuget.org/packages/BenchmarkDotNet/)
 - [ BookFx - creating Excel workbooks.](https://www.nuget.org/packages/BookFx/)
@@ -443,6 +440,7 @@
 - [ SimpleInjector ](https://www.nuget.org/packages/SimpleInjector/)
 - [ TinyORM ](https://www.nuget.org/packages/TinyORM/)
 - [ UnitConversion ](https://www.nuget.org/packages/UnitConversion/)
+
 ---
 
 <a name="info"></a>
