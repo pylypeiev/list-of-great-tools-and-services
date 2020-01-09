@@ -373,6 +373,7 @@
 - [ Validation library ](https://github.com/imbrn/v8n)
 - [ Credit Card input masking and validation ](https://github.com/nogorilla/angular-cc-library)
 - [ Workbox  PWA |  Google Developers ](https://developers.google.com/web/tools/workbox/)
+- [ instant.page just-in-time preloading — preloade a page right before a user clicks on it](https://instant.page/)
 
 <a name="text"></a>
 
