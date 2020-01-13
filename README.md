@@ -431,6 +431,7 @@
 - [ EntityFramework ](https://www.nuget.org/packages/EntityFramework/)
 - [ EntityFramework Core ](https://www.nuget.org/packages/Microsoft.EntityFrameworkCore/)
 - [ FluentValidation ](https://www.nuget.org/packages/fluentvalidation)
+- [ Gematria  ](https://www.nuget.org/packages/Gematria/)
 - [ HtmlAgilityPack ](https://www.nuget.org/packages/HtmlAgilityPack/)
 - [ Humanizer ](https://www.nuget.org/packages/Humanizer/)
 - [ JWT ](https://www.nuget.org/packages/JWT)
