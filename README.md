@@ -436,6 +436,7 @@
 - [ JWT ](https://www.nuget.org/packages/JWT)
 - [ LiteDB ](https://www.nuget.org/packages/LiteDB)
 - [ log4net ](https://www.nuget.org/packages/log4net/)
+- [ MiniProfiler ](https://www.nuget.org/packages/MiniProfiler/)
 - [ Moq ](https://www.nuget.org/packages/Moq/)
 - [ MvvmCross ](https://www.nuget.org/packages/MvvmCross/)
 - [ NewtonsoftJson ](https://www.nuget.org/packages/Newtonsoft.Json/)
