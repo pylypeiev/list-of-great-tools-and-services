@@ -232,6 +232,7 @@
 - [ Epic Spinners ](https://epic-spinners.epicmax.co/#/)
 - [ Loader ](https://codepen.io/kathykato/pen/YzKGrqd)
 - [ Flat Preloader ](https://codepen.io/zerospree/pen/aCjAz)
+- [ SpinKit | Simple CSS Spinners ](https://tobiasahlin.com/spinkit/)
 
 <a name="css6"></a>
 
@@ -255,6 +256,7 @@
 - [ Balloon Slider ](https://codepen.io/aaroniker/pen/ZEEWoKj)
 - [ Animated Search Interaction ](https://codepen.io/jkantner/pen/eYmvvqQ)
 - [ CSS Card Hover Effects NO JS ](https://codepen.io/Jhonierpc/pen/MWgBJpy)
+- [ Moving Letters | Text animated with JavaScript & anime.js ](https://tobiasahlin.com/moving-letters/)
 
 <a name="css7"></a>
 
@@ -375,6 +377,7 @@
 - [ Credit Card input masking and validation ](https://github.com/nogorilla/angular-cc-library)
 - [ Workbox  PWA |  Google Developers ](https://developers.google.com/web/tools/workbox/)
 - [ instant.page just-in-time preloading — preloade a page right before a user clicks on it](https://instant.page/)
+- [ javascript library for working with currency values](https://currency.js.org/)
 
 <a name="text"></a>
 
