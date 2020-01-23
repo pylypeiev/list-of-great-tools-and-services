@@ -504,6 +504,7 @@
 - [ JsonDiscovery ](https://chrome.google.com/webstore/detail/jsondiscovery/pamhglogfolfbmlpnenhpeholpnlcclo)
 - [ Marinara: Pomodoro® Assistant ](https://chrome.google.com/webstore/detail/marinara-pomodoro%C2%AE-assist/lojgmehidjdhhbmpjfamhpkpodfcodef)
 - [ META SEO inspector ](https://chrome.google.com/webstore/detail/meta-seo-inspector/ibkclpciafdglkjkcibmohobjkcfkaef)
+- [ Pesticide. Outlining each element to better see placement on the page. ](https://chrome.google.com/webstore/detail/pesticide-for-chrome/bblbgcheenepgnnajgfpiicnbbdmmooh)
 - [ Octotree ](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc)
 - [ React Developer Tools ](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
 - [ ResponsiveViewer ](https://chrome.google.com/webstore/detail/responsiveviewer/inmopeiepgfljkpkidclfgbgbmfcennb)
