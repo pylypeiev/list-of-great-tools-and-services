@@ -31,6 +31,7 @@
 - [ Postwoman. API request builder ](https://postwoman.io/)
 - [ Test your media queries ](https://hover-pointer-media-query.glitch.me/)
 - [ CSS Lint - validate your CSS ](http://csslint.net/)
+- [ CSS Stats ](https://cssstats.com/)
 
 ---
 
@@ -63,6 +64,12 @@
 - [ Design System Playground ](https://design-system-playground.netlify.com/)
 - [ Google Webfonts Helper- self host google fonts ](https://google-webfonts-helper.herokuapp.com/fonts)
 - [ Code to Graph ](https://crubier.github.io/code-to-graph)
+- [ Online Url Parser / Query String Splitter ](https://www.freeformatter.com/url-parser-query-string-splitter.html)
+- [ Rows to Columns ](https://www.brianapps.com/rows-to-columns)
+- [ Base64 Converter ](https://pr.gg/base64/)
+- [ Extract CSS from HTML ](http://extractcss.com/)
+- [ Nicen my code ](https://nicen.pw/)
+- [ URL-encoder for SVG ](https://yoksel.github.io/url-encoder/)
 
 ---
 
@@ -92,6 +99,7 @@
 - [ Animated CSS Background Generator | Vincent Will ](https://vincentwill.com/resources/animated-css-background-generator)
 - [ Smooth shadow many layers generator ](https://brumm.af/shadows)
 - [ The Ultimate Website Code Generators ](https://webcode.tools/)
+- [ CSS triangle generator ](http://apps.eky.hk/css-triangle-generator/)
 
 ---
 
@@ -167,6 +175,7 @@
 - [ Jam SVG icons / pixel perfect icons ](https://jam-icons.com/)
 - [ Illustration Gallery by ManyPixels | Open-Source Editable Illustrations ](https://www.manypixels.co/gallery/)
 - [ favicon.ico Generator ](https://www.favicon.cc/)
+- [ CopyChar – Copy special characters to your clipboard ](https://copychar.cc/)
 
 <a name="css2"></a>
 
@@ -287,6 +296,7 @@
 - [ Any API ](https://any-api.com)
 - [ Countries Get information about countries via a RESTful API ](http://restcountries.euREST)
 - [ HTTP based JSON storage ](https://jsonbox.io/)
+- [ Placeholder kitten images for developers ](https://placekitten.com/)
 
 ---
 
