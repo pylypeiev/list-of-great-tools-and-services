@@ -213,6 +213,7 @@
 - [ hover icon effects social media ](https://codepen.io/berdiyev/pen/YzKwRWx)
 - [ Button Hover Effects ](https://codepen.io/kjbrum/pen/wBBLXx)
 - [ CSS Button with Hover Effect ](https://codepen.io/JeremyWink/pen/LYPMLLV)
+- [ Staggered Blink Text Menu ](https://codepen.io/alphardex/pen/BayEGXB)
 
 <a name="css4"></a>
 
@@ -524,6 +525,7 @@
 - [ User-Agent Switcher for Chrome ](https://chrome.google.com/webstore/detail/user-agent-switcher-for-c/djflhoibgkdhkhhcedjiklpkjnoahfmg)
 - [ VisBug ](https://chrome.google.com/webstore/detail/visbug/cdockenadnadldjbbgcallicgledbeoc)
 - [ Wappalyzer ](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg)
+- [ ARC Toolkit Accessibility testing tools ](https://chrome.google.com/webstore/detail/arc-toolkit/chdkkkccnlfncngelccgbgfmjebmkmce)
 
 <a name="ext-vscode"></a>
 
