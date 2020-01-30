@@ -70,6 +70,7 @@
 - [ Extract CSS from HTML ](http://extractcss.com/)
 - [ Nicen my code ](https://nicen.pw/)
 - [ URL-encoder for SVG ](https://yoksel.github.io/url-encoder/)
+- [ Regex Guide and generator ](https://regex.guide/playground/)
 
 ---
 
