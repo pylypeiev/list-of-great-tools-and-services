@@ -351,6 +351,7 @@
 - [ Image lightbox ](https://osvaldas.info/examples/image-lightbox-responsive-touch-friendly/)
 - [ Fancybox ](http://fancyapps.com/fancybox/3/)
 - [ easy to integrate lightbox gallery library. Super-lightweight, outstanding performance, no dependencies. ](https://github.com/nextapps-de/spotlight)
+- [ Embla Extensible bare bones carousels for the web, written in TypeScript ](https://davidcetinkaya.github.io/embla-carousel/)
 
 <a name="alerts"></a>
 
