@@ -71,6 +71,7 @@
 - [ Nicen my code ](https://nicen.pw/)
 - [ URL-encoder for SVG ](https://yoksel.github.io/url-encoder/)
 - [ Regex Guide and generator ](https://regex.guide/playground/)
+- [ JS Key Event Test Script ](https://unixpapa.com/js/testkey.html)
 
 ---
 
