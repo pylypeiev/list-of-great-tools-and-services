@@ -102,6 +102,7 @@
 - [ Smooth shadow many layers generator ](https://brumm.af/shadows)
 - [ The Ultimate Website Code Generators ](https://webcode.tools/)
 - [ CSS triangle generator ](http://apps.eky.hk/css-triangle-generator/)
+- [ Soft UI Neumorphism CSS shadow generator ](https://neumorphism.io)
 
 ---
 
