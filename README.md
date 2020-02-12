@@ -425,6 +425,8 @@
 - [ MicronJS animate via data attribute ](https://webkul.github.io/micron/)
 - [ Hover.css ](http://ianlunn.github.io/Hover/)
 - [ Anime JS ](https://animejs.com/)
+- [ Popmotion Pure | A functional, flexible JavaScript animation library ](https://popmotion.io/pure/)
+- [ curtains.js WebGL tool to animate images and videos ](https://www.curtainsjs.com/index.html)
 
 <a name="uploads"></a>
 
