@@ -438,7 +438,7 @@
 <a name="nuggets"></a>
 
 #### Dotnet Nuggets :poultry_leg:
-- [ Awesome C-Sharp frameworks, libraries and software ](https://github.com/pylypeiev/awesome-c-sharp)
+- [ Awesome C-Sharp frameworks, libraries and software ](https://github.com/uhub/awesome-c-sharp)
 - [ AutoMapper ](https://www.nuget.org/packages/AutoMapper/)
 - [ BenchmarkDotNet ](https://www.nuget.org/packages/BenchmarkDotNet/)
 - [ BookFx - creating Excel workbooks.](https://www.nuget.org/packages/BookFx/)
