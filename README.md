@@ -619,7 +619,6 @@
 - [ C# Methods Code Snippets ](https://marketplace.visualstudio.com/items?itemName=jsakamoto.CMethodsCodeSnippets)
 - [ Code Converter C# to/from VB.NET ](https://marketplace.visualstudio.com/items?itemName=SharpDevelopTeam.CodeConverter)
 - [ CSS AutoPrefixer ](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.CSSAutoPrefixer)
-- [ CSS AutoPrefixer ](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.CSSAutoPrefixer)
 - [ CSS Sorter ](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.CSSSorter)
 - [ CSS Tools 2019 ](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.CssTools2019)
 - [ Dummy Text Generator ](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.DummyTextGenerator)
