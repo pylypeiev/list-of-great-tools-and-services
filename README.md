@@ -628,7 +628,6 @@
 - [ Fancy Comments ](https://marketplace.visualstudio.com/items?itemName=clydedsouza.FancyComments)
 - [ File Differ ](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.FileDiffer)
 - [ File Icons ](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.FileIcons)
-- [ File Icons ](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.FileIcons)
 - [ HTML Snippet Pack ](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.HTMLSnippetPack)
 - [ HTML Tools 2019 ](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.HtmlTools2019)
 - [ ILSpy ](https://marketplace.visualstudio.com/items?itemName=SharpDevelopTeam.ILSpy)
