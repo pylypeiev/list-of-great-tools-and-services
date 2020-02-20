@@ -74,6 +74,7 @@
 - [ JS Key Event Test Script ](https://unixpapa.com/js/testkey.html)
 - [ XML Formatter online ](https://www.webtoolkitonline.com/xml-formatter.html)
 - [ Unminify JS, CSS and HTML Code ](https://unminify.com/)
+- [ online SVG editor ](https://vecta.io/app/edit/demo)
 
 ---
 
