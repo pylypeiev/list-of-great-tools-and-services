@@ -75,6 +75,7 @@
 - [ XML Formatter online ](https://www.webtoolkitonline.com/xml-formatter.html)
 - [ Unminify JS, CSS and HTML Code ](https://unminify.com/)
 - [ online SVG editor ](https://vecta.io/app/edit/demo)
+- [ Fancy Text Generator & Unicode Converter ](https://www.mytextconverter.com)
 
 ---
 
@@ -143,6 +144,7 @@
 - [ Color Designer - Simple Color Palette Generator ](https://colordesigner.io/)
 - [ ColorBox by Lyft Design ](https://www.colorbox.io/)
 - [ Paletton - The Color Scheme Designer ](http://paletton.com/)
+- [ Palette Generator - The super color schemes generator ](https://hexcolor.co/palette-generator)
 
 ---
 
