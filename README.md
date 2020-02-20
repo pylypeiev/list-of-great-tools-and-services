@@ -82,7 +82,7 @@
 ## 3. Code generators :computer:
 
 - [ FLEXBOX generator ](http://the-echoplex.net/flexyboxes/)
-- [ GRID generator ](https://www.layoutit.com/grid)
+- [ GRID generator ](https://grid.layoutit.com/)
 - [ Box shadow generator ](https://html-css-js.com/css/generator/box-shadow/)
 - [ Text shadow generator ](https://cssgenerator.org/text-shadow-css-generator.html)
 - [ Transform css generator ](https://html-css-js.com/css/generator/transform/)
