@@ -379,6 +379,7 @@
 - [ library for creating particles ](https://vincentgarreau.com/particles.js/)
 - [ Rallax dynamic parallax scrolling effect ](https://chriscavs.github.io/rallax-demo/)
 - [ Balloon.css — simple pure CSS tooltips ](https://kazzkiq.github.io/balloon.css/)
+- [ JS audio library howler.js ](https://github.com/goldfire/howler.js)
 
 <a name="data"></a>
 
