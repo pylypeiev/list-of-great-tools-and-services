@@ -629,6 +629,7 @@
 - [ Dummy Text Generator ](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.DummyTextGenerator)
 - [ Editor Enhancements ](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.EditorEnhancements)
 - [ EF Core Power Tools ](https://marketplace.visualstudio.com/items?itemName=ErikEJ.EFCorePowerTools)
+- [ Error Lens ](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)
 - [ Entity Framework 6 Power Tools Community Edition ](https://marketplace.visualstudio.com/items?itemName=ErikEJ.EntityFramework6PowerToolsCommunityEdition)
 - [ Fancy Comments ](https://marketplace.visualstudio.com/items?itemName=clydedsouza.FancyComments)
 - [ File Differ ](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.FileDiffer)
