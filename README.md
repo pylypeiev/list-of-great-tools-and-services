@@ -145,6 +145,7 @@
 - [ ColorBox by Lyft Design ](https://www.colorbox.io/)
 - [ Paletton - The Color Scheme Designer ](http://paletton.com/)
 - [ Palette Generator - The super color schemes generator ](https://hexcolor.co/palette-generator)
+- [ Stylify Me - Online Style Guide Generator ](http://stylifyme.com/)
 
 ---
 
