@@ -434,6 +434,7 @@
 - [ Anime JS ](https://animejs.com/)
 - [ Popmotion Pure | A functional, flexible JavaScript animation library ](https://popmotion.io/pure/)
 - [ curtains.js WebGL tool to animate images and videos ](https://www.curtainsjs.com/index.html)
+- [ force.js | Animation Library ](https://force-js.com/)
 
 <a name="uploads"></a>
 
