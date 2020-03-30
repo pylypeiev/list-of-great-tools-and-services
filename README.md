@@ -76,6 +76,7 @@
 - [ Unminify JS, CSS and HTML Code ](https://unminify.com/)
 - [ online SVG editor ](https://vecta.io/app/edit/demo)
 - [ Fancy Text Generator & Unicode Converter ](https://www.mytextconverter.com)
+- [ SVG Optimiser ](https://petercollingridge.appspot.com/svg-optimiser)
 
 ---
 
