@@ -471,6 +471,7 @@
 - [ HangFire - An easy way to perform background processing in .NET ](https://www.nuget.org/packages/Hangfire/)
 - [ HtmlAgilityPack - library that allows you to parse HTML files](https://www.nuget.org/packages/HtmlAgilityPack/)
 - [ Humanizer - meets all your .NET needs for manipulating and displaying strings, enums, dates, times, timespans, numbers and quantities ](https://www.nuget.org/packages/Humanizer/)
+- [ ImpromptuInterface - A Lightweight Duck Casting Framework for dynamic C# ](https://www.nuget.org/packages/ImpromptuInterface/)
 - [ JWT - JSON Web Token implementation for .NET ](https://www.nuget.org/packages/JWT)
 - [ LiteDB - A lightweight embedded .NET NoSQL document store in a single datafile ](https://www.nuget.org/packages/LiteDB)
 - [ log4net - logging framework ](https://www.nuget.org/packages/log4net/)
