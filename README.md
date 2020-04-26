@@ -11,11 +11,12 @@
 5. [ CSS nice effects ](#css)
 6. [ Public APIs ](#api)
 7. [ Tips and tricks ](#tip)
-8. [ Libraries ](#library)
-9. [ Info ](#info)
-10. [ Chrome Extensions ](#ext-chrome)
-11. [ Visual Studio Code Extensions ](#ext-vscode)
-12. [ Visual Studio Extensions ](#ext-vs)
+8. [ JS Libraries ](#library)
+9. [ .Net NuGet packages ](#nuggets)
+10. [ Info ](#info)
+11. [ Chrome Extensions ](#ext-chrome)
+12. [ Visual Studio Code Extensions ](#ext-vscode)
+13. [ Visual Studio Extensions ](#ext-vs)
 
 <a name="validators"></a>
 
@@ -347,7 +348,6 @@
 7. [ Time and numbers ](#numbers)
 8. [ Animation ](#animation)
 9. [ Uploads ](#uploads)
-10. [ Dotnet Nuggets ](#nuggets)
 
 - [ Search for type script npm packages ](https://microsoft.github.io/TypeSearch/)
 - [ Angular 2+ Components & Libraries ](https://github.com/brillout/awesome-angular-components)
@@ -447,7 +447,7 @@
 
 <a name="nuggets"></a>
 
-#### Dotnet Nuggets :poultry_leg:
+## 9. .Net NuGet packages :gem:
 
 - [ AngleSharp - ultimate angle brackets parser library ](https://www.nuget.org/packages/AngleSharp)
 - [ AutoMapper - A convention-based object-object mapper](https://www.nuget.org/packages/AutoMapper/)
@@ -492,6 +492,7 @@
 - [ Sigil - A fail-fast validating helper for .NET CIL generation ](https://www.nuget.org/packages/Sigil/)
 - [ SimpleInjector - an easy, flexible and fast dependency injection library](https://www.nuget.org/packages/SimpleInjector/)
 - [ sqlite-net-pcl - library providing easy SQLite database storage ](https://www.nuget.org/packages/sqlite-net-pcl)
+- [ Spire.Doc - enables to fast generate, open, write, edit and save Word document etc. ](https://www.nuget.org/packages/Spire.Doc/)
 - [ Stateless - Create state machines ](https://www.nuget.org/packages/Stateless/)
 - [ Tavis.UriTemplates - URI Template resolution library ](https://www.nuget.org/packages/Tavis.UriTemplates/)
 - [ TinyORM - Simple, fast, and secure micro ORM for .NET](https://www.nuget.org/packages/TinyORM/)
@@ -503,7 +504,7 @@
 
 <a name="info"></a>
 
-## 9. Info :information_source:
+## 10. Info :information_source:
 
 - [ commonly used language features in a side-by-side format ](http://hyperpolyglot.org/)
 - [ 101 LINQ samples ](https://code.msdn.microsoft.com/101-LINQ-Samples-3fb9811b)
@@ -535,7 +536,7 @@
 
 <a name="ext-chrome"></a>
 
-## 10. Chrome Extensions :satellite:
+## 11. Chrome Extensions :satellite:
 
 - [ AdGuard AdBlocker ](https://chrome.google.com/webstore/detail/adguard-adblocker/bgnkhhnnamicmpeenaelnjfhikgbkllg)
 - [ Augury ](https://chrome.google.com/webstore/detail/augury/elgalmkoelokbchhkhacckoklkejnhcd)
@@ -565,7 +566,7 @@
 
 <a name="ext-vscode"></a>
 
-## 11. Visual Studio Code Extensions :hammer:
+## 12. Visual Studio Code Extensions :hammer:
 
 - [ .NET Core Test Explorer ](https://marketplace.visualstudio.com/items?itemName=formulahendry.dotnet-test-explorer) 
 - [ Angular 8 Snippets - TypeScript, Html, Angular Material, ngRx, RxJS & Flex Layout ](https://marketplace.visualstudio.com/items?itemName=Mikael.Angular-BeastCode)
@@ -641,7 +642,7 @@
 
 <a name="ext-vs"></a>
 
-## 12. Visual Studio Extensions :wrench:
+## 13. Visual Studio Extensions :wrench:
 - [ Add New File ](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.AddNewFile)
 - [ Browser Reload on Save ](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.BrowserReloadonSave)
 - [ Browser Sync ](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.BrowserSync)
