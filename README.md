@@ -391,6 +391,7 @@
 - [ D3 Data-Driven Documents ](https://d3js.org/)
 - [ Charts ](https://www.chartjs.org/)
 - [ Chart Image from URL ](https://quickchart.io)
+- [ a vanilla javascript plugin to create interactive tables and spreadsheets compatible with Excel ](https://github.com/paulhodel/jexcel)
 
 <a name="utilities"></a>
 
@@ -501,6 +502,10 @@
 - [ UnitConversion - Expansible Unit Conversion Library ](https://www.nuget.org/packages/UnitConversion/)
 - [ YamlDotNet - .NET library for YAML ](https://www.nuget.org/packages/YamlDotNet/)
 
+
+#### WPF libraries :open_file_folder:
+
+- [ Modern styles and controls for your WPF applications ](https://github.com/Kinnara/ModernWpf)
 ---
 
 <a name="info"></a>
