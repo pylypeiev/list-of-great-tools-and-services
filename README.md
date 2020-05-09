@@ -348,6 +348,8 @@
 7. [ Time and numbers ](#numbers)
 8. [ Animation ](#animation)
 9. [ Uploads ](#uploads)
+10. [ WebGL ](#webgl)
+
 
 - [ Search for type script npm packages ](https://microsoft.github.io/TypeSearch/)
 - [ Angular 2+ Components & Libraries ](https://github.com/brillout/awesome-angular-components)
@@ -383,6 +385,7 @@
 - [ Rallax dynamic parallax scrolling effect ](https://chriscavs.github.io/rallax-demo/)
 - [ Balloon.css — simple pure CSS tooltips ](https://kazzkiq.github.io/balloon.css/)
 - [ JS audio library howler.js ](https://github.com/goldfire/howler.js)
+- [ Add Clippy Office Assistant to any website for instant nostalgia ](https://www.smore.com/clippy-js)
 
 <a name="data"></a>
 
@@ -444,6 +447,13 @@
 #### Uploads :open_file_folder:
 
 - [ FilePond upload library ](https://pqina.nl/filepond/)
+
+
+<a name="webgl"></a>
+
+#### WebGL :video_game:
+
+- [ pixi.js: The HTML5 Creation Engine ](https://github.com/pixijs/pixi.js)
 
 
 <a name="nuggets"></a>
@@ -559,7 +569,7 @@
 - [ Computer Security algorithms in C# ](https://github.com/zeyadetman/Computer-Security-algorithms)
 - [ CSS3 Transform 2D & 3D CSS Transform functions visualizer ](https://css-transform.moro.es/)
 - [ 33 самые полезные регулярки для веб-разработчика ](https://proglib.io/p/33-regexp/)
-- [ You Dont Need JS CSS is powerful, you can do a lot of things without JS. ](https://github.com/you-dont-need/You-Dont-Need-JavaScript)
+- [ You don't Need JS CSS is powerful, you can do a lot of things without JS. ](https://github.com/you-dont-need/You-Dont-Need-JavaScript)
 - [ CSS Click Chart | CSS3 Browser Support and Information ](https://css3clickchart.com/)
 - [ Web Skills ](https://andreasbm.github.io/web-skills/?compact)
 - [ 30 Web Development Checklists Every Team Should Keep Handy — SitePoint ](https://www.sitepoint.com/web-development-checklists/)
@@ -567,6 +577,13 @@
 - [ An A-Z Index of Windows CMD commands ](https://ss64.com/nt/)
 - [ Visual CSS editor ](https://cssbuilder.veliovgroup.com/)
 - [ Mobile Input Visualization ](https://better-mobile-inputs.netlify.app/)
+- [ HTML DOM - Common tasks of managing HTML DOM with native API ](https://htmldom.dev/)
+- [ 30 seconds of code ](https://www.30secondsofcode.org/)
+- [ Laws, Theories, Principles and Patterns that developers will find useful. ](https://github.com/dwmkerr/hacker-laws)
+- [ EMMET шпаргалка для молниеносностной верстки ](https://dwstroy.ru/stail/plaginy-rasshireniya/emmet-shpargalka/)
+- [ Visualization of npm dependencies ](https://npm.anvaka.com/#/)
+- [ ES2015+ cheatsheet ](https://devhints.io/es6)
+- [ Can i Include tag to another html tag ](https://caninclude.glitch.me/)
 
 <a name="ext-chrome"></a>
 
@@ -657,6 +674,7 @@
 - [ Paste JSON as Code ](https://marketplace.visualstudio.com/items?itemName=quicktype.quicktype)
 - [ Path Intellisense ](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
 - [ Prettier - Code formatter ](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+- [ Regex Previewer - Visual Studio Marketplace ](https://marketplace.visualstudio.com/items?itemName=chrmarti.regex)
 - [ SCSS IntelliSense ](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-scss)
 - [ Sort JSON objects ](https://marketplace.visualstudio.com/items?itemName=richie5um2.vscode-sort-json)
 - [ Sort lines ](https://marketplace.visualstudio.com/items?itemName=Tyriar.sort-lines)
@@ -672,7 +690,6 @@
 - [ vscode-solution-explorer ](https://marketplace.visualstudio.com/items?itemName=fernandoescolar.vscode-solution-explorer)
 - [ XML Tools ](https://marketplace.visualstudio.com/items?itemName=DotJoshJohnson.xml)
 - [ YAML ](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml)
-
 
 <a name="ext-vs"></a>
 
