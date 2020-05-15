@@ -78,6 +78,8 @@
 - [ online SVG editor ](https://vecta.io/app/edit/demo)
 - [ Fancy Text Generator & Unicode Converter ](https://www.mytextconverter.com)
 - [ SVG Optimiser ](https://petercollingridge.appspot.com/svg-optimiser)
+- [ CSS Shorthand Generator ](http://shrthnd.volume7.io/)
+- [ Generate C# models and helper methods from JSON ](https://quicktype.io/csharp/)
 
 ---
 
@@ -109,6 +111,7 @@
 - [ The Ultimate Website Code Generators ](https://webcode.tools/)
 - [ CSS triangle generator ](http://apps.eky.hk/css-triangle-generator/)
 - [ Soft UI Neumorphism CSS shadow generator ](https://neumorphism.io)
+- [ CSS Section Separator Generator ](https://wweb.dev/resources/css-separator-generator)
 
 ---
 
@@ -584,6 +587,8 @@
 - [ Visualization of npm dependencies ](https://npm.anvaka.com/#/)
 - [ ES2015+ cheatsheet ](https://devhints.io/es6)
 - [ Can i Include tag to another html tag ](https://caninclude.glitch.me/)
+- [ Laws, Theories, Principles and Patterns that developers will find useful. ](https://github.com/dwmkerr/hacker-laws)
+- [ PXTOEM.NET - Pixels to EMs converter ](https://pxtoem.net/)
 
 <a name="ext-chrome"></a>
 
