@@ -80,6 +80,7 @@
 - [ SVG Optimiser ](https://petercollingridge.appspot.com/svg-optimiser)
 - [ CSS Shorthand Generator ](http://shrthnd.volume7.io/)
 - [ Generate C# models and helper methods from JSON ](https://quicktype.io/csharp/)
+- [ Type Scale - A Visual Calculator ](https://type-scale.com/)
 
 ---
 
@@ -398,6 +399,7 @@
 - [ Charts ](https://www.chartjs.org/)
 - [ Chart Image from URL ](https://quickchart.io)
 - [ a vanilla javascript plugin to create interactive tables and spreadsheets compatible with Excel ](https://github.com/paulhodel/jexcel)
+- [ Excel Workbook Manager ](https://github.com/exceljs/exceljs)
 
 <a name="utilities"></a>
 
@@ -409,6 +411,8 @@
 - [ Workbox  PWA |  Google Developers ](https://developers.google.com/web/tools/workbox/)
 - [ instant.page just-in-time preloading — preloade a page right before a user clicks on it](https://instant.page/)
 - [ javascript library for working with currency values](https://currency.js.org/)
+- [ DOMPurify - a DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML](https://github.com/cure53/DOMPurify)
+- [ Anti-XSS Security Filters for EJS and More ](https://github.com/salesforce/secure-filters)
 
 <a name="text"></a>
 
@@ -422,6 +426,9 @@
 - [ .NET implementation of the GNU/Gettext library ](https://github.com/neris/NGettext)
 - [ Simple autocomplete pure vanilla JS library ](https://tarekraafat.github.io/autoComplete.js/#/)
 - [ animate typing utility ](https://typeitjs.com/)
+- [ Extra JavaScript string methods ](https://github.com/jprichardson/string.js)
+- [ JS library to detect links / URLs / Emails in text and convert them to clickable HTML anchor links ](http://alexcorvi.github.io/anchorme.js/)
+- [ Super fast unicode-aware string manipulation Javascript library ](https://github.com/sallar/stringz)
 
 <a name="numbers"></a>
 
@@ -589,6 +596,8 @@
 - [ Can i Include tag to another html tag ](https://caninclude.glitch.me/)
 - [ Laws, Theories, Principles and Patterns that developers will find useful. ](https://github.com/dwmkerr/hacker-laws)
 - [ PXTOEM.NET - Pixels to EMs converter ](https://pxtoem.net/)
+- [ Practical samples of aspnet core 2.1, 2.2, 3.1 ](https://github.com/dodyg/practical-aspnetcore)
+- [ Modern CSS Solutions ](https://moderncss.dev/)
 
 <a name="ext-chrome"></a>
 
@@ -613,6 +622,7 @@
 - [ Octotree ](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc)
 - [ React Developer Tools ](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
 - [ ResponsiveViewer ](https://chrome.google.com/webstore/detail/responsiveviewer/inmopeiepgfljkpkidclfgbgbmfcennb)
+- [ SEO META in 1 CLICK ](https://chrome.google.com/webstore/detail/seo-meta-in-1-click/bjogjfinolnhfhkbipphpdlldadpnmhc)
 - [ SimilarWeb - Traffic Rank & Website Analysis ](https://chrome.google.com/webstore/detail/similarweb-traffic-rank-w/hoklmmgfnpapgjgcpechhaamimifchmp)
 - [ SVG Gobbler ](https://chrome.google.com/webstore/detail/svg-gobbler/mpbmflcodadhgafbbakjeahpandgcbch)
 - [ User-Agent Switcher for Chrome ](https://chrome.google.com/webstore/detail/user-agent-switcher-for-c/djflhoibgkdhkhhcedjiklpkjnoahfmg)
@@ -634,6 +644,7 @@
 - [ Auto Import ](https://marketplace.visualstudio.com/items?itemName=steoates.autoimport)
 - [ Auto Rename Tag ](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
 - [ Autoprefixer ](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-autoprefixer)
+- [ Bookmarks ](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks)
 - [ Bootstrap 4, Font awesome 4, Font Awesome 5 Free & Pro snippets ](https://marketplace.visualstudio.com/items?itemName=thekalinga.bootstrap4-vscode)
 - [ Bracket Pair Colorizer ](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
 - [ C# ](https://marketplace.visualstudio.com/items?itemName=ms-vscode.csharp)
@@ -654,7 +665,9 @@
 - [ ESLint ](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 - [ Excel Viewer ](https://marketplace.visualstudio.com/items?itemName=GrapeCity.gc-excelviewer)
 - [ Fabulous ](https://marketplace.visualstudio.com/items?itemName=Raathigeshan.fabulous)
+- [ Fabulous ](https://marketplace.visualstudio.com/items?itemName=lacroixdavid1.vscode-format-context-menu)
 - [ GitLens — Git supercharged ](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
+- [ Git Graph ](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph)
 - [ HTML CSS Support ](https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css)
 - [ HTML Snippets ](https://marketplace.visualstudio.com/items?itemName=abusaidm.html-snippets)
 - [ ILSpy .NET Decompiler ](https://marketplace.visualstudio.com/items?itemName=icsharpcode.ilspy-vscode)
