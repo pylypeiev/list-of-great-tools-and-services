@@ -625,6 +625,7 @@
 - [ SEO META in 1 CLICK ](https://chrome.google.com/webstore/detail/seo-meta-in-1-click/bjogjfinolnhfhkbipphpdlldadpnmhc)
 - [ SimilarWeb - Traffic Rank & Website Analysis ](https://chrome.google.com/webstore/detail/similarweb-traffic-rank-w/hoklmmgfnpapgjgcpechhaamimifchmp)
 - [ SVG Gobbler ](https://chrome.google.com/webstore/detail/svg-gobbler/mpbmflcodadhgafbbakjeahpandgcbch)
+- [ Ubersuggest ](https://chrome.google.com/webstore/detail/ubersuggest/nmpgaoofmjlimabncmnmnopjabbflegf/related)
 - [ User-Agent Switcher for Chrome ](https://chrome.google.com/webstore/detail/user-agent-switcher-for-c/djflhoibgkdhkhhcedjiklpkjnoahfmg)
 - [ VisBug ](https://chrome.google.com/webstore/detail/visbug/cdockenadnadldjbbgcallicgledbeoc)
 - [ Wappalyzer ](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg)
