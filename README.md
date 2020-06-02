@@ -25,7 +25,6 @@
 - [ HTML validator ](https://validator.w3.org/)
 - [ CSS validator ](https://csstree.github.io/docs/validator.html)
 - [ Link checker ](https://validator.w3.org/checklink)
-- [ Autoprefixer ONLINE ](https://autoprefixer.github.io/)
 - [ Test a website's performance ](https://www.webpagetest.org/)
 - [ Googles Mobile friendly tester ](https://search.google.com/test/mobile-friendly)
 - [ Scan headers of web site ](https://securityheaders.com/)
@@ -33,6 +32,7 @@
 - [ Test your media queries ](https://hover-pointer-media-query.glitch.me/)
 - [ CSS Lint - validate your CSS ](http://csslint.net/)
 - [ CSS Stats ](https://cssstats.com/)
+- [ Meta Tags — Preview, Edit and Generate ](https://metatags.io/)
 
 ---
 
@@ -81,6 +81,7 @@
 - [ CSS Shorthand Generator ](http://shrthnd.volume7.io/)
 - [ Generate C# models and helper methods from JSON ](https://quicktype.io/csharp/)
 - [ Type Scale - A Visual Calculator ](https://type-scale.com/)
+- [ Autoprefixer ONLINE ](https://autoprefixer.github.io/)
 
 ---
 
@@ -113,6 +114,8 @@
 - [ CSS triangle generator ](http://apps.eky.hk/css-triangle-generator/)
 - [ Soft UI Neumorphism CSS shadow generator ](https://neumorphism.io)
 - [ CSS Section Separator Generator ](https://wweb.dev/resources/css-separator-generator)
+- [ CSS Grid Generator ](https://wweb.dev/resources/css-separator-generator)
+
 
 ---
 
@@ -192,6 +195,7 @@
 - [ Illustration Gallery by ManyPixels | Open-Source Editable Illustrations ](https://www.manypixels.co/gallery/)
 - [ favicon.ico Generator ](https://www.favicon.cc/)
 - [ CopyChar – Copy special characters to your clipboard ](https://copychar.cc/)
+- [ Android Material Icon Generator ](https://android-material-icon-generator.bitdroid.de/)
 
 <a name="css2"></a>
 
@@ -390,6 +394,7 @@
 - [ Balloon.css — simple pure CSS tooltips ](https://kazzkiq.github.io/balloon.css/)
 - [ JS audio library howler.js ](https://github.com/goldfire/howler.js)
 - [ Add Clippy Office Assistant to any website for instant nostalgia ](https://www.smore.com/clippy-js)
+- [ Create and animate hand-drawn annotations on a web page ](https://github.com/pshihn/rough-notation)
 
 <a name="data"></a>
 
@@ -413,6 +418,7 @@
 - [ javascript library for working with currency values](https://currency.js.org/)
 - [ DOMPurify - a DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML](https://github.com/cure53/DOMPurify)
 - [ Anti-XSS Security Filters for EJS and More ](https://github.com/salesforce/secure-filters)
+- [ lib for doing addition, subtraction, multiplication and division operations precisely ](https://github.com/nefe/number-precision)
 
 <a name="text"></a>
 
@@ -470,12 +476,14 @@
 
 ## 9. .Net NuGet packages :gem:
 
+- [ AsyncEx - A helper library for async/await. ](https://github.com/StephenCleary/AsyncEx)
 - [ AngleSharp - ultimate angle brackets parser library ](https://www.nuget.org/packages/AngleSharp)
 - [ AutoMapper - A convention-based object-object mapper](https://www.nuget.org/packages/AutoMapper/)
 - [ Awesome C-Sharp frameworks, libraries and software ](https://github.com/uhub/awesome-c-sharp)
 - [ BenchmarkDotNet - Powerful .NET library for benchmarking](https://www.nuget.org/packages/BenchmarkDotNet/)
 - [ BookFx - creating Excel workbooks.](https://www.nuget.org/packages/BookFx/)
 - [ CacheManager.Core - caching abstraction layer for .NET ](https://www.nuget.org/packages/CacheManager.Core)
+- [ Comparers - The last comparison library you'll ever need!](https://github.com/StephenCleary/Comparers)
 - [ ConsoleTables - Allows you to print out objects in a table view in a console application](https://www.nuget.org/packages/ConsoleTables/)
 - [ CSCore -  advanced audio library](https://www.nuget.org/packages/CSCore/)
 - [ CSharpFunctionalExtensions - functional extensions for C# ](https://www.nuget.org/packages/CSharpFunctionalExtensions/)
@@ -598,6 +606,8 @@
 - [ PXTOEM.NET - Pixels to EMs converter ](https://pxtoem.net/)
 - [ Practical samples of aspnet core 2.1, 2.2, 3.1 ](https://github.com/dodyg/practical-aspnetcore)
 - [ Modern CSS Solutions ](https://moderncss.dev/)
+- [ Api Design Guidelines ](http://apistylebook.com/design/guidelines/)
+- [ HTML5 Periodical Table ](https://websitesetup.org/html5-periodical-table/)
 
 <a name="ext-chrome"></a>
 
@@ -699,6 +709,7 @@
 - [ Sort JSON objects ](https://marketplace.visualstudio.com/items?itemName=richie5um2.vscode-sort-json)
 - [ Sort lines ](https://marketplace.visualstudio.com/items?itemName=Tyriar.sort-lines)
 - [ SQL Server (mssql) ](https://marketplace.visualstudio.com/items?itemName=ms-mssql.mssql)
+- [ styco - styled components converter ](https://marketplace.visualstudio.com/items?itemName=DanielHuth.styco)
 - [ SVG Viewer ](https://marketplace.visualstudio.com/items?itemName=cssho.vscode-svgviewer)
 - [ TabNine ](https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode)
 - [ TODO Highlight ](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight)
