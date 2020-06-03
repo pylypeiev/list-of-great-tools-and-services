@@ -82,6 +82,7 @@
 - [ Generate C# models and helper methods from JSON ](https://quicktype.io/csharp/)
 - [ Type Scale - A Visual Calculator ](https://type-scale.com/)
 - [ Autoprefixer ONLINE ](https://autoprefixer.github.io/)
+- [ Social Good Ipsum -text generator ](http://socialgoodipsum.com/#/)
 
 ---
 
