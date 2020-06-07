@@ -609,6 +609,7 @@
 - [ Modern CSS Solutions ](https://moderncss.dev/)
 - [ Api Design Guidelines ](http://apistylebook.com/design/guidelines/)
 - [ HTML5 Periodical Table ](https://websitesetup.org/html5-periodical-table/)
+- [ 🧠Psychology of Design: 101 Cognitive Biases & Principles That Affect Your UX ](https://growth.design/psychology/)
 
 <a name="ext-chrome"></a>
 
