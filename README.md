@@ -83,6 +83,8 @@
 - [ Type Scale - A Visual Calculator ](https://type-scale.com/)
 - [ Autoprefixer ONLINE ](https://autoprefixer.github.io/)
 - [ Social Good Ipsum -text generator ](http://socialgoodipsum.com/#/)
+- [ Stack Trace Formatter - Pretty print your exception messages ](https://elmah.io/tools/stack-trace-formatter/)
+- [ Web.config Transformation Tester - Online XDT/XML tool ](https://elmah.io/tools/webconfig-transformation-tester/)
 
 ---
 
@@ -116,6 +118,7 @@
 - [ Soft UI Neumorphism CSS shadow generator ](https://neumorphism.io)
 - [ CSS Section Separator Generator ](https://wweb.dev/resources/css-separator-generator)
 - [ CSS Grid Generator ](https://wweb.dev/resources/css-separator-generator)
+- [ CSS3 Generator ](https://css3generator.com/)
 
 
 ---
@@ -610,6 +613,9 @@
 - [ Api Design Guidelines ](http://apistylebook.com/design/guidelines/)
 - [ HTML5 Periodical Table ](https://websitesetup.org/html5-periodical-table/)
 - [ 🧠Psychology of Design: 101 Cognitive Biases & Principles That Affect Your UX ](https://growth.design/psychology/)
+- [ Alvin Ashcraft Morning dew ](https://www.alvinashcraft.com/)
+- [ Software engineering blog damienbod.com ](https://damienbod.com/)
+- [ You've Been Haacked ](https://haacked.com/)
 
 <a name="ext-chrome"></a>
 
@@ -761,6 +767,7 @@
 - [ Open in Visual Studio Code ](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.OpeninVisualStudioCode)
 - [ Output enhancer ](https://marketplace.visualstudio.com/items?itemName=NikolayBalakin.Outputenhancer)
 - [ Package Installer ](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.PackageInstaller)
+- [ Power Commands for Visual Studio ](https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.PowerCommandsforVisualStudio)
 - [ Roslynator 2019 ](https://marketplace.visualstudio.com/items?itemName=josefpihrt.Roslynator2019)
 - [ Ref12 ](https://marketplace.visualstudio.com/items?itemName=SchabseSLaks.Ref12)
 - [ Regex Editor ](https://marketplace.visualstudio.com/items?itemName=GeorgyLosenkov.RegexEditorLite)
