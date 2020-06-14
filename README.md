@@ -85,6 +85,7 @@
 - [ Social Good Ipsum -text generator ](http://socialgoodipsum.com/#/)
 - [ Stack Trace Formatter - Pretty print your exception messages ](https://elmah.io/tools/stack-trace-formatter/)
 - [ Web.config Transformation Tester - Online XDT/XML tool ](https://elmah.io/tools/webconfig-transformation-tester/)
+- [ Find the best font ](https://fontspark.app/)
 
 ---
 
@@ -160,6 +161,10 @@
 - [ Palette Generator - The super color schemes generator ](https://hexcolor.co/palette-generator)
 - [ Stylify Me - Online Style Guide Generator ](http://stylifyme.com/)
 - [ Image to Colors Palette Generator - Extract Colors from Image ](https://hexcolor.co/image-to-colors)
+- [ 404 Illustrations ](https://error404.fun/)
+- [ Shape Divider App ](https://www.shapedivider.app/)
+- [ colors.lol - Overly descriptive color palettes ](https://colors.lol/)
+- [ Colormind - the AI powered color palette generator ](http://colormind.io/)
 
 ---
 
@@ -322,6 +327,7 @@
 - [ Countries Get information about countries via a RESTful API ](http://restcountries.euREST)
 - [ HTTP based JSON storage ](https://jsonbox.io/)
 - [ Placeholder kitten images for developers ](https://placekitten.com/)
+- [ Random User Generator ](https://randomuser.me/)
 
 ---
 
@@ -399,6 +405,8 @@
 - [ JS audio library howler.js ](https://github.com/goldfire/howler.js)
 - [ Add Clippy Office Assistant to any website for instant nostalgia ](https://www.smore.com/clippy-js)
 - [ Create and animate hand-drawn annotations on a web page ](https://github.com/pshihn/rough-notation)
+- [ A JS library to animate content on page scroll ](https://github.com/mamunhpath/josh.js)
+- [ JavaScript Drag & Drop library ](https://github.com/Shopify/draggable)
 
 <a name="data"></a>
 
@@ -616,6 +624,7 @@
 - [ Alvin Ashcraft Morning dew ](https://www.alvinashcraft.com/)
 - [ Software engineering blog damienbod.com ](https://damienbod.com/)
 - [ You've Been Haacked ](https://haacked.com/)
+- [ i Hate Regex - The Regex Cheat Sheet ](https://ihateregex.io/)
 
 <a name="ext-chrome"></a>
 
