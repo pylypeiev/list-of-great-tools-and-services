@@ -533,6 +533,7 @@
 - [ ReactiveUi - A MVVM framework that integrates with the Reactive Extensions for .NET ](https://www.nuget.org/packages/ReactiveUI/)
 - [ Selenium.WebDriver - browser automation library](https://www.nuget.org/packages/Selenium.WebDriver)
 - [ Shouldly - Assertion framework for .NET ](https://www.nuget.org/packages/Shouldly)
+- [ Swashbuckle - adds a Swagger to WebApi projects ](https://www.nuget.org/packages/Swashbuckle/)
 - [ Sigil - A fail-fast validating helper for .NET CIL generation ](https://www.nuget.org/packages/Sigil/)
 - [ SimpleInjector - an easy, flexible and fast dependency injection library](https://www.nuget.org/packages/SimpleInjector/)
 - [ sqlite-net-pcl - library providing easy SQLite database storage ](https://www.nuget.org/packages/sqlite-net-pcl)
@@ -633,6 +634,7 @@
 ## 11. Chrome Extensions :satellite:
 
 - [ AdGuard AdBlocker ](https://chrome.google.com/webstore/detail/adguard-adblocker/bgnkhhnnamicmpeenaelnjfhikgbkllg)
+- [ ARC Toolkit Accessibility testing tools ](https://chrome.google.com/webstore/detail/arc-toolkit/chdkkkccnlfncngelccgbgfmjebmkmce)
 - [ Augury ](https://chrome.google.com/webstore/detail/augury/elgalmkoelokbchhkhacckoklkejnhcd)
 - [ BehindTheOverlay ](https://chrome.google.com/webstore/detail/behindtheoverlay/ljipkdpcjbmhkdjjmbbaggebcednbbme)
 - [ BuiltWith Technology Profiler ](https://chrome.google.com/webstore/detail/builtwith-technology-prof/dapjbgnjinbpoindlpdmhochffioedbn)
@@ -642,13 +644,14 @@
 - [ CSSViewer ](https://chrome.google.com/webstore/detail/cssviewer/ggfgijbpiheegefliciemofobhmofgce)
 - [ EditThisCookie ](https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg)
 - [ Emmet Re:view ](https://chrome.google.com/webstore/detail/emmet-review/epejoicbhllgiimigokgjdoijnpaphdp)
-- [ Gmail Checker Plus ](https://chrome.google.com/webstore/detail/checker-plus-for-gmail/oeopbcgkkoapgobdbedcemjljbihmemj)
+- [ Emmet Re:view ](https://chrome.google.com/webstore/detail/link-to-text-fragment/pbcodcjpfjdpcineamnnmbkkmkdpajjg)
 - [ IE Tab ](https://chrome.google.com/webstore/detail/ie-tab/hehijbfgiekmjfkfjpbkbammjbdenadd)
 - [ JsonDiscovery ](https://chrome.google.com/webstore/detail/jsondiscovery/pamhglogfolfbmlpnenhpeholpnlcclo)
+- [ Link to Text Fragment ](https://chrome.google.com/webstore/detail/checker-plus-for-gmail/oeopbcgkkoapgobdbedcemjljbihmemj)
 - [ Marinara: Pomodoro® Assistant ](https://chrome.google.com/webstore/detail/marinara-pomodoro%C2%AE-assist/lojgmehidjdhhbmpjfamhpkpodfcodef)
 - [ META SEO inspector ](https://chrome.google.com/webstore/detail/meta-seo-inspector/ibkclpciafdglkjkcibmohobjkcfkaef)
-- [ Pesticide. Outlining each element to better see placement on the page. ](https://chrome.google.com/webstore/detail/pesticide-for-chrome/bblbgcheenepgnnajgfpiicnbbdmmooh)
 - [ Octotree ](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc)
+- [ Pesticide. Outlining each element to better see placement on the page. ](https://chrome.google.com/webstore/detail/pesticide-for-chrome/bblbgcheenepgnnajgfpiicnbbdmmooh)
 - [ React Developer Tools ](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
 - [ ResponsiveViewer ](https://chrome.google.com/webstore/detail/responsiveviewer/inmopeiepgfljkpkidclfgbgbmfcennb)
 - [ SEO META in 1 CLICK ](https://chrome.google.com/webstore/detail/seo-meta-in-1-click/bjogjfinolnhfhkbipphpdlldadpnmhc)
@@ -658,7 +661,6 @@
 - [ User-Agent Switcher for Chrome ](https://chrome.google.com/webstore/detail/user-agent-switcher-for-c/djflhoibgkdhkhhcedjiklpkjnoahfmg)
 - [ VisBug ](https://chrome.google.com/webstore/detail/visbug/cdockenadnadldjbbgcallicgledbeoc)
 - [ Wappalyzer ](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg)
-- [ ARC Toolkit Accessibility testing tools ](https://chrome.google.com/webstore/detail/arc-toolkit/chdkkkccnlfncngelccgbgfmjebmkmce)
 
 <a name="ext-vscode"></a>
 
