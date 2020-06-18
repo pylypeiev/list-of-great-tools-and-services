@@ -166,6 +166,7 @@
 - [ Shape Divider App ](https://www.shapedivider.app/)
 - [ colors.lol - Overly descriptive color palettes ](https://colors.lol/)
 - [ Colormind - the AI powered color palette generator ](http://colormind.io/)
+- [ Sorted CSS Colors ](https://enes.in/sorted-colors/)
 
 ---
 
