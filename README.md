@@ -777,6 +777,7 @@
 - [ Microsoft Code Analysis 2019 ](https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.MicrosoftCodeAnalysis2019)
 - [ Microsoft RDLC Report Designer ](https://marketplace.visualstudio.com/items?itemName=ProBITools.MicrosoftRdlcReportDesignerforVisualStudio-18001)
 - [ Microsoft Reporting Services Projects ](https://marketplace.visualstudio.com/items?itemName=ProBITools.MicrosoftReportProjectsforVisualStudio)
+- [ OzCode ](https://marketplace.visualstudio.com/items?itemName=CodeValueLtd.OzCode)
 - [ Open Command Line ](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.OpenCommandLine)
 - [ Open in Visual Studio Code ](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.OpeninVisualStudioCode)
 - [ Output enhancer ](https://marketplace.visualstudio.com/items?itemName=NikolayBalakin.Outputenhancer)
