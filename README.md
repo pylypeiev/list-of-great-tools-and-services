@@ -90,6 +90,7 @@
 - [ Web.config Transformation Tester - Online XDT/XML tool ](https://elmah.io/tools/webconfig-transformation-tester/)
 - [ Find the best font ](https://fontspark.app/)
 - [ Warp SVG Online ](https://pavellaptev.github.io/warp-svg/)
+- [ Generate Data ](https://www.generatedata.com/)
 
 ---
 
