@@ -171,6 +171,7 @@
 - [ colors.lol - Overly descriptive color palettes ](https://colors.lol/)
 - [ Colormind - the AI powered color palette generator ](http://colormind.io/)
 - [ Sorted CSS Colors ](https://enes.in/sorted-colors/)
+- [ WhatTheHex?! — Let's give your color a name?! ](https://whatthehex.app/)
 
 ---
 
