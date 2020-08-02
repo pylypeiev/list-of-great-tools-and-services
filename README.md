@@ -35,6 +35,7 @@
 - [ Meta Tags — Preview, Edit and Generate ](https://metatags.io/)
 - [ Google Closure Compiler Service ](https://closure-compiler.appspot.com/home)
 - [ Netling is a load tester client for easy web testing. ](https://github.com/hallatore/Netling)
+- [ EmailComb - Removes unused CSS from email templates ](https://emailcomb.com/dark/)
 
 ---
 
@@ -88,6 +89,7 @@
 - [ Stack Trace Formatter - Pretty print your exception messages ](https://elmah.io/tools/stack-trace-formatter/)
 - [ Web.config Transformation Tester - Online XDT/XML tool ](https://elmah.io/tools/webconfig-transformation-tester/)
 - [ Find the best font ](https://fontspark.app/)
+- [ Warp SVG Online ](https://pavellaptev.github.io/warp-svg/)
 
 ---
 
