@@ -125,6 +125,7 @@
 - [ CSS Section Separator Generator ](https://wweb.dev/resources/css-separator-generator)
 - [ CSS Grid Generator ](https://wweb.dev/resources/css-separator-generator)
 - [ CSS3 Generator ](https://css3generator.com/)
+- [ Dashed Border Generator ](https://codepen.io/amitsheen/full/xxZeyjO)
 
 
 ---
@@ -212,6 +213,8 @@
 - [ favicon.ico Generator ](https://www.favicon.cc/)
 - [ CopyChar – Copy special characters to your clipboard ](https://copychar.cc/)
 - [ Android Material Icon Generator ](https://android-material-icon-generator.bitdroid.de/)
+- [ Tabler Icons ](https://tablericons.com/)
+- [ Feather – Simply beautiful open source icons ](https://feathericons.com/)
 
 <a name="css2"></a>
 
@@ -230,6 +233,7 @@
 - [ Amazing Button Hover [Responsive] ](https://codepen.io/dev_loop/pen/agqYaN)
 - [ Modern Gradient Buttons ](https://codepen.io/TheCSSKing/pen/abowMLW)
 - [ 3D Button ](https://codepen.io/kathykato/pen/gOOjgmP)
+- [ Candy Color Button Animation ](https://codepen.io/yuhomyan/pen/OJMejWJ)
 
 <a name="css3"></a>
 
@@ -249,6 +253,7 @@
 - [ Button Hover Effects ](https://codepen.io/kjbrum/pen/wBBLXx)
 - [ CSS Button with Hover Effect ](https://codepen.io/JeremyWink/pen/LYPMLLV)
 - [ Staggered Blink Text Menu ](https://codepen.io/alphardex/pen/BayEGXB)
+- [ CSS Tooltip Magic ](https://codepen.io/tutsplus/pen/WROvdG)
 
 <a name="css4"></a>
 
@@ -303,6 +308,9 @@
 - [ Animated Search Interaction ](https://codepen.io/jkantner/pen/eYmvvqQ)
 - [ CSS Card Hover Effects NO JS ](https://codepen.io/Jhonierpc/pen/MWgBJpy)
 - [ Moving Letters | Text animated with JavaScript & anime.js ](https://tobiasahlin.com/moving-letters/)
+- [ 3D Book Image CSS Generator ](https://3d-book-css.netlify.app/)
+- [ CSS-only Hamburger Menu ](https://codepen.io/blakeeric/pen/ExVLWOQ)
+- [ CSS Typing Effect ](https://codepen.io/denic/pen/GRoOxbM)
 
 <a name="css7"></a>
 
@@ -313,6 +321,7 @@
 - [ Animated Progress Bar ](https://codepen.io/Thibaut/pen/ouKvy)
 - [ Reddit border inset challenge ](https://codepen.io/daviddarnes/pen/oEEqdp)
 - [ Add to cart ](https://codepen.io/aaroniker/pen/QWWXKVP)
+- [ 3D Keyboard Keys (with long Key) ](https://codepen.io/Filanovich/pen/vYOZxKE)
 
 ---
 
@@ -355,6 +364,12 @@
 - [ CSS Helper ](https://lesson-web.ru/modules/css_helper)
 - [ The history of any GitHub file ](https://githistory.xyz/)
 - [ CSS selectors :nth Tester ](https://css-tricks.com/examples/nth-child-tester/)
+- [ CSS Selectors Explained ](https://hugogiraudel.github.io/selectors-explained/)
+- [ Learn Box Alignment ](https://ishadeed.com/article/learn-box-alignment/)
+- [ Favorite JS utills in  single line of code ](https://1loc.dev/)
+- [ CSS - 30 seconds of CSS ](https://www.30secondsofcode.org/css/p/1)
+- [ 1-Line Layouts ](https://1linelayouts.glitch.me/)
+- [ A Complete Guide to Flexbox | CSS-Tricks ](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
 ---
 
@@ -532,6 +547,7 @@
 - [ MvvmCross - MVVM framework for cross-platform solutions](https://www.nuget.org/packages/MvvmCross/)
 - [ Newtonsoft.Json - high-performance JSON framework for .NET](https://www.nuget.org/packages/Newtonsoft.Json/)
 - [ NSubstitute - A friendly substitute for .NET mocking libraries ](https://www.nuget.org/packages/NSubstitute)
+- [ ObjectDumper.NET - serialize C# objects to string for debugging and logging purposes ](https://www.nuget.org/packages/ObjectDumper.NET/)
 - [ Polly - a library that allows developers to express resilience and transient fault handling policies](https://www.nuget.org/packages/Polly/)
 - [ QRCoder - create QR codes ](https://www.nuget.org/packages/QRCoder)
 - [ Reactive Extensions (Rx) for .NET ](https://www.nuget.org/packages/System.Reactive/)
@@ -633,6 +649,8 @@
 - [ Software engineering blog damienbod.com ](https://damienbod.com/)
 - [ You've Been Haacked ](https://haacked.com/)
 - [ i Hate Regex - The Regex Cheat Sheet ](https://ihateregex.io/)
+- [ CSS breakpoints used by popular CSS frameworks ](https://polypane.app/blog/css-breakpoints-used-by-popular-css-frameworks/)
+- [ this vs that - What is the difference between ___ and ___ in the front-end development? ](https://thisthat.dev/)
 
 <a name="ext-chrome"></a>
 
@@ -649,7 +667,7 @@
 - [ CSSViewer ](https://chrome.google.com/webstore/detail/cssviewer/ggfgijbpiheegefliciemofobhmofgce)
 - [ EditThisCookie ](https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg)
 - [ Emmet Re:view ](https://chrome.google.com/webstore/detail/emmet-review/epejoicbhllgiimigokgjdoijnpaphdp)
-- [ Emmet Re:view ](https://chrome.google.com/webstore/detail/link-to-text-fragment/pbcodcjpfjdpcineamnnmbkkmkdpajjg)
+- [ Link to text fragment ](https://chrome.google.com/webstore/detail/link-to-text-fragment/pbcodcjpfjdpcineamnnmbkkmkdpajjg)
 - [ IE Tab ](https://chrome.google.com/webstore/detail/ie-tab/hehijbfgiekmjfkfjpbkbammjbdenadd)
 - [ JsonDiscovery ](https://chrome.google.com/webstore/detail/jsondiscovery/pamhglogfolfbmlpnenhpeholpnlcclo)
 - [ Link to Text Fragment ](https://chrome.google.com/webstore/detail/checker-plus-for-gmail/oeopbcgkkoapgobdbedcemjljbihmemj)
@@ -702,7 +720,7 @@
 - [ Debugger for Firefox ](https://marketplace.visualstudio.com/items?itemName=firefox-devtools.vscode-firefox-debug)
 - [ ESLint ](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 - [ Excel Viewer ](https://marketplace.visualstudio.com/items?itemName=GrapeCity.gc-excelviewer)
-- [ Fabulous ](https://marketplace.visualstudio.com/items?itemName=Raathigeshan.fabulous)
+- [ Fabulous ](https://marketplace.visualstudio.com/items?itemName=Raathigeshan.fabulous) 
 - [ Fabulous ](https://marketplace.visualstudio.com/items?itemName=lacroixdavid1.vscode-format-context-menu)
 - [ GitLens — Git supercharged ](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
 - [ Git Graph ](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph)
@@ -752,6 +770,7 @@
 
 ## 13. Visual Studio Extensions :wrench:
 - [ Add New File ](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.AddNewFile)
+- [ Angular Language Service ](https://marketplace.visualstudio.com/items?itemName=TypeScriptTeam.AngularLanguageService)
 - [ Browser Reload on Save ](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.BrowserReloadonSave)
 - [ Browser Sync ](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.BrowserSync)
 - [ C# Methods Code Snippets ](https://marketplace.visualstudio.com/items?itemName=jsakamoto.CMethodsCodeSnippets)
