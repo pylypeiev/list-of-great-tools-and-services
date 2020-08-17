@@ -36,6 +36,7 @@
 - [ Google Closure Compiler Service ](https://closure-compiler.appspot.com/home)
 - [ Netling is a load tester client for easy web testing. ](https://github.com/hallatore/Netling)
 - [ EmailComb - Removes unused CSS from email templates ](https://emailcomb.com/dark/)
+- [ Facebook meta tags checker ](https://developers.facebook.com/tools/debug/)
 
 ---
 
@@ -453,6 +454,7 @@
 - [ DOMPurify - a DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML](https://github.com/cure53/DOMPurify)
 - [ Anti-XSS Security Filters for EJS and More ](https://github.com/salesforce/secure-filters)
 - [ lib for doing addition, subtraction, multiplication and division operations precisely ](https://github.com/nefe/number-precision)
+- [ Generate RFC-compliant UUIDs ](https://github.com/uuidjs/uuid)
 
 <a name="text"></a>
 
@@ -535,6 +537,7 @@
 - [ HtmlAgilityPack - library that allows you to parse HTML files](https://www.nuget.org/packages/HtmlAgilityPack/)
 - [ Humanizer - meets all your .NET needs for manipulating and displaying strings, enums, dates, times, timespans, numbers and quantities ](https://www.nuget.org/packages/Humanizer/)
 - [ ImpromptuInterface - A Lightweight Duck Casting Framework for dynamic C# ](https://www.nuget.org/packages/ImpromptuInterface/)
+- [ ImageSharp - A library for processing of image files ](https://www.nuget.org/packages/SixLabors.ImageSharp/)
 - [ JWT - JSON Web Token implementation for .NET ](https://www.nuget.org/packages/JWT)
 - [ LiteDB - A lightweight embedded .NET NoSQL document store in a single datafile ](https://www.nuget.org/packages/LiteDB)
 - [ log4net - logging framework ](https://www.nuget.org/packages/log4net/)
