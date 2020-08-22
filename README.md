@@ -255,6 +255,7 @@
 - [ CSS Button with Hover Effect ](https://codepen.io/JeremyWink/pen/LYPMLLV)
 - [ Staggered Blink Text Menu ](https://codepen.io/alphardex/pen/BayEGXB)
 - [ CSS Tooltip Magic ](https://codepen.io/tutsplus/pen/WROvdG)
+- [ text-decoration: underline animated ](https://codepen.io/Kseso/pen/bfzjC)
 
 <a name="css4"></a>
 
@@ -541,6 +542,7 @@
 - [ JWT - JSON Web Token implementation for .NET ](https://www.nuget.org/packages/JWT)
 - [ LiteDB - A lightweight embedded .NET NoSQL document store in a single datafile ](https://www.nuget.org/packages/LiteDB)
 - [ log4net - logging framework ](https://www.nuget.org/packages/log4net/)
+- [ LunrCore - a lightweight full-text indexing library ](https://www.nuget.org/packages/LunrCore)
 - [ Magick.NET - a powerful image manipulation library ](https://github.com/dlemstra/Magick.NET)
 - [ MassTransit - a message-based distributed application framework ](https://www.nuget.org/packages/MassTransit)
 - [ MediatR - Simple, unambitious mediator implementation in .NET ](https://www.nuget.org/packages/MediatR/)
