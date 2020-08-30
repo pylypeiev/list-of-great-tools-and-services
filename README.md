@@ -37,6 +37,8 @@
 - [ Netling is a load tester client for easy web testing. ](https://github.com/hallatore/Netling)
 - [ EmailComb - Removes unused CSS from email templates ](https://emailcomb.com/dark/)
 - [ Facebook meta tags checker ](https://developers.facebook.com/tools/debug/)
+- [ Website Vulnerability Scanner - Scan for Web Vulnerabilities ](https://pentest-tools.com/website-vulnerability-scanning/website-scanner)
+- [ Nibbler - Test any website ](https://nibbler.silktide.com/)
 
 ---
 
@@ -174,6 +176,7 @@
 - [ Colormind - the AI powered color palette generator ](http://colormind.io/)
 - [ Sorted CSS Colors ](https://enes.in/sorted-colors/)
 - [ WhatTheHex?! — Let's give your color a name?! ](https://whatthehex.app/)
+- [ Free stock photos · Pexels ](https://www.pexels.com/)
 
 ---
 
@@ -235,6 +238,7 @@
 - [ Modern Gradient Buttons ](https://codepen.io/TheCSSKing/pen/abowMLW)
 - [ 3D Button ](https://codepen.io/kathykato/pen/gOOjgmP)
 - [ Candy Color Button Animation ](https://codepen.io/yuhomyan/pen/OJMejWJ)
+- [ Satisfying Button (Neumorphism) ](https://codepen.io/yuhomyan/pen/MWKdKpr)
 
 <a name="css3"></a>
 
@@ -546,6 +550,7 @@
 - [ Magick.NET - a powerful image manipulation library ](https://github.com/dlemstra/Magick.NET)
 - [ MassTransit - a message-based distributed application framework ](https://www.nuget.org/packages/MassTransit)
 - [ MediatR - Simple, unambitious mediator implementation in .NET ](https://www.nuget.org/packages/MediatR/)
+- [ MetadataExtractor - Easily and efficiently read metadata from images, video and audio files. ](https://www.nuget.org/packages/MetadataExtractor/)
 - [ MiniProfiler - Lightweight mini-profiler, designed for ASP.NET](https://www.nuget.org/packages/MiniProfiler/)
 - [ Moq - friendly mocking framework for .NET](https://www.nuget.org/packages/Moq/)
 - [ MoreLinq - enhances LINQ to Objects ](https://www.nuget.org/packages/morelinq/)
@@ -557,6 +562,7 @@
 - [ QRCoder - create QR codes ](https://www.nuget.org/packages/QRCoder)
 - [ Reactive Extensions (Rx) for .NET ](https://www.nuget.org/packages/System.Reactive/)
 - [ ReactiveUi - A MVVM framework that integrates with the Reactive Extensions for .NET ](https://www.nuget.org/packages/ReactiveUI/)
+- [ Respawn - Intelligent checkpoints for database tests ](https://www.nuget.org/packages/Respawn)
 - [ Selenium.WebDriver - browser automation library](https://www.nuget.org/packages/Selenium.WebDriver)
 - [ Shouldly - Assertion framework for .NET ](https://www.nuget.org/packages/Shouldly)
 - [ Swashbuckle - adds a Swagger to WebApi projects ](https://www.nuget.org/packages/Swashbuckle/)
