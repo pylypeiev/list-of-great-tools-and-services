@@ -94,6 +94,7 @@
 - [ Find the best font ](https://fontspark.app/)
 - [ Warp SVG Online ](https://pavellaptev.github.io/warp-svg/)
 - [ Generate Data ](https://www.generatedata.com/)
+- [ Omatsuri - Open source browser tools for everyday use ](https://omatsuri.app/)
 
 ---
 
@@ -219,6 +220,7 @@
 - [ Android Material Icon Generator ](https://android-material-icon-generator.bitdroid.de/)
 - [ Tabler Icons ](https://tablericons.com/)
 - [ Feather – Simply beautiful open source icons ](https://feathericons.com/)
+- [ Heroicons - Beautiful SVG icons, by the makers of Tailwind CSS ](https://heroicons.com/)
 
 <a name="css2"></a>
 
@@ -317,6 +319,7 @@
 - [ 3D Book Image CSS Generator ](https://3d-book-css.netlify.app/)
 - [ CSS-only Hamburger Menu ](https://codepen.io/blakeeric/pen/ExVLWOQ)
 - [ CSS Typing Effect ](https://codepen.io/denic/pen/GRoOxbM)
+- [ Order confirm animation ](https://codepen.io/aaroniker/pen/eYOVrNa)
 
 <a name="css7"></a>
 
@@ -539,6 +542,7 @@
 - [ FluentValidation - A validation library for .NET](https://www.nuget.org/packages/fluentvalidation)
 - [ Gematria - library for calculating the Gematria value of strings of Hebrew text, or convert numbers into Hebrew Text ](https://www.nuget.org/packages/Gematria/)
 - [ HangFire - An easy way to perform background processing in .NET ](https://www.nuget.org/packages/Hangfire/)
+- [ Handlebars.Net - templating language ](https://www.nuget.org/packages/Handlebars.Net/)
 - [ HtmlAgilityPack - library that allows you to parse HTML files](https://www.nuget.org/packages/HtmlAgilityPack/)
 - [ Humanizer - meets all your .NET needs for manipulating and displaying strings, enums, dates, times, timespans, numbers and quantities ](https://www.nuget.org/packages/Humanizer/)
 - [ ImpromptuInterface - A Lightweight Duck Casting Framework for dynamic C# ](https://www.nuget.org/packages/ImpromptuInterface/)
@@ -661,7 +665,9 @@
 - [ You've Been Haacked ](https://haacked.com/)
 - [ i Hate Regex - The Regex Cheat Sheet ](https://ihateregex.io/)
 - [ CSS breakpoints used by popular CSS frameworks ](https://polypane.app/blog/css-breakpoints-used-by-popular-css-frameworks/)
-- [ this vs that - What is the difference between ___ and ___ in the front-end development? ](https://thisthat.dev/)
+- [ this vs that - What is the difference between and in the front-end development? ](https://thisthat.dev/)
+- [ The Data Visualisation Catalogue ](https://datavizcatalogue.com/)
+- [ High Scalability ](http://highscalability.com/)
 
 <a name="ext-chrome"></a>
 
