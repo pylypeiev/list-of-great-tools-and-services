@@ -262,6 +262,7 @@
 - [ Staggered Blink Text Menu ](https://codepen.io/alphardex/pen/BayEGXB)
 - [ CSS Tooltip Magic ](https://codepen.io/tutsplus/pen/WROvdG)
 - [ text-decoration: underline animated ](https://codepen.io/Kseso/pen/bfzjC)
+- [ Gradient Background On Hover ](https://codepen.io/justinecodes/pen/ZvEYVb)
 
 <a name="css4"></a>
 
@@ -520,14 +521,12 @@
 
 ## 9. .Net NuGet packages :gem:
 
-- [ AsyncEx - A helper library for async/await. ](https://github.com/StephenCleary/AsyncEx)
 - [ AngleSharp - ultimate angle brackets parser library ](https://www.nuget.org/packages/AngleSharp)
 - [ AutoMapper - A convention-based object-object mapper](https://www.nuget.org/packages/AutoMapper/)
 - [ Awesome C-Sharp frameworks, libraries and software ](https://github.com/uhub/awesome-c-sharp)
 - [ BenchmarkDotNet - Powerful .NET library for benchmarking](https://www.nuget.org/packages/BenchmarkDotNet/)
 - [ BookFx - creating Excel workbooks.](https://www.nuget.org/packages/BookFx/)
 - [ CacheManager.Core - caching abstraction layer for .NET ](https://www.nuget.org/packages/CacheManager.Core)
-- [ Comparers - The last comparison library you'll ever need!](https://github.com/StephenCleary/Comparers)
 - [ ConsoleTables - Allows you to print out objects in a table view in a console application](https://www.nuget.org/packages/ConsoleTables/)
 - [ CSCore -  advanced audio library](https://www.nuget.org/packages/CSCore/)
 - [ CSharpFunctionalExtensions - functional extensions for C# ](https://www.nuget.org/packages/CSharpFunctionalExtensions/)
@@ -560,6 +559,8 @@
 - [ MoreLinq - enhances LINQ to Objects ](https://www.nuget.org/packages/morelinq/)
 - [ MvvmCross - MVVM framework for cross-platform solutions](https://www.nuget.org/packages/MvvmCross/)
 - [ Newtonsoft.Json - high-performance JSON framework for .NET](https://www.nuget.org/packages/Newtonsoft.Json/)
+- [ Nito.AsyncEx - A helper library for async/await. ](https://www.nuget.org/packages/Nito.AsyncEx/)
+- [ Nito.Comparers - The last comparison library you'll ever need!](https://www.nuget.org/packages/Nito.Comparers/)
 - [ NSubstitute - A friendly substitute for .NET mocking libraries ](https://www.nuget.org/packages/NSubstitute)
 - [ ObjectDumper.NET - serialize C# objects to string for debugging and logging purposes ](https://www.nuget.org/packages/ObjectDumper.NET/)
 - [ Polly - a library that allows developers to express resilience and transient fault handling policies](https://www.nuget.org/packages/Polly/)
@@ -668,6 +669,7 @@
 - [ this vs that - What is the difference between and in the front-end development? ](https://thisthat.dev/)
 - [ The Data Visualisation Catalogue ](https://datavizcatalogue.com/)
 - [ High Scalability ](http://highscalability.com/)
+- [ CSS Values | CSS Reference, Properties and Values, Browser Support ](https://cssvalues.com/)
 
 <a name="ext-chrome"></a>
 
@@ -684,10 +686,11 @@
 - [ CSSViewer ](https://chrome.google.com/webstore/detail/cssviewer/ggfgijbpiheegefliciemofobhmofgce)
 - [ EditThisCookie ](https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg)
 - [ Emmet Re:view ](https://chrome.google.com/webstore/detail/emmet-review/epejoicbhllgiimigokgjdoijnpaphdp)
-- [ Link to text fragment ](https://chrome.google.com/webstore/detail/link-to-text-fragment/pbcodcjpfjdpcineamnnmbkkmkdpajjg)
+- [ Headless Recorder ](https://chrome.google.com/webstore/detail/headless-recorder/djeegiggegleadkkbgopoonhjimgehda/related)
 - [ IE Tab ](https://chrome.google.com/webstore/detail/ie-tab/hehijbfgiekmjfkfjpbkbammjbdenadd)
 - [ JsonDiscovery ](https://chrome.google.com/webstore/detail/jsondiscovery/pamhglogfolfbmlpnenhpeholpnlcclo)
-- [ Link to Text Fragment ](https://chrome.google.com/webstore/detail/checker-plus-for-gmail/oeopbcgkkoapgobdbedcemjljbihmemj)
+- [ Link to text fragment ](https://chrome.google.com/webstore/detail/link-to-text-fragment/pbcodcjpfjdpcineamnnmbkkmkdpajjg)
+- [ Checker Plus for Gmail ](https://chrome.google.com/webstore/detail/checker-plus-for-gmail/oeopbcgkkoapgobdbedcemjljbihmemj)
 - [ Marinara: Pomodoro® Assistant ](https://chrome.google.com/webstore/detail/marinara-pomodoro%C2%AE-assist/lojgmehidjdhhbmpjfamhpkpodfcodef)
 - [ META SEO inspector ](https://chrome.google.com/webstore/detail/meta-seo-inspector/ibkclpciafdglkjkcibmohobjkcfkaef)
 - [ Octotree ](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc)
