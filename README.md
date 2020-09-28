@@ -178,6 +178,7 @@
 - [ Sorted CSS Colors ](https://enes.in/sorted-colors/)
 - [ WhatTheHex?! — Let's give your color a name?! ](https://whatthehex.app/)
 - [ Free stock photos · Pexels ](https://www.pexels.com/)
+- [ Color Palette Generator ](https://palettegenerator.colorion.co/)
 
 ---
 
@@ -221,6 +222,7 @@
 - [ Tabler Icons ](https://tablericons.com/)
 - [ Feather – Simply beautiful open source icons ](https://feathericons.com/)
 - [ Heroicons - Beautiful SVG icons, by the makers of Tailwind CSS ](https://heroicons.com/)
+- [ Game-icons.net - Icons for your games or apps ](https://game-icons.net/)
 
 <a name="css2"></a>
 
@@ -502,6 +504,7 @@
 - [ Popmotion Pure | A functional, flexible JavaScript animation library ](https://popmotion.io/pure/)
 - [ curtains.js WebGL tool to animate images and videos ](https://www.curtainsjs.com/index.html)
 - [ force.js | Animation Library ](https://force-js.com/)
+- [ Ztext - 3D typography ](https://bennettfeely.com/ztext/)
 
 <a name="uploads"></a>
 
