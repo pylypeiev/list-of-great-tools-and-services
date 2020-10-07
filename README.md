@@ -179,6 +179,7 @@
 - [ WhatTheHex?! — Let's give your color a name?! ](https://whatthehex.app/)
 - [ Free stock photos · Pexels ](https://www.pexels.com/)
 - [ Color Palette Generator ](https://palettegenerator.colorion.co/)
+- [ BGJar - SVG background image generator](https://bgjar.com/)
 
 ---
 
@@ -223,6 +224,7 @@
 - [ Feather – Simply beautiful open source icons ](https://feathericons.com/)
 - [ Heroicons - Beautiful SVG icons, by the makers of Tailwind CSS ](https://heroicons.com/)
 - [ Game-icons.net - Icons for your games or apps ](https://game-icons.net/)
+- [ Iconpie -  All Your Icons Easy As Pie ](https://iconpie.com/)
 
 <a name="css2"></a>
 
@@ -441,6 +443,7 @@
 - [ Create and animate hand-drawn annotations on a web page ](https://github.com/pshihn/rough-notation)
 - [ A JS library to animate content on page scroll ](https://github.com/mamunhpath/josh.js)
 - [ JavaScript Drag & Drop library ](https://github.com/Shopify/draggable)
+- [ PrintJs - A tiny library to help printing from the web ](https://github.com/crabbly/print.js)
 
 <a name="data"></a>
 
@@ -525,12 +528,14 @@
 ## 9. .Net NuGet packages :gem:
 
 - [ AngleSharp - ultimate angle brackets parser library ](https://www.nuget.org/packages/AngleSharp)
+- [ AutoFixture - Automating non-relevant Test Fixture Setup](https://www.nuget.org/packages/AutoFixture)
 - [ AutoMapper - A convention-based object-object mapper](https://www.nuget.org/packages/AutoMapper/)
 - [ Awesome C-Sharp frameworks, libraries and software ](https://github.com/uhub/awesome-c-sharp)
 - [ BenchmarkDotNet - Powerful .NET library for benchmarking](https://www.nuget.org/packages/BenchmarkDotNet/)
 - [ BookFx - creating Excel workbooks.](https://www.nuget.org/packages/BookFx/)
 - [ CacheManager.Core - caching abstraction layer for .NET ](https://www.nuget.org/packages/CacheManager.Core)
-- [ ConsoleTables - Allows you to print out objects in a table view in a console application](https://www.nuget.org/packages/ConsoleTables/)
+- [ ConsoleAppFramework - an infrastructure of creating CLI tools ](https://github.com/Cysharp/ConsoleAppFramework/)
+- [ ConsoleTab  les - Allows you to print out objects in a table view in a console application](https://www.nuget.org/packages/ConsoleTables/)
 - [ CSCore -  advanced audio library](https://www.nuget.org/packages/CSCore/)
 - [ CSharpFunctionalExtensions - functional extensions for C# ](https://www.nuget.org/packages/CSharpFunctionalExtensions/)
 - [ CsvHelper - A library for reading and writing CSV files](https://www.nuget.org/packages/CsvHelper/)
@@ -673,6 +678,7 @@
 - [ The Data Visualisation Catalogue ](https://datavizcatalogue.com/)
 - [ High Scalability ](http://highscalability.com/)
 - [ CSS Values | CSS Reference, Properties and Values, Browser Support ](https://cssvalues.com/)
+- [ pinvoke.net - the interop wiki ](http://www.pinvoke.net/index.aspx)
 
 <a name="ext-chrome"></a>
 
