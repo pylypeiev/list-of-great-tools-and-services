@@ -180,6 +180,7 @@
 - [ Free stock photos · Pexels ](https://www.pexels.com/)
 - [ Color Palette Generator ](https://palettegenerator.colorion.co/)
 - [ BGJar - SVG background image generator](https://bgjar.com/)
+- [ Squircley | SVG Squircle Maker](https://squircley.app/)
 
 ---
 
@@ -225,6 +226,8 @@
 - [ Heroicons - Beautiful SVG icons, by the makers of Tailwind CSS ](https://heroicons.com/)
 - [ Game-icons.net - Icons for your games or apps ](https://game-icons.net/)
 - [ Iconpie -  All Your Icons Easy As Pie ](https://iconpie.com/)
+- [ iconhub ](https://iconhub.io/)
+- [ Mono Icons ](https://icons.mono.company/)
 
 <a name="css2"></a>
 
@@ -297,6 +300,8 @@
 - [ Loader ](https://codepen.io/kathykato/pen/YzKGrqd)
 - [ Flat Preloader ](https://codepen.io/zerospree/pen/aCjAz)
 - [ SpinKit | Simple CSS Spinners ](https://tobiasahlin.com/spinkit/)
+- [ Helicopter loading page ](https://codepen.io/vpankov/pen/ojdbvY)
+- [ Infinite 8 loader ](https://codepen.io/Nnatt/pen/RWWBKm)
 
 <a name="css6"></a>
 
@@ -325,6 +330,8 @@
 - [ CSS-only Hamburger Menu ](https://codepen.io/blakeeric/pen/ExVLWOQ)
 - [ CSS Typing Effect ](https://codepen.io/denic/pen/GRoOxbM)
 - [ Order confirm animation ](https://codepen.io/aaroniker/pen/eYOVrNa)
+- [ CSS box-shadow examples - CSS Scan ](https://getcssscan.com/css-box-shadow-examples)
+- [ In/out of focus text effect ](https://codepen.io/jonnyscholes/pen/QbKPdZ)
 
 <a name="css7"></a>
 
@@ -679,6 +686,7 @@
 - [ High Scalability ](http://highscalability.com/)
 - [ CSS Values | CSS Reference, Properties and Values, Browser Support ](https://cssvalues.com/)
 - [ pinvoke.net - the interop wiki ](http://www.pinvoke.net/index.aspx)
+- [ Database of Databases  ](https://dbdb.io/)
 
 <a name="ext-chrome"></a>
 
