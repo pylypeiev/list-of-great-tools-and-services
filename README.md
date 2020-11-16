@@ -181,6 +181,7 @@
 - [ Color Palette Generator ](https://palettegenerator.colorion.co/)
 - [ BGJar - SVG background image generator](https://bgjar.com/)
 - [ Squircley | SVG Squircle Maker](https://squircley.app/)
+- [ CSS Background Patterns by MagicPattern ](https://www.magicpattern.design/tools/css-backgrounds)
 
 ---
 
@@ -228,6 +229,8 @@
 - [ Iconpie -  All Your Icons Easy As Pie ](https://iconpie.com/)
 - [ iconhub ](https://iconhub.io/)
 - [ Mono Icons ](https://icons.mono.company/)
+- [ Phosphor Icons - a flexible icon family ](https://phosphoricons.com/)
+- [ Simple Icons ](https://phosphoricons.com/)
 
 <a name="css2"></a>
 
@@ -580,6 +583,7 @@
 - [ ObjectDumper.NET - serialize C# objects to string for debugging and logging purposes ](https://www.nuget.org/packages/ObjectDumper.NET/)
 - [ Polly - a library that allows developers to express resilience and transient fault handling policies](https://www.nuget.org/packages/Polly/)
 - [ QRCoder - create QR codes ](https://www.nuget.org/packages/QRCoder)
+- [ Quartz - Scheduling Framework for .NET ](https://www.nuget.org/packages/Quartz)
 - [ Reactive Extensions (Rx) for .NET ](https://www.nuget.org/packages/System.Reactive/)
 - [ ReactiveUi - A MVVM framework that integrates with the Reactive Extensions for .NET ](https://www.nuget.org/packages/ReactiveUI/)
 - [ Respawn - Intelligent checkpoints for database tests ](https://www.nuget.org/packages/Respawn)
@@ -701,6 +705,7 @@
 - [ CSS Feature Toggles ](https://chrome.google.com/webstore/detail/css-feature-toggles/aeinmfddnniiloadoappmdnffcbffnjg)
 - [ CSS Peeper ](https://chrome.google.com/webstore/detail/css-peeper/mbnbehikldjhnfehhnaidhjhoofhpehk)
 - [ CSSViewer ](https://chrome.google.com/webstore/detail/cssviewer/ggfgijbpiheegefliciemofobhmofgce)
+- [ CSS Spider ](https://chrome.google.com/webstore/detail/css-spider/eneakgbflmejjpkogbdmebjbfcdebjik/related)
 - [ EditThisCookie ](https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg)
 - [ Emmet Re:view ](https://chrome.google.com/webstore/detail/emmet-review/epejoicbhllgiimigokgjdoijnpaphdp)
 - [ Headless Recorder ](https://chrome.google.com/webstore/detail/headless-recorder/djeegiggegleadkkbgopoonhjimgehda/related)
