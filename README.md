@@ -95,6 +95,7 @@
 - [ Warp SVG Online ](https://pavellaptev.github.io/warp-svg/)
 - [ Generate Data ](https://www.generatedata.com/)
 - [ Omatsuri - Open source browser tools for everyday use ](https://omatsuri.app/)
+- [ Svg Path Editor ](https://omatsuri.app/)
 
 ---
 
