@@ -235,6 +235,7 @@
 - [ Simple Icons ](https://phosphoricons.com/)
 - [ Boxicons : Premium web friendly icons for free ](https://boxicons.com/)
 - [ FlatIcon - Free vector icons ](https://www.flaticon.com/)
+- [ Iconmonstr - Free simple icons for your next project ](https://iconmonstr.com/)
 
 <a name="css2"></a>
 
