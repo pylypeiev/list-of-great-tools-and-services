@@ -97,6 +97,8 @@
 - [ Generate Data ](https://www.generatedata.com/)
 - [ Omatsuri - Open source browser tools for everyday use ](https://omatsuri.app/)
 - [ Svg Path Editor ](https://omatsuri.app/)
+- [ Multiline String Converter C# strings ](https://elmah.io/tools/multiline-string-converter/)
+- [ SQL Formatter ](https://codebeautify.org/sqlformatter)
 
 ---
 
@@ -132,7 +134,6 @@
 - [ CSS Grid Generator ](https://wweb.dev/resources/css-separator-generator)
 - [ CSS3 Generator ](https://css3generator.com/)
 - [ Dashed Border Generator ](https://codepen.io/amitsheen/full/xxZeyjO)
-
 
 ---
 
@@ -184,6 +185,7 @@
 - [ BGJar - SVG background image generator](https://bgjar.com/)
 - [ Squircley | SVG Squircle Maker](https://squircley.app/)
 - [ CSS Background Patterns by MagicPattern ](https://www.magicpattern.design/tools/css-backgrounds)
+- [ Eva Design System: DL color generator ](https://colors.eva.design/)
 
 ---
 
@@ -228,7 +230,7 @@
 - [ Feather – Simply beautiful open source icons ](https://feathericons.com/)
 - [ Heroicons - Beautiful SVG icons, by the makers of Tailwind CSS ](https://heroicons.com/)
 - [ Game-icons.net - Icons for your games or apps ](https://game-icons.net/)
-- [ Iconpie -  All Your Icons Easy As Pie ](https://iconpie.com/)
+- [ Iconpie - All Your Icons Easy As Pie ](https://iconpie.com/)
 - [ iconhub ](https://iconhub.io/)
 - [ Mono Icons ](https://icons.mono.company/)
 - [ Phosphor Icons - a flexible icon family ](https://phosphoricons.com/)
@@ -376,6 +378,7 @@
 - [ HTTP based JSON storage ](https://jsonbox.io/)
 - [ Placeholder kitten images for developers ](https://placekitten.com/)
 - [ Random User Generator ](https://randomuser.me/)
+- [ שירות המטאורולוגי הישראלי API ](https://ims.gov.il/he/ObservationDataAPI)
 
 ---
 
@@ -398,7 +401,7 @@
 - [ CSS selectors :nth Tester ](https://css-tricks.com/examples/nth-child-tester/)
 - [ CSS Selectors Explained ](https://hugogiraudel.github.io/selectors-explained/)
 - [ Learn Box Alignment ](https://ishadeed.com/article/learn-box-alignment/)
-- [ Favorite JS utills in  single line of code ](https://1loc.dev/)
+- [ Favorite JS utills in single line of code ](https://1loc.dev/)
 - [ CSS - 30 seconds of CSS ](https://www.30secondsofcode.org/css/p/1)
 - [ 1-Line Layouts ](https://1linelayouts.glitch.me/)
 - [ A Complete Guide to Flexbox | CSS-Tricks ](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
@@ -421,7 +424,6 @@
 8. [ Animation ](#animation)
 9. [ Uploads ](#uploads)
 10. [ WebGL ](#webgl)
-
 
 - [ Search for type script npm packages ](https://microsoft.github.io/TypeSearch/)
 - [ Angular 2+ Components & Libraries ](https://github.com/brillout/awesome-angular-components)
@@ -533,13 +535,11 @@
 
 - [ FilePond upload library ](https://pqina.nl/filepond/)
 
-
 <a name="webgl"></a>
 
 #### WebGL :video_game:
 
 - [ pixi.js: The HTML5 Creation Engine ](https://github.com/pixijs/pixi.js)
-
 
 <a name="nuggets"></a>
 
@@ -554,8 +554,8 @@
 - [ CacheManager.Core - caching abstraction layer for .NET ](https://www.nuget.org/packages/CacheManager.Core)
 - [ CliWrap - Library for running shell commands](https://www.nuget.org/packages/CliWrap)
 - [ ConsoleAppFramework - an infrastructure of creating CLI tools ](https://github.com/Cysharp/ConsoleAppFramework/)
-- [ ConsoleTab  les - Allows you to print out objects in a table view in a console application](https://www.nuget.org/packages/ConsoleTables/)
-- [ CSCore -  advanced audio library](https://www.nuget.org/packages/CSCore/)
+- [ ConsoleTab les - Allows you to print out objects in a table view in a console application](https://www.nuget.org/packages/ConsoleTables/)
+- [ CSCore - advanced audio library](https://www.nuget.org/packages/CSCore/)
 - [ CSharpFunctionalExtensions - functional extensions for C# ](https://www.nuget.org/packages/CSharpFunctionalExtensions/)
 - [ CsvHelper - A library for reading and writing CSV files](https://www.nuget.org/packages/CsvHelper/)
 - [ Dapper - high performance Micro-ORM](https://www.nuget.org/packages/Dapper/)
@@ -621,6 +621,7 @@
 #### WPF libraries :open_file_folder:
 
 - [ Modern styles and controls for your WPF applications ](https://github.com/Kinnara/ModernWpf)
+
 ---
 
 <a name="info"></a>
@@ -706,7 +707,7 @@
 - [ High Scalability ](http://highscalability.com/)
 - [ CSS Values | CSS Reference, Properties and Values, Browser Support ](https://cssvalues.com/)
 - [ pinvoke.net - the interop wiki ](http://www.pinvoke.net/index.aspx)
-- [ Database of Databases  ](https://dbdb.io/)
+- [ Database of Databases ](https://dbdb.io/)
 
 <a name="ext-chrome"></a>
 
@@ -747,7 +748,7 @@
 
 ## 12. Visual Studio Code Extensions :hammer:
 
-- [ .NET Core Test Explorer ](https://marketplace.visualstudio.com/items?itemName=formulahendry.dotnet-test-explorer) 
+- [ .NET Core Test Explorer ](https://marketplace.visualstudio.com/items?itemName=formulahendry.dotnet-test-explorer)
 - [ Angular 8 Snippets - TypeScript, Html, Angular Material, ngRx, RxJS & Flex Layout ](https://marketplace.visualstudio.com/items?itemName=Mikael.Angular-BeastCode)
 - [ Angular Language Service ](https://marketplace.visualstudio.com/items?itemName=Angular.ng-template)
 - [ Angular Snippets ](https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2)
@@ -778,7 +779,7 @@
 - [ Debugger for Firefox ](https://marketplace.visualstudio.com/items?itemName=firefox-devtools.vscode-firefox-debug)
 - [ ESLint ](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 - [ Excel Viewer ](https://marketplace.visualstudio.com/items?itemName=GrapeCity.gc-excelviewer)
-- [ Fabulous ](https://marketplace.visualstudio.com/items?itemName=Raathigeshan.fabulous) 
+- [ Fabulous ](https://marketplace.visualstudio.com/items?itemName=Raathigeshan.fabulous)
 - [ Fabulous ](https://marketplace.visualstudio.com/items?itemName=lacroixdavid1.vscode-format-context-menu)
 - [ GitLens — Git supercharged ](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
 - [ Git Graph ](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph)
@@ -827,6 +828,7 @@
 <a name="ext-vs"></a>
 
 ## 13. Visual Studio Extensions :wrench:
+
 - [ Add New File ](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.AddNewFile)
 - [ Angular Language Service ](https://marketplace.visualstudio.com/items?itemName=TypeScriptTeam.AngularLanguageService)
 - [ Browser Reload on Save ](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.BrowserReloadonSave)
@@ -874,7 +876,7 @@
 - [ TypeScript Definition Generator](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.TypeScriptDefinitionGenerator)
 - [ Viasfora ](https://marketplace.visualstudio.com/items?itemName=TomasRestrepo.Viasfora)
 - [ Visual Studio IntelliCode ](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.VSIntelliCode)
-- [ Visual Studio Spell Checker  ](https://marketplace.visualstudio.com/items?itemName=EWoodruff.VisualStudioSpellCheckerVS2017andLater)
+- [ Visual Studio Spell Checker ](https://marketplace.visualstudio.com/items?itemName=EWoodruff.VisualStudioSpellCheckerVS2017andLater)
 - [ VSColorOutput ](https://marketplace.visualstudio.com/items?itemName=MikeWard-AnnArbor.VSColorOutput)
 - [ Web Accessibility Checker ](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.WebAccessibilityChecker)
 - [ Web Compiler ](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.WebCompiler)
