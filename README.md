@@ -405,6 +405,7 @@
 - [ CSS - 30 seconds of CSS ](https://www.30secondsofcode.org/css/p/1)
 - [ 1-Line Layouts ](https://1linelayouts.glitch.me/)
 - [ A Complete Guide to Flexbox | CSS-Tricks ](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [ A collection of tips to help take your CSS skills pro ](https://github.com/AllThingsSmitty/css-protips)
 
 ---
 
@@ -464,6 +465,7 @@
 - [ A JS library to animate content on page scroll ](https://github.com/mamunhpath/josh.js)
 - [ JavaScript Drag & Drop library ](https://github.com/Shopify/draggable)
 - [ PrintJs - A tiny library to help printing from the web ](https://github.com/crabbly/print.js)
+- [ Pagemap - Mini map for web pages ](http://github.com/lrsjng/pagemap)
 
 <a name="data"></a>
 
@@ -708,6 +710,7 @@
 - [ CSS Values | CSS Reference, Properties and Values, Browser Support ](https://cssvalues.com/)
 - [ pinvoke.net - the interop wiki ](http://www.pinvoke.net/index.aspx)
 - [ Database of Databases ](https://dbdb.io/)
+- [ The Big List of Naughty Strings ](https://github.com/minimaxir/big-list-of-naughty-strings)
 
 <a name="ext-chrome"></a>
 
