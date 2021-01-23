@@ -186,6 +186,7 @@
 - [ Squircley | SVG Squircle Maker](https://squircley.app/)
 - [ CSS Background Patterns by MagicPattern ](https://www.magicpattern.design/tools/css-backgrounds)
 - [ Eva Design System: DL color generator ](https://colors.eva.design/)
+- [ VISIWIG - Vector Pattern Generator ](https://www.visiwig.com/patterns/)
 
 ---
 
@@ -238,6 +239,7 @@
 - [ Boxicons : Premium web friendly icons for free ](https://boxicons.com/)
 - [ FlatIcon - Free vector icons ](https://www.flaticon.com/)
 - [ Iconmonstr - Free simple icons for your next project ](https://iconmonstr.com/)
+- [ VISIWIG - Icons ](https://www.visiwig.com/icons/)
 
 <a name="css2"></a>
 
