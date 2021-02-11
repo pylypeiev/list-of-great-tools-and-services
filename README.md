@@ -594,6 +594,7 @@
 - [ MoreLinq - enhances LINQ to Objects ](https://www.nuget.org/packages/morelinq/)
 - [ MvvmCross - MVVM framework for cross-platform solutions](https://www.nuget.org/packages/MvvmCross/)
 - [ Newtonsoft.Json - high-performance JSON framework for .NET](https://www.nuget.org/packages/Newtonsoft.Json/)
+- [ NEST - Strongly typed interface to Elasticsearch](https://www.nuget.org/packages/NEST/)
 - [ Nito.AsyncEx - A helper library for async/await. ](https://www.nuget.org/packages/Nito.AsyncEx/)
 - [ Nito.Comparers - The last comparison library you'll ever need!](https://www.nuget.org/packages/Nito.Comparers/)
 - [ NSubstitute - A friendly substitute for .NET mocking libraries ](https://www.nuget.org/packages/NSubstitute)
@@ -609,6 +610,7 @@
 - [ RestSharp - Simple REST and HTTP API Client ](https://www.nuget.org/packages/RestSharp)
 - [ Selenium.WebDriver - browser automation library](https://www.nuget.org/packages/Selenium.WebDriver)
 - [ SharpCompress - a compression library ](https://www.nuget.org/packages/sharpcompress/)
+- [ ShellProgressBar - display progress in your console application ](https://www.nuget.org/packages/ShellProgressBar/)
 - [ Shouldly - Assertion framework for .NET ](https://www.nuget.org/packages/Shouldly)
 - [ Sigil - A fail-fast validating helper for .NET CIL generation ](https://www.nuget.org/packages/Sigil/)
 - [ SimpleInjector - an easy, flexible and fast dependency injection library](https://www.nuget.org/packages/SimpleInjector/)
@@ -619,6 +621,7 @@
 - [ Tavis.UriTemplates - URI Template resolution library ](https://www.nuget.org/packages/Tavis.UriTemplates/)
 - [ TinyORM - Simple, fast, and secure micro ORM for .NET](https://www.nuget.org/packages/TinyORM/)
 - [ Topshelf - Windows service framework for the .NET ](https://www.nuget.org/packages/Topshelf)
+- [ UAParser - user agent parser ](https://www.nuget.org/packages/UAParser/)
 - [ UnitConversion - Expansible Unit Conversion Library ](https://www.nuget.org/packages/UnitConversion/)
 - [ YamlDotNet - .NET library for YAML ](https://www.nuget.org/packages/YamlDotNet/)
 
