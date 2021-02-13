@@ -945,8 +945,8 @@
 
 <a name="windows-musthave"></a>
 
-## 15. Must have Software for Windows :moneybag:
-### Obvious apps like chrome, office etc. are not included
+## 15. Must have Software for Windows :pill:
+##### Obvious apps like chrome, office etc. are not included
 - [ 7zip - file archiver with a high compression ratio ](https://www.7-zip.org/)
 - [ Aimp - Audio Player ](https://www.aimp.ru/)
 - [ Format Factory -  multifunctional multimedia file processing tools ](http://www.pcfreetime.com/formatfactory/index.php)
