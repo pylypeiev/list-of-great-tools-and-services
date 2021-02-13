@@ -17,6 +17,7 @@
 11. [ Chrome Extensions ](#ext-chrome)
 12. [ Visual Studio Code Extensions ](#ext-vscode)
 13. [ Visual Studio Extensions ](#ext-vs)
+14. [ Programming Software for Windows ](#windows-soft)
 
 <a name="validators"></a>
 
@@ -910,3 +911,31 @@
 - [ Web Compiler ](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.WebCompiler)
 - [ Web Essentials 2019 ](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.WebEssentials2019)
 - [ XamlFormatter ](https://marketplace.visualstudio.com/items?itemName=DannOh.XamlFormatter)
+
+
+
+<a name="windows-soft"></a>
+
+## 14. Programming Software for Windows :moneybag:
+- [ Azure Data Studio ](https://docs.microsoft.com/en-us/sql/azure-data-studio/download-azure-data-studio)
+- [ CodeTrack ](https://www.getcodetrack.com/)
+- [ Database Note Taker ](http://databasenotetaker.com/)
+- [ DB Browser for SQLite ](https://sqlitebrowser.org/)
+- [ Docker Desktop ](https://www.docker.com/products/docker-desktop)
+- [ Fiddler ](https://www.telerik.com/fiddler)
+- [ IlSpy ](https://www.microsoft.com/en-us/p/ilspy/9mxfbkfvsq13)
+- [ Jetbrains dotPeek ](https://www.jetbrains.com/decompiler/)
+- [ LinqPad ](https://www.linqpad.net/)
+- [ Notepad++ ](https://notepad-plus-plus.org/)
+- [ NuGet Package Explorer ](https://www.microsoft.com/en-us/p/nuget-package-explorer/9wzdncrdmdm3?rtc=1&WT.mc_id=-blog-scottha&source=lp)
+- [ PerfView ](https://github.com/microsoft/perfview)
+- [ Postman ](https://www.postman.com/)
+- [ Responsively App ](https://responsively.app/download/)
+- [ SSMS SQL Server Management Studio ](https://docs.microsoft.com/en-us/sql/ssms/sql-server-management-studio-ssms)
+- [ Visual Studio ](https://visualstudio.microsoft.com/)
+- [ Visual Studio Code ](https://code.visualstudio.com/)
+- [ WinDbg ](https://www.microsoft.com/en-us/p/windbg-preview/9pgjgd53tn86)
+- [ Windows terminal](https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701)
+- [ WinMerge ](https://winmerge.org/)
+- [ Wireshark ](https://www.wireshark.org/)
+- [ Zeal ](https://zealdocs.org/)
