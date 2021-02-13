@@ -18,6 +18,7 @@
 12. [ Visual Studio Code Extensions ](#ext-vscode)
 13. [ Visual Studio Extensions ](#ext-vs)
 14. [ Programming Software for Windows ](#windows-soft)
+14. [ Must have Software for Windows ](#windows-musthave)
 
 <a name="validators"></a>
 
@@ -930,6 +931,7 @@
 - [ NuGet Package Explorer ](https://www.microsoft.com/en-us/p/nuget-package-explorer/9wzdncrdmdm3?rtc=1&WT.mc_id=-blog-scottha&source=lp)
 - [ PerfView ](https://github.com/microsoft/perfview)
 - [ Postman ](https://www.postman.com/)
+- [ Process Explorer ](https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer)
 - [ Responsively App ](https://responsively.app/download/)
 - [ SSMS SQL Server Management Studio ](https://docs.microsoft.com/en-us/sql/ssms/sql-server-management-studio-ssms)
 - [ Visual Studio ](https://visualstudio.microsoft.com/)
@@ -939,3 +941,27 @@
 - [ WinMerge ](https://winmerge.org/)
 - [ Wireshark ](https://www.wireshark.org/)
 - [ Zeal ](https://zealdocs.org/)
+
+
+<a name="windows-musthave"></a>
+
+## 15. Must have Software for Windows :moneybag:
+### Obvious apps like chrome, office etc. are not included
+- [ 7zip - file archiver with a high compression ratio ](https://www.7-zip.org/)
+- [ Aimp - Audio Player ](https://www.aimp.ru/)
+- [ Format Factory -  multifunctional multimedia file processing tools ](http://www.pcfreetime.com/formatfactory/index.php)
+- [ IDM - the fastest dowmload manager ](https://www.internetdownloadmanager.com/)
+- [ KmPlayer - a media player that can play ALL current formats](https://en.kmplayer.com/)
+- [ NimbleText - a text manipulation tool ](https://nimbletext.com/)
+- [ PowerToys - Windows system utilities to maximize productivity ](https://github.com/microsoft/PowerToys)
+- [ QuickLook - enables a very quick preview of file contents by pressing the Spacebar ](https://www.microsoft.com/en-us/p/quicklook/9nv4bs3l1h4s?WT.mc_id=-blog-scottha)
+- [ Rufus - Create bootable USB drives ](https://rufus.ie/)
+- [ SpaceSniffer - disk space analyser ](http://www.uderzo.it/main_products/space_sniffer/)
+- [ Speccy - advanced system information tool ](https://www.ccleaner.com/speccy)
+- [ Spotify](https://www.microsoft.com/en-us/p/spotify-music/9ncbcszsjrsb?cid=spotifyweb-windows10-store-direct&rtc=1)
+- [ TeamViewer - application for remote control](https://www.teamviewer.com/en/)
+- [ Total Commander - Best file manager ](https://www.ghisler.com/)
+- [ Windows File Recovery ](https://www.microsoft.com/en-us/p/windows-file-recovery/9n26s50ln705)
+- [ Winget - Windows Package Manager CLI ](https://github.com/microsoft/winget-cli)
+
+
