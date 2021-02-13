@@ -427,6 +427,7 @@
 8. [ Animation ](#animation)
 9. [ Uploads ](#uploads)
 10. [ WebGL ](#webgl)
+11. [ React ](#react)
 
 - [ Search for type script npm packages ](https://microsoft.github.io/TypeSearch/)
 - [ Angular 2+ Components & Libraries ](https://github.com/brillout/awesome-angular-components)
@@ -545,6 +546,13 @@
 
 - [ pixi.js: The HTML5 Creation Engine ](https://github.com/pixijs/pixi.js)
 
+<a name="react"></a>
+
+#### React :lipstick:
+
+- [ Why Did You Render: patches React to notify you about avoidable re-renders ](https://www.npmjs.com/package/@welldone-software/why-did-you-render)
+
+
 <a name="nuggets"></a>
 
 ## 9. .Net NuGet packages :gem:
@@ -559,6 +567,7 @@
 - [ CliWrap - Library for running shell commands](https://www.nuget.org/packages/CliWrap)
 - [ ConsoleAppFramework - an infrastructure of creating CLI tools ](https://github.com/Cysharp/ConsoleAppFramework/)
 - [ ConsoleTab les - Allows you to print out objects in a table view in a console application](https://www.nuget.org/packages/ConsoleTables/)
+- [ CommandLineParser - Terse syntax C# command line parser ](https://www.nuget.org/packages/CommandLineParser/)
 - [ CSCore - advanced audio library](https://www.nuget.org/packages/CSCore/)
 - [ CSharpFunctionalExtensions - functional extensions for C# ](https://www.nuget.org/packages/CSharpFunctionalExtensions/)
 - [ CsvHelper - A library for reading and writing CSV files](https://www.nuget.org/packages/CsvHelper/)
