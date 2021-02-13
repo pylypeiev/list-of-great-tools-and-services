@@ -497,6 +497,7 @@
 - [ Anti-XSS Security Filters for EJS and More ](https://github.com/salesforce/secure-filters)
 - [ lib for doing addition, subtraction, multiplication and division operations precisely ](https://github.com/nefe/number-precision)
 - [ Generate RFC-compliant UUIDs ](https://github.com/uuidjs/uuid)
+- [ Bliss - Lea Verou's collection of helpers and light syntactic sugar over Vanilla JS ](https://blissfuljs.com/)
 
 <a name="text"></a>
 
@@ -555,6 +556,7 @@
 #### React :lipstick:
 
 - [ Why Did You Render: patches React to notify you about avoidable re-renders ](https://www.npmjs.com/package/@welldone-software/why-did-you-render)
+- [ Antd - A design system for enterprise-level products ](https://www.npmjs.com/package/antd)
 
 
 <a name="nuggets"></a>
@@ -566,6 +568,7 @@
 - [ AutoMapper - A convention-based object-object mapper](https://www.nuget.org/packages/AutoMapper/)
 - [ Awesome C-Sharp frameworks, libraries and software ](https://github.com/uhub/awesome-c-sharp)
 - [ BenchmarkDotNet - Powerful .NET library for benchmarking](https://www.nuget.org/packages/BenchmarkDotNet/)
+- [ Bogus - data generator for populating objects, supports different locales](https://www.nuget.org/packages/Bogus)
 - [ BookFx - creating Excel workbooks.](https://www.nuget.org/packages/BookFx/)
 - [ CacheManager.Core - caching abstraction layer for .NET ](https://www.nuget.org/packages/CacheManager.Core)
 - [ CliWrap - Library for running shell commands](https://www.nuget.org/packages/CliWrap)
@@ -730,6 +733,7 @@
 - [ pinvoke.net - the interop wiki ](http://www.pinvoke.net/index.aspx)
 - [ Database of Databases ](https://dbdb.io/)
 - [ The Big List of Naughty Strings ](https://github.com/minimaxir/big-list-of-naughty-strings)
+- [ Architecture Playbook ](https://nocomplexity.com/documents/arplaybook/)
 
 <a name="ext-chrome"></a>
 
