@@ -187,6 +187,8 @@
 - [ CSS Background Patterns by MagicPattern ](https://www.magicpattern.design/tools/css-backgrounds)
 - [ Eva Design System: DL color generator ](https://colors.eva.design/)
 - [ VISIWIG - Vector Pattern Generator ](https://www.visiwig.com/patterns/)
+- [ FarbVélo —— Random Color Cycler ](https://farbvelo.elastiq.ch/)
+- [ Pattern Generator ](https://doodad.dev/pattern-generator/)
 
 ---
 
@@ -240,6 +242,7 @@
 - [ FlatIcon - Free vector icons ](https://www.flaticon.com/)
 - [ Iconmonstr - Free simple icons for your next project ](https://iconmonstr.com/)
 - [ VISIWIG - Icons ](https://www.visiwig.com/icons/)
+- [ Iconduck - Free open source icons, illustrations and graphics ](https://iconduck.com/)
 
 <a name="css2"></a>
 
@@ -510,6 +513,7 @@
 - [ Extra JavaScript string methods ](https://github.com/jprichardson/string.js)
 - [ JS library to detect links / URLs / Emails in text and convert them to clickable HTML anchor links ](http://alexcorvi.github.io/anchorme.js/)
 - [ Super fast unicode-aware string manipulation Javascript library ](https://github.com/sallar/stringz)
+- [ VerbalExpressions - ש library that helps construct REGEX ](https://www.npmjs.com/package/verbal-expressions)
 
 <a name="numbers"></a>
 
@@ -583,6 +587,7 @@
 - [ FluentEmail.Core - Send emails very easily ](https://www.nuget.org/packages/FluentEmail.Core/)
 - [ FluentValidation - A validation library for .NET](https://www.nuget.org/packages/fluentvalidation)
 - [ Gematria - library for calculating the Gematria value of strings of Hebrew text, or convert numbers into Hebrew Text ](https://www.nuget.org/packages/Gematria/)
+- [ HackerSpray - defend from brute force and Denial-of-service attacks ](https://www.nuget.org/packages/HackerSpray/)
 - [ Handlebars.Net - templating language ](https://www.nuget.org/packages/Handlebars.Net/)
 - [ HangFire - An easy way to perform background processing in .NET ](https://www.nuget.org/packages/Hangfire/)
 - [ HtmlAgilityPack - library that allows you to parse HTML files](https://www.nuget.org/packages/HtmlAgilityPack/)
@@ -733,6 +738,7 @@
 - [ AdGuard AdBlocker ](https://chrome.google.com/webstore/detail/adguard-adblocker/bgnkhhnnamicmpeenaelnjfhikgbkllg)
 - [ ARC Toolkit Accessibility testing tools ](https://chrome.google.com/webstore/detail/arc-toolkit/chdkkkccnlfncngelccgbgfmjebmkmce)
 - [ Augury ](https://chrome.google.com/webstore/detail/augury/elgalmkoelokbchhkhacckoklkejnhcd)
+- [ axe - Web Accessibility Testing ](https://chrome.google.com/webstore/detail/axe-web-accessibility-tes/lhdoppojpmngadmnindnejefpokejbdd)
 - [ BehindTheOverlay ](https://chrome.google.com/webstore/detail/behindtheoverlay/ljipkdpcjbmhkdjjmbbaggebcednbbme)
 - [ BuiltWith Technology Profiler ](https://chrome.google.com/webstore/detail/builtwith-technology-prof/dapjbgnjinbpoindlpdmhochffioedbn)
 - [ ColorZilla ](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp)
@@ -752,6 +758,7 @@
 - [ Octotree ](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc)
 - [ Pesticide. Outlining each element to better see placement on the page. ](https://chrome.google.com/webstore/detail/pesticide-for-chrome/bblbgcheenepgnnajgfpiicnbbdmmooh)
 - [ React Developer Tools ](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
+- [ Reactime - React Performance Tool ](https://chrome.google.com/webstore/detail/reactime/cgibknllccemdnfhfpmjhffpjfeidjga)
 - [ ResponsiveViewer ](https://chrome.google.com/webstore/detail/responsiveviewer/inmopeiepgfljkpkidclfgbgbmfcennb)
 - [ SEO META in 1 CLICK ](https://chrome.google.com/webstore/detail/seo-meta-in-1-click/bjogjfinolnhfhkbipphpdlldadpnmhc)
 - [ SimilarWeb - Traffic Rank & Website Analysis ](https://chrome.google.com/webstore/detail/similarweb-traffic-rank-w/hoklmmgfnpapgjgcpechhaamimifchmp)
