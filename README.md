@@ -810,7 +810,7 @@
 - [ ESLint ](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 - [ Excel Viewer ](https://marketplace.visualstudio.com/items?itemName=GrapeCity.gc-excelviewer)
 - [ Fabulous ](https://marketplace.visualstudio.com/items?itemName=Raathigeshan.fabulous)
-- [ Fabulous ](https://marketplace.visualstudio.com/items?itemName=lacroixdavid1.vscode-format-context-menu)
+- [ Format in context menus ](https://marketplace.visualstudio.com/items?itemName=lacroixdavid1.vscode-format-context-menu)
 - [ GitLens — Git supercharged ](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
 - [ Git Graph ](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph)
 - [ HTML CSS Support ](https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css)
