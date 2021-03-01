@@ -322,6 +322,7 @@
 - [ SpinKit | Simple CSS Spinners ](https://tobiasahlin.com/spinkit/)
 - [ Helicopter loading page ](https://codepen.io/vpankov/pen/ojdbvY)
 - [ Infinite 8 loader ](https://codepen.io/Nnatt/pen/RWWBKm)
+- [ Animated - SVG Loader ](https://codepen.io/matchboxhero/pen/bomWGK)
 
 <a name="css6"></a>
 
@@ -352,6 +353,7 @@
 - [ Order confirm animation ](https://codepen.io/aaroniker/pen/eYOVrNa)
 - [ CSS box-shadow examples - CSS Scan ](https://getcssscan.com/css-box-shadow-examples)
 - [ In/out of focus text effect ](https://codepen.io/jonnyscholes/pen/QbKPdZ)
+- [ Rotating Text ](https://codepen.io/alphardex/pen/WNNVJeZ)
 
 <a name="css7"></a>
 
@@ -363,6 +365,8 @@
 - [ Reddit border inset challenge ](https://codepen.io/daviddarnes/pen/oEEqdp)
 - [ Add to cart ](https://codepen.io/aaroniker/pen/QWWXKVP)
 - [ 3D Keyboard Keys (with long Key) ](https://codepen.io/Filanovich/pen/vYOZxKE)
+- [ Turning pages with CSS ](https://codepen.io/amit_sheen/pen/WNweryv)
+- [ Animated - SVG Birds ](https://codepen.io/matchboxhero/pen/RLebOY)
 
 ---
 
@@ -644,12 +648,11 @@
 - [ UAParser - user agent parser ](https://www.nuget.org/packages/UAParser/)
 - [ UnitConversion - Expansible Unit Conversion Library ](https://www.nuget.org/packages/UnitConversion/)
 - [ YamlDotNet - .NET library for YAML ](https://www.nuget.org/packages/YamlDotNet/)
+- [ Warden.NET - simplifies launching and managing processes on Windows ](https://www.nuget.org/packages/Warden.NET)
 
 #### WPF libraries :open_file_folder:
 
 - [ Modern styles and controls for your WPF applications ](https://github.com/Kinnara/ModernWpf)
-
----
 
 <a name="info"></a>
 
@@ -842,6 +845,7 @@
 - [ Random Everything ](https://marketplace.visualstudio.com/items?itemName=helixquar.randomeverything)
 - [ Regex Previewer ](https://marketplace.visualstudio.com/items?itemName=chrmarti.regex)
 - [ SCSS IntelliSense ](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-scss)
+- [ SonarLint ](https://marketplace.visualstudio.com/items?itemName=SonarSource.sonarlint-vscode)
 - [ Sort JSON objects ](https://marketplace.visualstudio.com/items?itemName=richie5um2.vscode-sort-json)
 - [ Sort lines ](https://marketplace.visualstudio.com/items?itemName=Tyriar.sort-lines)
 - [ SQL Server (mssql) ](https://marketplace.visualstudio.com/items?itemName=ms-mssql.mssql)
@@ -904,6 +908,7 @@
 - [ Roslynator 2019 ](https://marketplace.visualstudio.com/items?itemName=josefpihrt.Roslynator2019)
 - [ Sass Snippet Pack](https://marketplace.visualstudio.com/items?itemName=clydedsouza.SassSnippetVsixExtension)
 - [ Sharpen ](https://marketplace.visualstudio.com/items?itemName=ironcev.sharpen)
+- [ SonarLint  ](https://marketplace.visualstudio.com/items?itemName=SonarSource.SonarLintforVisualStudio2019)
 - [ Snippetica ](https://marketplace.visualstudio.com/items?itemName=josefpihrt.Snippetica)
 - [ StyleCop ](https://marketplace.visualstudio.com/items?itemName=ChrisDahlberg.StyleCop&ssr=false#qna)
 - [ TypeScript Definition Generator](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.TypeScriptDefinitionGenerator)
