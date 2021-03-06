@@ -136,6 +136,7 @@
 - [ CSS Grid Generator ](https://wweb.dev/resources/css-separator-generator)
 - [ CSS3 Generator ](https://css3generator.com/)
 - [ Dashed Border Generator ](https://codepen.io/amitsheen/full/xxZeyjO)
+- [ Glassmorphism CSS Generator ](https://glassmorphism.com/)
 
 ---
 
@@ -323,6 +324,7 @@
 - [ Helicopter loading page ](https://codepen.io/vpankov/pen/ojdbvY)
 - [ Infinite 8 loader ](https://codepen.io/Nnatt/pen/RWWBKm)
 - [ Animated - SVG Loader ](https://codepen.io/matchboxhero/pen/bomWGK)
+- [ Spinning Rings ](https://codepen.io/algcifaldi/pen/avavvE)
 
 <a name="css6"></a>
 
@@ -572,6 +574,7 @@
 - [ AngleSharp - ultimate angle brackets parser library ](https://www.nuget.org/packages/AngleSharp)
 - [ AutoFixture - Automating non-relevant Test Fixture Setup](https://www.nuget.org/packages/AutoFixture)
 - [ AutoMapper - A convention-based object-object mapper](https://www.nuget.org/packages/AutoMapper/)
+- [ AspNetCoreRateLimit - ASP.NET Core rate limiting middleware ](https://www.nuget.org/packages/AspNetCoreRateLimit)
 - [ Awesome C-Sharp frameworks, libraries and software ](https://github.com/uhub/awesome-c-sharp)
 - [ BenchmarkDotNet - Powerful .NET library for benchmarking](https://www.nuget.org/packages/BenchmarkDotNet/)
 - [ Bogus - data generator for populating objects, supports different locales](https://www.nuget.org/packages/Bogus)
@@ -596,6 +599,7 @@
 - [ FluentAssertions - Fluent API for asserting the results of unit tests ](https://www.nuget.org/packages/FluentAssertions/)
 - [ FluentEmail.Core - Send emails very easily ](https://www.nuget.org/packages/FluentEmail.Core/)
 - [ FluentValidation - A validation library for .NET](https://www.nuget.org/packages/fluentvalidation)
+- [ Flurl - A fluent, portable URL builder](https://www.nuget.org/packages/Flurl/)
 - [ Gematria - library for calculating the Gematria value of strings of Hebrew text, or convert numbers into Hebrew Text ](https://www.nuget.org/packages/Gematria/)
 - [ HackerSpray - defend from brute force and Denial-of-service attacks ](https://www.nuget.org/packages/HackerSpray/)
 - [ Handlebars.Net - templating language ](https://www.nuget.org/packages/Handlebars.Net/)
@@ -871,6 +875,7 @@
 - [ Browser Reload on Save ](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.BrowserReloadonSave)
 - [ Browser Sync ](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.BrowserSync)
 - [ C# Methods Code Snippets ](https://marketplace.visualstudio.com/items?itemName=jsakamoto.CMethodsCodeSnippets)
+- [ Clr Heap Allocation Analyzer ](https://marketplace.visualstudio.com/items?itemName=MukulSabharwal.ClrHeapAllocationAnalyzer)
 - [ Code Converter C# to/from VB.NET ](https://marketplace.visualstudio.com/items?itemName=SharpDevelopTeam.CodeConverter)
 - [ CodeMaid ](https://marketplace.visualstudio.com/items?itemName=SteveCadwallader.CodeMaid)
 - [ CSS AutoPrefixer ](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.CSSAutoPrefixer)
