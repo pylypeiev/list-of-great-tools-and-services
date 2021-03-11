@@ -246,6 +246,7 @@
 - [ Iconmonstr - Free simple icons for your next project ](https://iconmonstr.com/)
 - [ VISIWIG - Icons ](https://www.visiwig.com/icons/)
 - [ Iconduck - Free open source icons, illustrations and graphics ](https://iconduck.com/)
+- [ SVG Repo - Free SVG Vectors and Icons ](https://www.svgrepo.com/)
 
 <a name="css2"></a>
 
