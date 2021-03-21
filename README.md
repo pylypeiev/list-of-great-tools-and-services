@@ -523,7 +523,7 @@
 - [ Extra JavaScript string methods ](https://github.com/jprichardson/string.js)
 - [ JS library to detect links / URLs / Emails in text and convert them to clickable HTML anchor links ](http://alexcorvi.github.io/anchorme.js/)
 - [ Super fast unicode-aware string manipulation Javascript library ](https://github.com/sallar/stringz)
-- [ VerbalExpressions - ש library that helps construct REGEX ](https://www.npmjs.com/package/verbal-expressions)
+- [ VerbalExpressions - library that helps construct REGEX ](https://www.npmjs.com/package/verbal-expressions)
 
 <a name="numbers"></a>
 
@@ -918,6 +918,7 @@
 - [ Snippetica ](https://marketplace.visualstudio.com/items?itemName=josefpihrt.Snippetica)
 - [ StyleCop ](https://marketplace.visualstudio.com/items?itemName=ChrisDahlberg.StyleCop&ssr=false#qna)
 - [ TypeScript Definition Generator](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.TypeScriptDefinitionGenerator)
+- [ U2U Consult Performance Analyzers ](https://marketplace.visualstudio.com/items?itemName=vs-publisher-363830.U2UConsultPerformanceCodeAnalyzersforC7)
 - [ Viasfora ](https://marketplace.visualstudio.com/items?itemName=TomasRestrepo.Viasfora)
 - [ Visual Studio IntelliCode ](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.VSIntelliCode)
 - [ Visual Studio Spell Checker ](https://marketplace.visualstudio.com/items?itemName=EWoodruff.VisualStudioSpellCheckerVS2017andLater)
