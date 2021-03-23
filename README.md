@@ -607,6 +607,7 @@
 - [ HangFire - An easy way to perform background processing in .NET ](https://www.nuget.org/packages/Hangfire/)
 - [ HtmlAgilityPack - library that allows you to parse HTML files](https://www.nuget.org/packages/HtmlAgilityPack/)
 - [ Humanizer - meets all your .NET needs for manipulating and displaying strings, enums, dates, times, timespans, numbers and quantities ](https://www.nuget.org/packages/Humanizer/)
+- [ Ical.Net - iCalendar library, create ics files ](https://www.nuget.org/packages/Ical.Net/)
 - [ ImageSharp - A library for processing of image files ](https://www.nuget.org/packages/SixLabors.ImageSharp/)
 - [ ImpromptuInterface - A Lightweight Duck Casting Framework for dynamic C# ](https://www.nuget.org/packages/ImpromptuInterface/)
 - [ JWT - JSON Web Token implementation for .NET ](https://www.nuget.org/packages/JWT)
