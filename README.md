@@ -92,15 +92,16 @@
 - [ Type Scale - A Visual Calculator ](https://type-scale.com/)
 - [ Autoprefixer ONLINE ](https://autoprefixer.github.io/)
 - [ Social Good Ipsum -text generator ](http://socialgoodipsum.com/#/)
-- [ Stack Trace Formatter - Pretty print your exception messages ](https://elmah.io/tools/stack-trace-formatter/)
-- [ Web.config Transformation Tester - Online XDT/XML tool ](https://elmah.io/tools/webconfig-transformation-tester/)
+- [ Stack Trace Formatter - Pretty print your exception messages | elmah.io ](https://elmah.io/tools/stack-trace-formatter/)
+- [ Web.config Transformation Tester - Online XDT/XML tool | elmah.io ](https://elmah.io/tools/webconfig-transformation-tester/)
 - [ Find the best font ](https://fontspark.app/)
 - [ Warp SVG Online ](https://pavellaptev.github.io/warp-svg/)
 - [ Generate Data ](https://www.generatedata.com/)
 - [ Omatsuri - Open source browser tools for everyday use ](https://omatsuri.app/)
 - [ Svg Path Editor ](https://omatsuri.app/)
-- [ Multiline String Converter C# strings ](https://elmah.io/tools/multiline-string-converter/)
+- [ Multiline String Converter C# strings | elmah.io ](https://elmah.io/tools/multiline-string-converter/)
 - [ SQL Formatter ](https://codebeautify.org/sqlformatter)
+- [ JSON Formatter - Free online JSON validator and formatter | elmah.io ](https://elmah.io/tools/json-formatter/)
 
 ---
 
@@ -137,6 +138,7 @@
 - [ CSS3 Generator ](https://css3generator.com/)
 - [ Dashed Border Generator ](https://codepen.io/amitsheen/full/xxZeyjO)
 - [ Glassmorphism CSS Generator ](https://glassmorphism.com/)
+- [ Smooth Shadow Generator ](https://shadows.brumm.af/)
 
 ---
 
@@ -573,6 +575,7 @@
 ## 9. .Net NuGet packages :gem:
 
 - [ AngleSharp - ultimate angle brackets parser library ](https://www.nuget.org/packages/AngleSharp)
+- [ ApprovalTests - assertion/verification library to aid unit testing ](https://www.nuget.org/packages/ApprovalTests/)
 - [ AutoFixture - Automating non-relevant Test Fixture Setup](https://www.nuget.org/packages/AutoFixture)
 - [ AutoMapper - A convention-based object-object mapper](https://www.nuget.org/packages/AutoMapper/)
 - [ AspNetCoreRateLimit - ASP.NET Core rate limiting middleware ](https://www.nuget.org/packages/AspNetCoreRateLimit)
@@ -605,6 +608,7 @@
 - [ HackerSpray - defend from brute force and Denial-of-service attacks ](https://www.nuget.org/packages/HackerSpray/)
 - [ Handlebars.Net - templating language ](https://www.nuget.org/packages/Handlebars.Net/)
 - [ HangFire - An easy way to perform background processing in .NET ](https://www.nuget.org/packages/Hangfire/)
+- [ Hashids.net - generate YouTube-like hashes from one or many numbers ](https://www.nuget.org/packages/Hashids.net/)
 - [ HtmlAgilityPack - library that allows you to parse HTML files](https://www.nuget.org/packages/HtmlAgilityPack/)
 - [ Humanizer - meets all your .NET needs for manipulating and displaying strings, enums, dates, times, timespans, numbers and quantities ](https://www.nuget.org/packages/Humanizer/)
 - [ Ical.Net - iCalendar library, create ics files ](https://www.nuget.org/packages/Ical.Net/)
@@ -763,6 +767,7 @@
 - [ CSS Peeper ](https://chrome.google.com/webstore/detail/css-peeper/mbnbehikldjhnfehhnaidhjhoofhpehk)
 - [ CSS Spider ](https://chrome.google.com/webstore/detail/css-spider/eneakgbflmejjpkogbdmebjbfcdebjik/related)
 - [ CSSViewer ](https://chrome.google.com/webstore/detail/cssviewer/ggfgijbpiheegefliciemofobhmofgce)
+- [ Datap - AI-Powered Web Scraping ](https://chrome.google.com/webstore/detail/datap-ai-powered-web-scra/ikhbmobenpkpkieemkigjfkiccjpijcn)
 - [ EditThisCookie ](https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg)
 - [ Emmet Re:view ](https://chrome.google.com/webstore/detail/emmet-review/epejoicbhllgiimigokgjdoijnpaphdp)
 - [ GoFullPage - Full Page Screen Capture ](https://chrome.google.com/webstore/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl?hl=en)
@@ -777,6 +782,7 @@
 - [ React Developer Tools ](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
 - [ Reactime - React Performance Tool ](https://chrome.google.com/webstore/detail/reactime/cgibknllccemdnfhfpmjhffpjfeidjga)
 - [ ResponsiveViewer ](https://chrome.google.com/webstore/detail/responsiveviewer/inmopeiepgfljkpkidclfgbgbmfcennb)
+- [ Screenity - Screen Recorder & Annotation Tool ](https://chrome.google.com/webstore/detail/screenity-screen-recorder/kbbdabhdfibnancpjfhlkhafgdilcnji)
 - [ SEO META in 1 CLICK ](https://chrome.google.com/webstore/detail/seo-meta-in-1-click/bjogjfinolnhfhkbipphpdlldadpnmhc)
 - [ SimilarWeb - Traffic Rank & Website Analysis ](https://chrome.google.com/webstore/detail/similarweb-traffic-rank-w/hoklmmgfnpapgjgcpechhaamimifchmp)
 - [ SVG Gobbler ](https://chrome.google.com/webstore/detail/svg-gobbler/mpbmflcodadhgafbbakjeahpandgcbch)
@@ -784,6 +790,7 @@
 - [ User-Agent Switcher for Chrome ](https://chrome.google.com/webstore/detail/user-agent-switcher-for-c/djflhoibgkdhkhhcedjiklpkjnoahfmg)
 - [ VisBug ](https://chrome.google.com/webstore/detail/visbug/cdockenadnadldjbbgcallicgledbeoc)
 - [ Wappalyzer ](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg)
+- [ Web Developer Form Filler ](https://chrome.google.com/webstore/detail/web-developer-form-filler/gbagmkohmhcjgbepncmehejaljoclpil)
 
 <a name="ext-vscode"></a>
 
@@ -808,6 +815,7 @@
 - [ change-case ](https://marketplace.visualstudio.com/items?itemName=wmaurer.change-case)
 - [ Close HTML/XML tag ](https://marketplace.visualstudio.com/items?itemName=Compulim.compulim-vscode-closetag)
 - [ Code Runner ](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
+- [ CodeTour - record and playback guided tours of codebases ](https://marketplace.visualstudio.com/items?itemName=vsls-contrib.codetour)
 - [ Code Spell Checker ](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
 - [ Color Highlight ](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)
 - [ Color Picker ](https://marketplace.visualstudio.com/items?itemName=anseki.vscode-color)
