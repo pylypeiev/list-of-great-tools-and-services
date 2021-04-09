@@ -250,6 +250,7 @@
 - [ VISIWIG - Icons ](https://www.visiwig.com/icons/)
 - [ Iconduck - Free open source icons, illustrations and graphics ](https://iconduck.com/)
 - [ SVG Repo - Free SVG Vectors and Icons ](https://www.svgrepo.com/)
+- [ Google Fonts Material Icons ](https://fonts.google.com/icons?selected=Material+Icons)
 
 <a name="css2"></a>
 
@@ -360,6 +361,7 @@
 - [ CSS box-shadow examples - CSS Scan ](https://getcssscan.com/css-box-shadow-examples)
 - [ In/out of focus text effect ](https://codepen.io/jonnyscholes/pen/QbKPdZ)
 - [ Rotating Text ](https://codepen.io/alphardex/pen/WNNVJeZ)
+- [ Animated active menu indicator ](https://codepen.io/vitaliy_kirenkov/pen/KKaXBXo)
 
 <a name="css7"></a>
 
@@ -457,6 +459,7 @@
 - [ Fancybox ](http://fancyapps.com/fancybox/3/)
 - [ easy to integrate lightbox gallery library. Super-lightweight, outstanding performance, no dependencies. ](https://github.com/nextapps-de/spotlight)
 - [ Embla Extensible bare bones carousels for the web, written in TypeScript ](https://davidcetinkaya.github.io/embla-carousel/)
+- [ A library for zooming images like on Medium ](https://github.com/francoischalifour/medium-zoom)
 
 <a name="alerts"></a>
 
@@ -484,6 +487,7 @@
 - [ JavaScript Drag & Drop library ](https://github.com/Shopify/draggable)
 - [ PrintJs - A tiny library to help printing from the web ](https://github.com/crabbly/print.js)
 - [ Pagemap - Mini map for web pages ](http://github.com/lrsjng/pagemap)
+- [ Placeholder loading - css only, content placeholder loading animation ](https://www.npmjs.com/package/placeholder-loading)
 
 <a name="data"></a>
 
