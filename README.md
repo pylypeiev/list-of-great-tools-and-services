@@ -103,6 +103,8 @@
 - [ SQL Formatter ](https://codebeautify.org/sqlformatter)
 - [ JSON Formatter - Free online JSON validator and formatter | elmah.io ](https://elmah.io/tools/json-formatter/)
 - [ SVG to JSX ](https://omatsuri.app/svg-to-jsx)
+- [ JSON Schema Validator ](https://www.jsonschemavalidator.net/)
+- [ Frontend Toolkit - Utilities for your recurring Frontend tasks ](https://www.fetoolkit.io/)
 
 ---
 
@@ -330,6 +332,7 @@
 - [ Infinite 8 loader ](https://codepen.io/Nnatt/pen/RWWBKm)
 - [ Animated - SVG Loader ](https://codepen.io/matchboxhero/pen/bomWGK)
 - [ Spinning Rings ](https://codepen.io/algcifaldi/pen/avavvE)
+- [ Nice loader ](https://codepen.io/AsLittleDesign/pen/ZbVVwa)
 
 <a name="css6"></a>
 
@@ -362,6 +365,9 @@
 - [ In/out of focus text effect ](https://codepen.io/jonnyscholes/pen/QbKPdZ)
 - [ Rotating Text ](https://codepen.io/alphardex/pen/WNNVJeZ)
 - [ Animated active menu indicator ](https://codepen.io/vitaliy_kirenkov/pen/KKaXBXo)
+- [ Progressively Enhanced Autocomplete ](https://codepen.io/cferdinandi/pen/XWMJeeN)
+- [ Morphing Text effect ](https://codepen.io/Valgo/pen/PowZaNY)
+- [ Sticky Photostack CSS only ](https://codepen.io/bennettfeely/pen/NWRmGYb)
 
 <a name="css7"></a>
 
@@ -640,6 +646,7 @@
 - [ NSubstitute - A friendly substitute for .NET mocking libraries ](https://www.nuget.org/packages/NSubstitute)
 - [ ObjectDumper.NET - serialize C# objects to string for debugging and logging purposes ](https://www.nuget.org/packages/ObjectDumper.NET/)
 - [ OneOf - F# style discriminated unions ](https://www.nuget.org/packages/OneOf/)
+- [ PlaywrightSharp - Playwright for .NET](https://www.nuget.org/packages/PlaywrightSharp)
 - [ Polly - a library that allows developers to express resilience and transient fault handling policies](https://www.nuget.org/packages/Polly/)
 - [ PowerArgs - The ultimate command line application framework](https://www.nuget.org/packages/PowerArgs)
 - [ Protobuf - fast and efficient "Protocol Buffers" serialization](https://www.nuget.org/packages/protobuf-net)
