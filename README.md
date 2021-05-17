@@ -333,6 +333,7 @@
 - [ Animated - SVG Loader ](https://codepen.io/matchboxhero/pen/bomWGK)
 - [ Spinning Rings ](https://codepen.io/algcifaldi/pen/avavvE)
 - [ Nice loader ](https://codepen.io/AsLittleDesign/pen/ZbVVwa)
+- [ Bookshelf loader ](https://codepen.io/ikoshowa/pen/qOMvpy)
 
 <a name="css6"></a>
 
