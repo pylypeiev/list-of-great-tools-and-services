@@ -142,6 +142,7 @@
 - [ Dashed Border Generator ](https://codepen.io/amitsheen/full/xxZeyjO)
 - [ Glassmorphism CSS Generator ](https://glassmorphism.com/)
 - [ Smooth Shadow Generator ](https://shadows.brumm.af/)
+- [ CSS Accordion Slider Generator ](https://accordionslider.com/)
 
 ---
 
@@ -766,6 +767,7 @@
 - [ Database of Databases ](https://dbdb.io/)
 - [ The Big List of Naughty Strings ](https://github.com/minimaxir/big-list-of-naughty-strings)
 - [ Architecture Playbook ](https://nocomplexity.com/documents/arplaybook/)
+- [ Apple devices Screen Sizes ](https://www.screensizes.app/)
 
 <a name="ext-chrome"></a>
 
@@ -841,7 +843,9 @@
 - [ CSS Peek ](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek)
 - [ CSSTree validator ](https://marketplace.visualstudio.com/items?itemName=smelukov.vscode-csstree)
 - [ Debugger for Chrome ](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
+- [ Debugger for Edge ](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-edge)
 - [ Debugger for Firefox ](https://marketplace.visualstudio.com/items?itemName=firefox-devtools.vscode-firefox-debug)
+- [ Docker ](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)
 - [ Draw.io Integration ](https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio)
 - [ ESLint ](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 - [ Excel Viewer ](https://marketplace.visualstudio.com/items?itemName=GrapeCity.gc-excelviewer)
@@ -875,6 +879,8 @@
 - [ Prettier - Code formatter ](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 - [ Random Everything ](https://marketplace.visualstudio.com/items?itemName=helixquar.randomeverything)
 - [ Regex Previewer ](https://marketplace.visualstudio.com/items?itemName=chrmarti.regex)
+- [ Remote - Containers ](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers)
+- [ Remote - WSL ](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl)
 - [ SCSS IntelliSense ](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-scss)
 - [ SonarLint ](https://marketplace.visualstudio.com/items?itemName=SonarSource.sonarlint-vscode)
 - [ Sort JSON objects ](https://marketplace.visualstudio.com/items?itemName=richie5um2.vscode-sort-json)
@@ -882,6 +888,7 @@
 - [ SQL Server (mssql) ](https://marketplace.visualstudio.com/items?itemName=ms-mssql.mssql)
 - [ styco - styled components converter ](https://marketplace.visualstudio.com/items?itemName=DanielHuth.styco)
 - [ SVG Viewer ](https://marketplace.visualstudio.com/items?itemName=cssho.vscode-svgviewer)
+- [ Kubernetes ](https://marketplace.visualstudio.com/items?itemName=ms-kubernetes-tools.vscode-kubernetes-tools)
 - [ TabNine ](https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode)
 - [ TODO Highlight ](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight)
 - [ Todo Tree ](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
