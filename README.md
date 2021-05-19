@@ -958,6 +958,7 @@
 
 ## 14. Programming Software for Windows :moneybag:
 - [ Azure Data Studio ](https://docs.microsoft.com/en-us/sql/azure-data-studio/download-azure-data-studio)
+- [ Burp Suite CE ](https://portswigger.net/burp/communitydownload)
 - [ CodeTrack ](https://www.getcodetrack.com/)
 - [ Database Note Taker ](http://databasenotetaker.com/)
 - [ DB Browser for SQLite ](https://sqlitebrowser.org/)
