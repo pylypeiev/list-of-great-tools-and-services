@@ -143,6 +143,7 @@
 - [ Glassmorphism CSS Generator ](https://glassmorphism.com/)
 - [ Smooth Shadow Generator ](https://shadows.brumm.af/)
 - [ CSS Accordion Slider Generator ](https://accordionslider.com/)
+- [ CSS Filters Generator ](https://justcode.today/filters/)
 
 ---
 
@@ -433,6 +434,7 @@
 - [ 1-Line Layouts ](https://1linelayouts.glitch.me/)
 - [ A Complete Guide to Flexbox | CSS-Tricks ](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [ A collection of tips to help take your CSS skills pro ](https://github.com/AllThingsSmitty/css-protips)
+- [ SmolCSS - Minimal snippets for modern CSS layouts and components ](https://smolcss.dev/)
 
 ---
 
