@@ -42,6 +42,8 @@
 - [ Website Vulnerability Scanner - Scan for Web Vulnerabilities ](https://pentest-tools.com/website-vulnerability-scanning/website-scanner)
 - [ Nibbler - Test any website ](https://nibbler.silktide.com/)
 - [ EStimator.dev: the modern JavaScript savings calculator ](https://estimator.dev/)
+- [ Core Web Vitals Tool for Technical SEO - Waterfaller ](https://waterfaller.dev/)
+- [ Yellow Lab Tools - Page Speed audit ](https://yellowlab.tools/)
 
 ---
 
@@ -105,6 +107,8 @@
 - [ SVG to JSX ](https://omatsuri.app/svg-to-jsx)
 - [ JSON Schema Validator ](https://www.jsonschemavalidator.net/)
 - [ Frontend Toolkit - Utilities for your recurring Frontend tasks ](https://www.fetoolkit.io/)
+- [ Base64 Image Encoder | elmah.io ](https://elmah.io/tools/base64-image-encoder/)
+- [ Code Generator for HTTP requests ](https://www.labnol.org/apps/urlfetch.html)
 
 ---
 
@@ -144,6 +148,7 @@
 - [ Smooth Shadow Generator ](https://shadows.brumm.af/)
 - [ CSS Accordion Slider Generator ](https://accordionslider.com/)
 - [ CSS Filters Generator ](https://justcode.today/filters/)
+- [ CSS Layout Generator ](https://layout.bradwoods.io/)
 
 ---
 
@@ -255,7 +260,10 @@
 - [ Iconduck - Free open source icons, illustrations and graphics ](https://iconduck.com/)
 - [ SVG Repo - Free SVG Vectors and Icons ](https://www.svgrepo.com/)
 - [ Google Fonts Material Icons ](https://fonts.google.com/icons?selected=Material+Icons)
-
+- [ Iconoir - Free SVG Icons ](https://iconoir.com/)
+- [ Worldvectorlogo - SVG Brand logos ](https://worldvectorlogo.com/)
+- [ Free icons - Iconfinder ](https://www.iconfinder.com/free_icons)
+ 
 <a name="css2"></a>
 
 #### Buttons :radio_button:
@@ -603,6 +611,7 @@
 - [ CommandLineParser - Terse syntax C# command line parser ](https://www.nuget.org/packages/CommandLineParser/)
 - [ ConsoleAppFramework - an infrastructure of creating CLI tools ](https://github.com/Cysharp/ConsoleAppFramework/)
 - [ ConsoleTab les - Allows you to print out objects in a table view in a console application](https://www.nuget.org/packages/ConsoleTables/)
+- [ Microsoft.Coyote - a tool to help ensure that your code is free of concurrency bugs](https://www.nuget.org/packages/Microsoft.Coyote/)
 - [ CSCore - advanced audio library](https://www.nuget.org/packages/CSCore/)
 - [ CSharpFunctionalExtensions - functional extensions for C# ](https://www.nuget.org/packages/CSharpFunctionalExtensions/)
 - [ CsvHelper - A library for reading and writing CSV files](https://www.nuget.org/packages/CsvHelper/)
@@ -770,6 +779,8 @@
 - [ The Big List of Naughty Strings ](https://github.com/minimaxir/big-list-of-naughty-strings)
 - [ Architecture Playbook ](https://nocomplexity.com/documents/arplaybook/)
 - [ Apple devices Screen Sizes ](https://www.screensizes.app/)
+- [ Open Source Insights - Understand your dependencies ](https://deps.dev/)
+- [ Mobbin - Latest Mobile Design Patterns ](https://mobbin.design/)
 
 <a name="ext-chrome"></a>
 
