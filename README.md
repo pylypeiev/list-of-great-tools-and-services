@@ -149,6 +149,7 @@
 - [ CSS Accordion Slider Generator ](https://accordionslider.com/)
 - [ CSS Filters Generator ](https://justcode.today/filters/)
 - [ CSS Layout Generator ](https://layout.bradwoods.io/)
+- [ Keyframes - visual tool for generating css ](https://keyframes.app/)
 
 ---
 
@@ -345,6 +346,7 @@
 - [ Spinning Rings ](https://codepen.io/algcifaldi/pen/avavvE)
 - [ Nice loader ](https://codepen.io/AsLittleDesign/pen/ZbVVwa)
 - [ Bookshelf loader ](https://codepen.io/ikoshowa/pen/qOMvpy)
+- [ WiFi loader animation - Only CSS ](https://codepen.io/milanraring/pen/zYrYggg)
 
 <a name="css6"></a>
 
@@ -648,6 +650,7 @@
 - [ MassTransit - a message-based distributed application framework ](https://www.nuget.org/packages/MassTransit)
 - [ MediatR - Simple, unambitious mediator implementation in .NET ](https://www.nuget.org/packages/MediatR/)
 - [ MetadataExtractor - Easily and efficiently read metadata from images, video and audio files. ](https://www.nuget.org/packages/MetadataExtractor/)
+- [ Microsoft.IO.RecyclableMemoryStream - a MemoryStream replacement for performance-critical systems](https://www.nuget.org/packages/MiniProfiler/)
 - [ MiniProfiler - Lightweight mini-profiler, designed for ASP.NET](https://www.nuget.org/packages/MiniProfiler/)
 - [ MongoDB.Driver - Official .NET driver for MongoDB ](https://www.nuget.org/packages/mongodb.driver)
 - [ Moq - friendly mocking framework for .NET](https://www.nuget.org/packages/Moq/)
@@ -660,6 +663,7 @@
 - [ NSubstitute - A friendly substitute for .NET mocking libraries ](https://www.nuget.org/packages/NSubstitute)
 - [ ObjectDumper.NET - serialize C# objects to string for debugging and logging purposes ](https://www.nuget.org/packages/ObjectDumper.NET/)
 - [ OneOf - F# style discriminated unions ](https://www.nuget.org/packages/OneOf/)
+- [ ParkSquare.AspNetCore.Sitemap - sitemap and robots.txt generator](https://www.nuget.org/packages/ParkSquare.AspNetCore.Sitemap/)
 - [ PlaywrightSharp - Playwright for .NET](https://www.nuget.org/packages/PlaywrightSharp)
 - [ Polly - a library that allows developers to express resilience and transient fault handling policies](https://www.nuget.org/packages/Polly/)
 - [ PowerArgs - The ultimate command line application framework](https://www.nuget.org/packages/PowerArgs)
