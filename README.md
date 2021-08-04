@@ -109,6 +109,7 @@
 - [ Frontend Toolkit - Utilities for your recurring Frontend tasks ](https://www.fetoolkit.io/)
 - [ Base64 Image Encoder | elmah.io ](https://elmah.io/tools/base64-image-encoder/)
 - [ Code Generator for HTTP requests ](https://www.labnol.org/apps/urlfetch.html)
+- [ Swagger Editor ](https://editor.swagger.io/)
 
 ---
 
@@ -446,6 +447,7 @@
 - [ A Complete Guide to Flexbox | CSS-Tricks ](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [ A collection of tips to help take your CSS skills pro ](https://github.com/AllThingsSmitty/css-protips)
 - [ SmolCSS - Minimal snippets for modern CSS layouts and components ](https://smolcss.dev/)
+- [ Oh Shit, Git!?! ](https://ohshitgit.com/)
 
 ---
 
@@ -954,6 +956,7 @@
 - [ Microsoft Code Analysis 2019 ](https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.MicrosoftCodeAnalysis2019)
 - [ Microsoft RDLC Report Designer ](https://marketplace.visualstudio.com/items?itemName=ProBITools.MicrosoftRdlcReportDesignerforVisualStudio-18001)
 - [ Microsoft Reporting Services Projects ](https://marketplace.visualstudio.com/items?itemName=ProBITools.MicrosoftReportProjectsforVisualStudio)
+- [ .NET Portability Analyzer ](https://marketplace.visualstudio.com/items?itemName=ConnieYau.NETPortabilityAnalyzer)
 - [ Open Command Line ](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.OpenCommandLine)
 - [ Open in Visual Studio Code ](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.OpeninVisualStudioCode)
 - [ Output enhancer ](https://marketplace.visualstudio.com/items?itemName=NikolayBalakin.Outputenhancer)
