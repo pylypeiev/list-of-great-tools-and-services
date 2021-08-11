@@ -397,6 +397,7 @@
 - [ 3D Keyboard Keys (with long Key) ](https://codepen.io/Filanovich/pen/vYOZxKE)
 - [ Turning pages with CSS ](https://codepen.io/amit_sheen/pen/WNweryv)
 - [ Animated - SVG Birds ](https://codepen.io/matchboxhero/pen/RLebOY)
+- [ CSS-only direction aware box ](https://codepen.io/ainalem/pen/zYwLJzG)
 
 ---
 
@@ -645,6 +646,7 @@
 - [ ImageSharp - A library for processing of image files ](https://www.nuget.org/packages/SixLabors.ImageSharp/)
 - [ ImpromptuInterface - A Lightweight Duck Casting Framework for dynamic C# ](https://www.nuget.org/packages/ImpromptuInterface/)
 - [ JWT - JSON Web Token implementation for .NET ](https://www.nuget.org/packages/JWT)
+- [ LigerShark.WebOptimizer.Core - A runtime bundler and minifier ](https://www.nuget.org/packages/LigerShark.WebOptimizer.Core/)
 - [ LiteDB - A lightweight embedded .NET NoSQL document store in a single datafile ](https://www.nuget.org/packages/LiteDB)
 - [ log4net - logging framework ](https://www.nuget.org/packages/log4net/)
 - [ LunrCore - a lightweight full-text indexing library ](https://www.nuget.org/packages/LunrCore)
