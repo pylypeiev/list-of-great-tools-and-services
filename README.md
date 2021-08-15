@@ -111,6 +111,7 @@
 - [ Code Generator for HTTP requests ](https://www.labnol.org/apps/urlfetch.html)
 - [ Swagger Editor ](https://editor.swagger.io/)
 - [ Toolb - Your daily web toolbox ](https://www.toolb.dev/)
+- [ JS Intl (Internationalization API) generator ](https://craigbuckler.com/intl)
 
 ---
 
@@ -208,6 +209,8 @@
 - [ FarbVélo —— Random Color Cycler ](https://farbvelo.elastiq.ch/)
 - [ Pattern Generator ](https://doodad.dev/pattern-generator/)
 - [ Mobile Palette Generator ](https://mobilepalette.colorion.co/)
+- [ Wicked Backgrounds ](https://wickedbackgrounds.com/backgrounds.html)
+- [ Haikei app - svg assets generators ](https://app.haikei.app/)
 
 ---
 
@@ -879,9 +882,11 @@
 - [ GitLens — Git supercharged ](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
 - [ HTML CSS Support ](https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css)
 - [ HTML Snippets ](https://marketplace.visualstudio.com/items?itemName=abusaidm.html-snippets)
+- [ HTML End Tag Labels ](https://marketplace.visualstudio.com/items?itemName=anteprimorac.html-end-tag-labels)
 - [ ILSpy .NET Decompiler ](https://marketplace.visualstudio.com/items?itemName=icsharpcode.ilspy-vscode)
 - [ Image preview ](https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-gutter-preview)
 - [ Import Cost ](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost)
+- [ Inline Parameters for VSCode ](https://marketplace.visualstudio.com/items?itemName=liamhammett.inline-parameters)
 - [ Instant Markdown ](https://marketplace.visualstudio.com/items?itemName=dbankier.vscode-instant-markdown)
 - [ IntelliSense for CSS class names in HTML ](https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion)
 - [ JavaScript (ES6) code snippets ](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets)
