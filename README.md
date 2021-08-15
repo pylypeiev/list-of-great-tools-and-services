@@ -542,6 +542,7 @@
 - [ lib for doing addition, subtraction, multiplication and division operations precisely ](https://github.com/nefe/number-precision)
 - [ Generate RFC-compliant UUIDs ](https://github.com/uuidjs/uuid)
 - [ Bliss - Lea Verou's collection of helpers and light syntactic sugar over Vanilla JS ](https://blissfuljs.com/)
+- [ JSZip - Create, read and edit .zip files ](https://github.com/Stuk/jszip)
 
 <a name="text"></a>
 
@@ -601,6 +602,8 @@
 
 - [ Why Did You Render: patches React to notify you about avoidable re-renders ](https://www.npmjs.com/package/@welldone-software/why-did-you-render)
 - [ Antd - A design system for enterprise-level products ](https://www.npmjs.com/package/antd)
+- [ React virtualized - a components for efficiently rendering large lists and tabular data ](https://github.com/bvaughn/react-virtualized)
+- [ React window - a components for efficiently rendering large lists and tabular data (react virtualized lite)](https://github.com/bvaughn/react-window)
 
 
 <a name="nuggets"></a>
