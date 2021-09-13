@@ -112,6 +112,7 @@
 - [ Swagger Editor ](https://editor.swagger.io/)
 - [ Toolb - Your daily web toolbox ](https://www.toolb.dev/)
 - [ JS Intl (Internationalization API) generator ](https://craigbuckler.com/intl)
+- [ FracturedJson - A JSON formatter that produces human-readable output ](https://j-brooke.github.io/FracturedJson/)
 
 ---
 
@@ -211,6 +212,7 @@
 - [ Mobile Palette Generator ](https://mobilepalette.colorion.co/)
 - [ Wicked Backgrounds ](https://wickedbackgrounds.com/backgrounds.html)
 - [ Haikei app - svg assets generators ](https://app.haikei.app/)
+- [ Pattern Monster - SVG Pattern Generator ](https://pattern.monster/)
 
 ---
 
@@ -290,6 +292,7 @@
 - [ 3D Button ](https://codepen.io/kathykato/pen/gOOjgmP)
 - [ Candy Color Button Animation ](https://codepen.io/yuhomyan/pen/OJMejWJ)
 - [ Satisfying Button (Neumorphism) ](https://codepen.io/yuhomyan/pen/MWKdKpr)
+- [ Button Generator ](https://markodenic.com/tools/buttons-generator/)
 
 <a name="css3"></a>
 
@@ -543,6 +546,7 @@
 - [ Generate RFC-compliant UUIDs ](https://github.com/uuidjs/uuid)
 - [ Bliss - Lea Verou's collection of helpers and light syntactic sugar over Vanilla JS ](https://blissfuljs.com/)
 - [ JSZip - Create, read and edit .zip files ](https://github.com/Stuk/jszip)
+- [ HtmlToImage - Generates an image from a DOM node using HTML5 canvas and SVG ](https://github.com/bubkoo/html-to-image)
 
 <a name="text"></a>
 
@@ -640,6 +644,7 @@
 - [ FluentAssertions - Fluent API for asserting the results of unit tests ](https://www.nuget.org/packages/FluentAssertions/)
 - [ FluentEmail.Core - Send emails very easily ](https://www.nuget.org/packages/FluentEmail.Core/)
 - [ FluentValidation - A validation library for .NET](https://www.nuget.org/packages/fluentvalidation)
+- [ FluentMigrator - a database migration framework](https://www.nuget.org/packages/fluentvalidation)
 - [ Flurl - A fluent, portable URL builder](https://www.nuget.org/packages/Flurl/)
 - [ Gematria - library for calculating the Gematria value of strings of Hebrew text, or convert numbers into Hebrew Text ](https://www.nuget.org/packages/Gematria/)
 - [ HackerSpray - defend from brute force and Denial-of-service attacks ](https://www.nuget.org/packages/HackerSpray/)
@@ -675,6 +680,7 @@
 - [ ObjectDumper.NET - serialize C# objects to string for debugging and logging purposes ](https://www.nuget.org/packages/ObjectDumper.NET/)
 - [ OneOf - F# style discriminated unions ](https://www.nuget.org/packages/OneOf/)
 - [ ParkSquare.AspNetCore.Sitemap - sitemap and robots.txt generator](https://www.nuget.org/packages/ParkSquare.AspNetCore.Sitemap/)
+- [ PdfPig - Reads text content from PDF](https://nuget.org/packages/PdfPig/)
 - [ PlaywrightSharp - Playwright for .NET](https://www.nuget.org/packages/PlaywrightSharp)
 - [ Polly - a library that allows developers to express resilience and transient fault handling policies](https://www.nuget.org/packages/Polly/)
 - [ PowerArgs - The ultimate command line application framework](https://www.nuget.org/packages/PowerArgs)
@@ -880,6 +886,7 @@
 - [ Error Lens ](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)
 - [ Excel Viewer ](https://marketplace.visualstudio.com/items?itemName=GrapeCity.gc-excelviewer)
 - [ Fabulous ](https://marketplace.visualstudio.com/items?itemName=Raathigeshan.fabulous)
+- [ FracturedJson - A JSON formatter that produces human-readable output](https://marketplace.visualstudio.com/items?itemName=j-brooke.fracturedjsonvsc)
 - [ Format in context menus ](https://marketplace.visualstudio.com/items?itemName=lacroixdavid1.vscode-format-context-menu)
 - [ Git Graph ](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph)
 - [ GitLens — Git supercharged ](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
