@@ -980,6 +980,7 @@
 - [ Output enhancer ](https://marketplace.visualstudio.com/items?itemName=NikolayBalakin.Outputenhancer)
 - [ OzCode ](https://marketplace.visualstudio.com/items?itemName=CodeValueLtd.OzCode)
 - [ Package Installer ](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.PackageInstaller)
+- [ Productivity Power Tools ](https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.ProductivityPowerPack2017)
 - [ Power Commands for Visual Studio ](https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.PowerCommandsforVisualStudio)
 - [ Ref12 ](https://marketplace.visualstudio.com/items?itemName=SchabseSLaks.Ref12)
 - [ Regex Editor ](https://marketplace.visualstudio.com/items?itemName=GeorgyLosenkov.RegexEditorLite)
