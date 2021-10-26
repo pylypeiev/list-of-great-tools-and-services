@@ -355,6 +355,7 @@
 - [ Nice loader ](https://codepen.io/AsLittleDesign/pen/ZbVVwa)
 - [ Bookshelf loader ](https://codepen.io/ikoshowa/pen/qOMvpy)
 - [ WiFi loader animation - Only CSS ](https://codepen.io/milanraring/pen/zYrYggg)
+- [ Wavy curve loader ](https://codepen.io/bhadupranjal/pen/qBbjPRe)
 
 <a name="css6"></a>
 
