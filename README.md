@@ -891,6 +891,7 @@
 - [ Format in context menus ](https://marketplace.visualstudio.com/items?itemName=lacroixdavid1.vscode-format-context-menu)
 - [ Git Graph ](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph)
 - [ GitLens — Git supercharged ](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
+- [ GitLive ](https://marketplace.visualstudio.com/items?itemName=TeamHub.teamhub)
 - [ HTML CSS Support ](https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css)
 - [ HTML Snippets ](https://marketplace.visualstudio.com/items?itemName=abusaidm.html-snippets)
 - [ HTML End Tag Labels ](https://marketplace.visualstudio.com/items?itemName=anteprimorac.html-end-tag-labels)
