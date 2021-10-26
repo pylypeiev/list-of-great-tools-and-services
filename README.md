@@ -921,6 +921,7 @@
 - [ Remote - Containers ](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers)
 - [ Remote - WSL ](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl)
 - [ SCSS IntelliSense ](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-scss)
+- [ Sapling -  traverse react components ](https://marketplace.visualstudio.com/items?itemName=team-sapling.sapling)
 - [ SonarLint ](https://marketplace.visualstudio.com/items?itemName=SonarSource.sonarlint-vscode)
 - [ Sort JSON objects ](https://marketplace.visualstudio.com/items?itemName=richie5um2.vscode-sort-json)
 - [ Sort lines ](https://marketplace.visualstudio.com/items?itemName=Tyriar.sort-lines)
