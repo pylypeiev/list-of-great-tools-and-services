@@ -926,6 +926,7 @@
 - [ Live Sass Compiler ](https://marketplace.visualstudio.com/items?itemName=ritwickdey.live-sass)
 - [ Live Server ](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 - [ Log File Highlighter ](https://marketplace.visualstudio.com/items?itemName=emilast.LogFileHighlighter)
+- [ .NET Interactive Notebooks ](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.dotnet-interactive-vscode)
 - [ Node.js Modules Intellisense ](https://marketplace.visualstudio.com/items?itemName=leizongmin.node-module-intellisense)
 - [ npm ](https://marketplace.visualstudio.com/items?itemName=eg2.vscode-npm-script)
 - [ npm Intellisense ](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense)
