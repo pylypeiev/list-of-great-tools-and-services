@@ -498,7 +498,7 @@
 
 #### Alerts and notifications :speech_balloon:
 
-- [ Izitost notification plugin with no dependencies ](http://izitoast.marcelodolce.com/)
+- [ Izitost notification plugin with no dependencies ](https://izitoast.marcelodolza.com/)
 - [ SweetAlert popup ](https://sweetalert2.github.io/)
 
 <a name="dom"></a>
