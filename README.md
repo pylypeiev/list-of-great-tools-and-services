@@ -477,6 +477,7 @@
 9. [ Uploads ](#uploads)
 10. [ WebGL ](#webgl)
 11. [ React ](#react)
+11. [ DX - development and debug tools ](#dx)
 
 - [ Search for type script npm packages ](https://microsoft.github.io/TypeSearch/)
 - [ Angular 2+ Components & Libraries ](https://github.com/brillout/awesome-angular-components)
@@ -605,10 +606,25 @@
 
 #### React :lipstick:
 
-- [ Why Did You Render: patches React to notify you about avoidable re-renders ](https://www.npmjs.com/package/@welldone-software/why-did-you-render)
-- [ Antd - A design system for enterprise-level products ](https://www.npmjs.com/package/antd)
+- [ Antd - A design system for enterprise-level products ](https://github.com/ant-design/ant-design)
 - [ React virtualized - a components for efficiently rendering large lists and tabular data ](https://github.com/bvaughn/react-virtualized)
 - [ React window - a components for efficiently rendering large lists and tabular data (react virtualized lite)](https://github.com/bvaughn/react-window)
+- [ Immer - Create the next immutable state by mutating the current one](https://github.com/immerjs/immer)
+- [ Formik - Build forms in React](https://github.com/formium/formik)
+- [ React motion - solves your animation problems ](https://github.com/chenglou/react-motion)
+- [ React hook form - Hooks for forms validation ](https://github.com/react-hook-form/react-hook-form)
+- [ React admin - A framework for building data-driven applications running in the browser on top of REST/GraphQL APIs ](https://github.com/marmelab/react-admin)
+- [ React responsive - CSS media queries in react ](https://github.com/yocontra/react-responsive)
+- [ React query - Hooks for fetching, caching and updating asynchronous data in React ](https://github.com/tannerlinsley/react-query)
+
+
+<a name="dx"></a>
+
+#### DX - development and debug tools :baby_chick:
+- [ Why Did You Render: patches React to notify you about avoidable re-renders ](https://github.com/welldone-software/why-did-you-render)
+- [ Source-map-explorer - Analyze and debug JS code bloat through source maps ](https://github.com/danvk/source-map-explorer)
+- [ Redux-immutable-state-invariant - Redux middleware that spits an error on you when you try to mutate your state either inside a dispatch or between dispatches](https://github.com/leoasis/redux-immutable-state-invariant)
+
 
 
 <a name="nuggets"></a>
