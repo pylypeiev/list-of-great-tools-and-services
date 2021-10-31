@@ -1029,6 +1029,7 @@
 - [ CodeTrack ](https://www.getcodetrack.com/)
 - [ Database Note Taker ](http://databasenotetaker.com/)
 - [ DB Browser for SQLite ](https://sqlitebrowser.org/)
+- [ DDOSify - High-performance load testing tool ](https://github.com/ddosify/ddosify)
 - [ Docker Desktop ](https://www.docker.com/products/docker-desktop)
 - [ Fiddler ](https://www.telerik.com/fiddler)
 - [ IlSpy ](https://www.microsoft.com/en-us/p/ilspy/9mxfbkfvsq13)
