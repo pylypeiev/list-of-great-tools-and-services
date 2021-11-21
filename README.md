@@ -356,6 +356,7 @@
 - [ Bookshelf loader ](https://codepen.io/ikoshowa/pen/qOMvpy)
 - [ WiFi loader animation - Only CSS ](https://codepen.io/milanraring/pen/zYrYggg)
 - [ Wavy curve loader ](https://codepen.io/bhadupranjal/pen/qBbjPRe)
+- [ CSS loaders and Spinners ](https://cssloaders.github.io/)
 
 <a name="css6"></a>
 
@@ -428,6 +429,7 @@
 - [ Placeholder kitten images for developers ](https://placekitten.com/)
 - [ Random User Generator ](https://randomuser.me/)
 - [ שירות המטאורולוגי הישראלי API ](https://ims.gov.il/he/ObservationDataAPI)
+- [ רשימת ישובים בישראל - רשימת ישובים בישראל - Government Data ](https://data.gov.il/dataset/citiesandsettelments/resource/d4901968-dad3-4845-a9b0-a57d027f11ab?fbclid=IwAR1E4lZ27nhFo2dO6rujZ5ENvDH1vdiD7Oh0DOC2h1UbOkPAmk9bB_4v1vI)
 
 ---
 
@@ -457,6 +459,7 @@
 - [ A collection of tips to help take your CSS skills pro ](https://github.com/AllThingsSmitty/css-protips)
 - [ SmolCSS - Minimal snippets for modern CSS layouts and components ](https://smolcss.dev/)
 - [ Oh Shit, Git!?! ](https://ohshitgit.com/)
+- [ Layout patterns - collection of layout patterns built using modern CSS ](https://web.dev/patterns/layout/)
 
 ---
 
@@ -820,6 +823,7 @@
 - [ Apple devices Screen Sizes ](https://www.screensizes.app/)
 - [ Open Source Insights - Understand your dependencies ](https://deps.dev/)
 - [ Mobbin - Latest Mobile Design Patterns ](https://mobbin.design/)
+- [ Various goodies from Dotnetos ](https://goodies.dotnetos.org/)
 
 <a name="ext-chrome"></a>
 
