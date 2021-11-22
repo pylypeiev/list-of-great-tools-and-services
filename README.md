@@ -627,6 +627,8 @@
 - [ Why Did You Render: patches React to notify you about avoidable re-renders ](https://github.com/welldone-software/why-did-you-render)
 - [ Source-map-explorer - Analyze and debug JS code bloat through source maps ](https://github.com/danvk/source-map-explorer)
 - [ Redux-immutable-state-invariant - Redux middleware that spits an error on you when you try to mutate your state either inside a dispatch or between dispatches](https://github.com/leoasis/redux-immutable-state-invariant)
+- [ Webpack Bundle Analyzer ](https://github.com/webpack-contrib/webpack-bundle-analyzer)
+- [ Gzipper - CLI for compressing files. ](https://github.com/gios/gzipper)
 
 
 
