@@ -826,6 +826,7 @@
 - [ Open Source Insights - Understand your dependencies ](https://deps.dev/)
 - [ Mobbin - Latest Mobile Design Patterns ](https://mobbin.design/)
 - [ Various goodies from Dotnetos ](https://goodies.dotnetos.org/)
+- [ ECMAScript Proposals ](https://www.proposals.es/)
 
 <a name="ext-chrome"></a>
 
