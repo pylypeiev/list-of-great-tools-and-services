@@ -272,6 +272,7 @@
 - [ Iconoir - Free SVG Icons ](https://iconoir.com/)
 - [ Worldvectorlogo - SVG Brand logos ](https://worldvectorlogo.com/)
 - [ Free icons - Iconfinder ](https://www.iconfinder.com/free_icons)
+- [ Snoweb - Free SVG collections for web ](https://www.snoweb-svg.com/en/)
  
 <a name="css2"></a>
 
@@ -293,6 +294,7 @@
 - [ Candy Color Button Animation ](https://codepen.io/yuhomyan/pen/OJMejWJ)
 - [ Satisfying Button (Neumorphism) ](https://codepen.io/yuhomyan/pen/MWKdKpr)
 - [ Button Generator ](https://markodenic.com/tools/buttons-generator/)
+- [ CSS Scan - Beautiful CSS buttons examples ](https://getcssscan.com/css-buttons-examples)
 
 <a name="css3"></a>
 
@@ -524,6 +526,7 @@
 - [ PrintJs - A tiny library to help printing from the web ](https://github.com/crabbly/print.js)
 - [ Pagemap - Mini map for web pages ](http://github.com/lrsjng/pagemap)
 - [ Placeholder loading - css only, content placeholder loading animation ](https://www.npmjs.com/package/placeholder-loading)
+- [ Favico.js - Make use of your favicon with badges, images or videos ](https://github.com/ejci/favico.js)
 
 <a name="data"></a>
 
@@ -619,6 +622,8 @@
 - [ React admin - A framework for building data-driven applications running in the browser on top of REST/GraphQL APIs ](https://github.com/marmelab/react-admin)
 - [ React responsive - CSS media queries in react ](https://github.com/yocontra/react-responsive)
 - [ React query - Hooks for fetching, caching and updating asynchronous data in React ](https://github.com/tannerlinsley/react-query)
+- [ React Freeze - Prevent React component subtrees from rendering ](https://github.com/software-mansion/react-freeze)
+- [ React Codemirror ](https://github.com/uiwjs/react-codemirror)
 
 
 <a name="dx"></a>
@@ -735,6 +740,7 @@
 #### WPF libraries :open_file_folder:
 
 - [ Modern styles and controls for your WPF applications ](https://github.com/Kinnara/ModernWpf)
+- [ WPF UI - A simple way to make your application keep up with modern design trends ](https://github.com/lepoco/wpfui)
 
 <a name="info"></a>
 
@@ -942,6 +948,7 @@
 - [ Paste JSON as Code ](https://marketplace.visualstudio.com/items?itemName=quicktype.quicktype)
 - [ Path Intellisense ](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
 - [ Prettier - Code formatter ](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+- [ Rainbow CSV ](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv)
 - [ Random Everything ](https://marketplace.visualstudio.com/items?itemName=helixquar.randomeverything)
 - [ Regex Previewer ](https://marketplace.visualstudio.com/items?itemName=chrmarti.regex)
 - [ Remote - Containers ](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers)
@@ -959,6 +966,7 @@
 - [ TODO Highlight ](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight)
 - [ Todo Tree ](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
 - [ TSLint ](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-tslint-plugin)
+- [ Typehole - Automatically generate TypeScript types and interfaces ](https://marketplace.visualstudio.com/items?itemName=rikurouvila.typehole)
 - [ TypeScript Hero ](https://marketplace.visualstudio.com/items?itemName=rbbit.typescript-hero)
 - [ Vscode Google Translate ](https://marketplace.visualstudio.com/items?itemName=funkyremi.vscode-google-translate)
 - [ vscode-icons ](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
@@ -1048,6 +1056,7 @@
 - [ Postman ](https://www.postman.com/)
 - [ Process Explorer ](https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer)
 - [ Responsively App ](https://responsively.app/download/)
+- [ RoslynPad ](https://roslynpad.net/)
 - [ SSMS SQL Server Management Studio ](https://docs.microsoft.com/en-us/sql/ssms/sql-server-management-studio-ssms)
 - [ Visual Studio ](https://visualstudio.microsoft.com/)
 - [ Visual Studio Code ](https://code.visualstudio.com/)
