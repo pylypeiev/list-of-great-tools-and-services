@@ -934,6 +934,7 @@
 - [ JavaScript Booster ](https://marketplace.visualstudio.com/items?itemName=sburg.vscode-javascript-booster)
 - [ JavaScript Test Runner ](https://marketplace.visualstudio.com/items?itemName=nilobarp.javascript-test-runner)
 - [ Jest ](https://marketplace.visualstudio.com/items?itemName=Orta.vscode-jest)
+- [ jsHint ](https://marketplace.visualstudio.com/items?itemName=dbaeumer.jshint)
 - [ jQuery Code Snippets ](https://marketplace.visualstudio.com/items?itemName=donjayamanne.jquerysnippets)
 - [ JS & CSS Minifier (Minify) ](https://marketplace.visualstudio.com/items?itemName=olback.es6-css-minify)
 - [ Live Sass Compiler ](https://marketplace.visualstudio.com/items?itemName=ritwickdey.live-sass)
