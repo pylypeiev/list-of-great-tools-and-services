@@ -394,6 +394,7 @@
 - [ Progressively Enhanced Autocomplete ](https://codepen.io/cferdinandi/pen/XWMJeeN)
 - [ Morphing Text effect ](https://codepen.io/Valgo/pen/PowZaNY)
 - [ Sticky Photostack CSS only ](https://codepen.io/bennettfeely/pen/NWRmGYb)
+- [ Transition.css - easy transitions with clip-path, copy paste](https://www.transition.style/)
 
 <a name="css7"></a>
 
