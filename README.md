@@ -113,6 +113,8 @@
 - [ Toolb - Your daily web toolbox ](https://www.toolb.dev/)
 - [ JS Intl (Internationalization API) generator ](https://craigbuckler.com/intl)
 - [ FracturedJson - A JSON formatter that produces human-readable output ](https://j-brooke.github.io/FracturedJson/)
+- [ MetaSEO -  Generate meta tags in one click ](https://metaseo.itsvg.in/)
+- [ Protobuf Code Generator and Parser ](https://protogen.marcgravell.com/)
 
 ---
 
@@ -359,6 +361,7 @@
 - [ WiFi loader animation - Only CSS ](https://codepen.io/milanraring/pen/zYrYggg)
 - [ Wavy curve loader ](https://codepen.io/bhadupranjal/pen/qBbjPRe)
 - [ CSS loaders and Spinners ](https://cssloaders.github.io/)
+- [ Acrobatic Preloader ](https://codepen.io/jkantner/pen/VwrYggy)
 
 <a name="css6"></a>
 
@@ -641,6 +644,7 @@
 <a name="nuggets"></a>
 
 ## 9. .Net NuGet packages :gem:
+- [ Awesome .NET Core collection ](https://github.com/thangchung/awesome-dotnet-core)
 
 - [ AngleSharp - ultimate angle brackets parser library ](https://www.nuget.org/packages/AngleSharp)
 - [ ApprovalTests - assertion/verification library to aid unit testing ](https://www.nuget.org/packages/ApprovalTests/)
@@ -947,6 +951,7 @@
 - [ npm Intellisense ](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense)
 - [ NuGet Package Manager ](https://marketplace.visualstudio.com/items?itemName=jmrog.vscode-nuget-package-manager)
 - [ Open Spec File ](https://marketplace.visualstudio.com/items?itemName=thekarel.open-spec-file)
+- [ P42 JavaScript Assistant ](https://marketplace.visualstudio.com/items?itemName=p42ai.refactor)
 - [ Paste JSON as Code ](https://marketplace.visualstudio.com/items?itemName=quicktype.quicktype)
 - [ Path Intellisense ](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
 - [ Prettier - Code formatter ](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
@@ -1046,6 +1051,7 @@
 - [ CodeTrack ](https://www.getcodetrack.com/)
 - [ Database Note Taker ](http://databasenotetaker.com/)
 - [ DB Browser for SQLite ](https://sqlitebrowser.org/)
+- [ DevToys ](https://www.microsoft.com/en-il/p/devtoys/9pgcv4v3bk4w)
 - [ DDOSify - High-performance load testing tool ](https://github.com/ddosify/ddosify)
 - [ Docker Desktop ](https://www.docker.com/products/docker-desktop)
 - [ Fiddler ](https://www.telerik.com/fiddler)
@@ -1086,6 +1092,7 @@
 - [ SpaceSniffer - disk space analyser ](http://www.uderzo.it/main_products/space_sniffer/)
 - [ Speccy - advanced system information tool ](https://www.ccleaner.com/speccy)
 - [ Spotify](https://www.microsoft.com/en-us/p/spotify-music/9ncbcszsjrsb?cid=spotifyweb-windows10-store-direct&rtc=1)
+- [ ZoomIt - screen zoom and annotation tool ](https://docs.microsoft.com/en-us/sysinternals/downloads/zoomit)
 - [ TeamViewer - application for remote control](https://www.teamviewer.com/en/)
 - [ Total Commander - Best file manager ](https://www.ghisler.com/)
 - [ Windows File Recovery ](https://www.microsoft.com/en-us/p/windows-file-recovery/9n26s50ln705)
