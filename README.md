@@ -115,6 +115,7 @@
 - [ FracturedJson - A JSON formatter that produces human-readable output ](https://j-brooke.github.io/FracturedJson/)
 - [ MetaSEO -  Generate meta tags in one click ](https://metaseo.itsvg.in/)
 - [ Protobuf Code Generator and Parser ](https://protogen.marcgravell.com/)
+- [ Visualize your JSON into interactive graphs. ](https://jsonvisio.com/editor)
 
 ---
 
@@ -838,6 +839,8 @@
 - [ Mobbin - Latest Mobile Design Patterns ](https://mobbin.design/)
 - [ Various goodies from Dotnetos ](https://goodies.dotnetos.org/)
 - [ ECMAScript Proposals ](https://www.proposals.es/)
+- [ Monorepo Explained ](https://monorepo.tools/)
+- [ The Catalog of Design Patterns ](https://refactoring.guru/design-patterns/catalog/)
 
 <a name="ext-chrome"></a>
 
