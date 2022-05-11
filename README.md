@@ -276,6 +276,8 @@
 - [ Worldvectorlogo - SVG Brand logos ](https://worldvectorlogo.com/)
 - [ Free icons - Iconfinder ](https://www.iconfinder.com/free_icons)
 - [ Snoweb - Free SVG collections for web ](https://www.snoweb-svg.com/en/)
+- [ Tabler Icons: a vector icons for web design ](https://tabler-icons.io/)
+- [ dddraw: online freehand SVG drawing tool | fffuel ](https://fffuel.co/dddraw/)
  
 <a name="css2"></a>
 
@@ -363,6 +365,7 @@
 - [ Wavy curve loader ](https://codepen.io/bhadupranjal/pen/qBbjPRe)
 - [ CSS loaders and Spinners ](https://cssloaders.github.io/)
 - [ Acrobatic Preloader ](https://codepen.io/jkantner/pen/VwrYggy)
+- [ Whirl: CSS loading animations with minimal effort ](https://whirl.netlify.app/)
 
 <a name="css6"></a>
 
@@ -437,6 +440,7 @@
 - [ Random User Generator ](https://randomuser.me/)
 - [ שירות המטאורולוגי הישראלי API ](https://ims.gov.il/he/ObservationDataAPI)
 - [ רשימת ישובים בישראל - רשימת ישובים בישראל - Government Data ](https://data.gov.il/dataset/citiesandsettelments/resource/d4901968-dad3-4845-a9b0-a57d027f11ab?fbclid=IwAR1E4lZ27nhFo2dO6rujZ5ENvDH1vdiD7Oh0DOC2h1UbOkPAmk9bB_4v1vI)
+- [ Lorem Picsum - The Lorem Ipsum for photos. ](https://picsum.photos/)
 
 ---
 
@@ -877,6 +881,7 @@
 - [ Screenity - Screen Recorder & Annotation Tool ](https://chrome.google.com/webstore/detail/screenity-screen-recorder/kbbdabhdfibnancpjfhlkhafgdilcnji)
 - [ SEO META in 1 CLICK ](https://chrome.google.com/webstore/detail/seo-meta-in-1-click/bjogjfinolnhfhkbipphpdlldadpnmhc)
 - [ SimilarWeb - Traffic Rank & Website Analysis ](https://chrome.google.com/webstore/detail/similarweb-traffic-rank-w/hoklmmgfnpapgjgcpechhaamimifchmp)
+- [ SingleFile - save a complete web page into a single HTML file ](https://chrome.google.com/webstore/detail/singlefile/mpiodijhokgodhhofbcjdecpffjipkle)
 - [ SVG Gobbler ](https://chrome.google.com/webstore/detail/svg-gobbler/mpbmflcodadhgafbbakjeahpandgcbch)
 - [ Ubersuggest ](https://chrome.google.com/webstore/detail/ubersuggest/nmpgaoofmjlimabncmnmnopjabbflegf/related)
 - [ User-Agent Switcher for Chrome ](https://chrome.google.com/webstore/detail/user-agent-switcher-for-c/djflhoibgkdhkhhcedjiklpkjnoahfmg)
@@ -1061,6 +1066,7 @@
 - [ IlSpy ](https://www.microsoft.com/en-us/p/ilspy/9mxfbkfvsq13)
 - [ Jetbrains dotPeek ](https://www.jetbrains.com/decompiler/)
 - [ LinqPad ](https://www.linqpad.net/)
+- [ NBomber - load testing tool ](https://nbomber.com/)
 - [ Notepad++ ](https://notepad-plus-plus.org/)
 - [ NuGet Package Explorer ](https://www.microsoft.com/en-us/p/nuget-package-explorer/9wzdncrdmdm3?rtc=1&WT.mc_id=-blog-scottha&source=lp)
 - [ PerfView ](https://github.com/microsoft/perfview)
