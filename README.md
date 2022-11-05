@@ -116,6 +116,9 @@
 - [ MetaSEO -  Generate meta tags in one click ](https://metaseo.itsvg.in/)
 - [ Protobuf Code Generator and Parser ](https://protogen.marcgravell.com/)
 - [ Visualize your JSON into interactive graphs. ](https://jsonvisio.com/editor)
+- [ IT Tools - handy tools for developers ](https://it-tools.tech/)
+- [ JSON Generator – Tool for generating random data ](https://json-generator.com/)
+- [ JSON to TypeScript transform ](https://transform.tools/json-to-typescript)
 
 ---
 
@@ -325,6 +328,8 @@
 - [ CSS-Mask Button Hover Animation ](https://codepen.io/pizza3/pen/qmerBv)
 - [ Three Fancy Link Hover Effects ](https://codepen.io/jhancock532/pen/GRZrLwY)
 - [ Circle icons to text on hover ](https://codepen.io/udyux/pen/EKbedw)
+- [ Exploding Box Hover ](https://codepen.io/zastrow/pen/LYdNPOE)
+- [ Yes/No slanted button with cool hover effect ](https://codepen.io/t_afif/pen/XWEPxPv)
 
 <a name="css4"></a>
 
@@ -402,6 +407,7 @@
 - [ Morphing Text effect ](https://codepen.io/Valgo/pen/PowZaNY)
 - [ Sticky Photostack CSS only ](https://codepen.io/bennettfeely/pen/NWRmGYb)
 - [ Transition.css - easy transitions with clip-path, copy paste](https://www.transition.style/)
+- [ Accordion ](https://codepen.io/mhoumark/pen/oNEypEP)
 
 <a name="css7"></a>
 
@@ -581,6 +587,7 @@
 - [ JS library to detect links / URLs / Emails in text and convert them to clickable HTML anchor links ](http://alexcorvi.github.io/anchorme.js/)
 - [ Super fast unicode-aware string manipulation Javascript library ](https://github.com/sallar/stringz)
 - [ VerbalExpressions - library that helps construct REGEX ](https://www.npmjs.com/package/verbal-expressions)
+- [ imaskjs - vanilla javascript input mask ](https://github.com/uNmAnNeR/imaskjs)
 
 <a name="numbers"></a>
 
@@ -657,6 +664,7 @@
 - [ AutoFixture - Automating non-relevant Test Fixture Setup](https://www.nuget.org/packages/AutoFixture)
 - [ AutoMapper - A convention-based object-object mapper](https://www.nuget.org/packages/AutoMapper/)
 - [ Awesome C-Sharp frameworks, libraries and software ](https://github.com/uhub/awesome-c-sharp)
+- [ Ben.Demystifier - Make error logs more productive ](https://www.nuget.org/packages/Ben.Demystifier/)
 - [ BenchmarkDotNet - Powerful .NET library for benchmarking](https://www.nuget.org/packages/BenchmarkDotNet/)
 - [ Bogus - data generator for populating objects, supports different locales](https://www.nuget.org/packages/Bogus)
 - [ BookFx - creating Excel workbooks.](https://www.nuget.org/packages/BookFx/)
@@ -683,6 +691,7 @@
 - [ FluentValidation - A validation library for .NET](https://www.nuget.org/packages/fluentvalidation)
 - [ FluentMigrator - a database migration framework](https://www.nuget.org/packages/fluentvalidation)
 - [ Flurl - A fluent, portable URL builder](https://www.nuget.org/packages/Flurl/)
+- [ Fody - Extensible tool for weaving .net assemblies ](https://www.nuget.org/packages/Fody/)
 - [ Gematria - library for calculating the Gematria value of strings of Hebrew text, or convert numbers into Hebrew Text ](https://www.nuget.org/packages/Gematria/)
 - [ HackerSpray - defend from brute force and Denial-of-service attacks ](https://www.nuget.org/packages/HackerSpray/)
 - [ Handlebars.Net - templating language ](https://www.nuget.org/packages/Handlebars.Net/)
@@ -705,6 +714,7 @@
 - [ MetadataExtractor - Easily and efficiently read metadata from images, video and audio files. ](https://www.nuget.org/packages/MetadataExtractor/)
 - [ Microsoft.IO.RecyclableMemoryStream - a MemoryStream replacement for performance-critical systems](https://www.nuget.org/packages/MiniProfiler/)
 - [ MiniProfiler - Lightweight mini-profiler, designed for ASP.NET](https://www.nuget.org/packages/MiniProfiler/)
+- [ MockHttp - Testing layer for HttpClient ](https://www.nuget.org/packages/RichardSzalay.MockHttp/)
 - [ MongoDB.Driver - Official .NET driver for MongoDB ](https://www.nuget.org/packages/mongodb.driver)
 - [ Moq - friendly mocking framework for .NET](https://www.nuget.org/packages/Moq/)
 - [ MoreLinq - enhances LINQ to Objects ](https://www.nuget.org/packages/morelinq/)
@@ -726,6 +736,7 @@
 - [ Quartz - Scheduling Framework for .NET ](https://www.nuget.org/packages/Quartz)
 - [ Reactive Extensions (Rx) for .NET ](https://www.nuget.org/packages/System.Reactive/)
 - [ ReactiveUi - A MVVM framework that integrates with the Reactive Extensions for .NET ](https://www.nuget.org/packages/ReactiveUI/)
+- [ Refit - The automatic type-safe REST library ](https://www.nuget.org/packages/Refit)
 - [ Respawn - Intelligent checkpoints for database tests ](https://www.nuget.org/packages/Respawn)
 - [ RestSharp - Simple REST and HTTP API Client ](https://www.nuget.org/packages/RestSharp)
 - [ Selenium.WebDriver - browser automation library](https://www.nuget.org/packages/Selenium.WebDriver)
@@ -734,6 +745,7 @@
 - [ Shouldly - Assertion framework for .NET ](https://www.nuget.org/packages/Shouldly)
 - [ Sigil - A fail-fast validating helper for .NET CIL generation ](https://www.nuget.org/packages/Sigil/)
 - [ SimpleInjector - an easy, flexible and fast dependency injection library](https://www.nuget.org/packages/SimpleInjector/)
+- [ SpectreConsole - A library that makes it easier to create beautiful console applications ](https://www.nuget.org/packages/spectre.console)
 - [ Spire.Doc - enables to fast generate, open, write, edit and save Word document etc. ](https://www.nuget.org/packages/Spire.Doc/)
 - [ sqlite-net-pcl - library providing easy SQLite database storage ](https://www.nuget.org/packages/sqlite-net-pcl)
 - [ StackExchange.Redis - High performance Redis client ](https://www.nuget.org/packages/StackExchange.Redis/)
@@ -845,6 +857,7 @@
 - [ ECMAScript Proposals ](https://www.proposals.es/)
 - [ Monorepo Explained ](https://monorepo.tools/)
 - [ The Catalog of Design Patterns ](https://refactoring.guru/design-patterns/catalog/)
+- [ Component Party - Web component JS frameworks overview by their syntax and features ](https://component-party.dev/)
 
 <a name="ext-chrome"></a>
 
@@ -958,6 +971,7 @@
 - [ npm ](https://marketplace.visualstudio.com/items?itemName=eg2.vscode-npm-script)
 - [ npm Intellisense ](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense)
 - [ NuGet Package Manager ](https://marketplace.visualstudio.com/items?itemName=jmrog.vscode-nuget-package-manager)
+- [ Mintlify Doc Writer ](https://marketplace.visualstudio.com/items?itemName=mintlify.document)
 - [ Open Spec File ](https://marketplace.visualstudio.com/items?itemName=thekarel.open-spec-file)
 - [ P42 JavaScript Assistant ](https://marketplace.visualstudio.com/items?itemName=p42ai.refactor)
 - [ Paste JSON as Code ](https://marketplace.visualstudio.com/items?itemName=quicktype.quicktype)
