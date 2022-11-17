@@ -1080,6 +1080,7 @@
 - [ IlSpy ](https://www.microsoft.com/en-us/p/ilspy/9mxfbkfvsq13)
 - [ Jetbrains dotPeek ](https://www.jetbrains.com/decompiler/)
 - [ LinqPad ](https://www.linqpad.net/)
+- [ Linx ](https://linx.software)
 - [ NBomber - load testing tool ](https://nbomber.com/)
 - [ Notepad++ ](https://notepad-plus-plus.org/)
 - [ NuGet Package Explorer ](https://www.microsoft.com/en-us/p/nuget-package-explorer/9wzdncrdmdm3?rtc=1&WT.mc_id=-blog-scottha&source=lp)
