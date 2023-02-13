@@ -119,6 +119,7 @@
 - [ IT Tools - handy tools for developers ](https://it-tools.tech/)
 - [ JSON Generator – Tool for generating random data ](https://json-generator.com/)
 - [ JSON to TypeScript transform ](https://transform.tools/json-to-typescript)
+- [ Symbols to Copy ](https://symbols.wentin.net/)
 
 ---
 
@@ -330,6 +331,8 @@
 - [ Circle icons to text on hover ](https://codepen.io/udyux/pen/EKbedw)
 - [ Exploding Box Hover ](https://codepen.io/zastrow/pen/LYdNPOE)
 - [ Yes/No slanted button with cool hover effect ](https://codepen.io/t_afif/pen/XWEPxPv)
+- [ Button Hover Effects ](https://codepen.io/aaroniker/pen/bGGVMbY)
+- [ Link hover animation ](https://codepen.io/aaroniker/pen/VwjexVy)
 
 <a name="css4"></a>
 
@@ -371,6 +374,8 @@
 - [ CSS loaders and Spinners ](https://cssloaders.github.io/)
 - [ Acrobatic Preloader ](https://codepen.io/jkantner/pen/VwrYggy)
 - [ Whirl: CSS loading animations with minimal effort ](https://whirl.netlify.app/)
+- [ Loading Goes Off Track ](https://codepen.io/jkantner/pen/ZEvQbOK)
+- [ Dot Loader ](https://codepen.io/josetxu/pen/MWXbbeW)
 
 <a name="css6"></a>
 
@@ -408,6 +413,7 @@
 - [ Sticky Photostack CSS only ](https://codepen.io/bennettfeely/pen/NWRmGYb)
 - [ Transition.css - easy transitions with clip-path, copy paste](https://www.transition.style/)
 - [ Accordion ](https://codepen.io/mhoumark/pen/oNEypEP)
+- [ TOASTS ](https://codepen.io/mrtrimble/pen/mdEgzzR)
 
 <a name="css7"></a>
 
@@ -422,6 +428,7 @@
 - [ Turning pages with CSS ](https://codepen.io/amit_sheen/pen/WNweryv)
 - [ Animated - SVG Birds ](https://codepen.io/matchboxhero/pen/RLebOY)
 - [ CSS-only direction aware box ](https://codepen.io/ainalem/pen/zYwLJzG)
+- [ Sale label ](https://codepen.io/Anna_Batura/pen/dypeoxj)
 
 ---
 
@@ -670,6 +677,7 @@
 - [ BookFx - creating Excel workbooks.](https://www.nuget.org/packages/BookFx/)
 - [ CacheManager.Core - caching abstraction layer for .NET ](https://www.nuget.org/packages/CacheManager.Core)
 - [ CliWrap - Library for running shell commands](https://www.nuget.org/packages/CliWrap)
+- [ ClosedXML - library for reading, manipulating and writing Excel files ](https://www.nuget.org/packages/ClosedXML/)
 - [ CommandLineParser - Terse syntax C# command line parser ](https://www.nuget.org/packages/CommandLineParser/)
 - [ ConsoleAppFramework - an infrastructure of creating CLI tools ](https://github.com/Cysharp/ConsoleAppFramework/)
 - [ ConsoleTab les - Allows you to print out objects in a table view in a console application](https://www.nuget.org/packages/ConsoleTables/)
