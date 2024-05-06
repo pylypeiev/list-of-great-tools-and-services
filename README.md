@@ -18,7 +18,9 @@
 12. [ Visual Studio Code Extensions ](#ext-vscode)
 13. [ Visual Studio Extensions ](#ext-vs)
 14. [ Programming Software for Windows ](#windows-soft)
-14. [ Must have Software for Windows ](#windows-musthave)
+15. [ Must have Software for Windows ](#windows-musthave)
+16. [ Programming Software for MacOS ](#mac-soft)
+17. [ Must have Software for MacOS ](#mac-musthave)
 
 <a name="validators"></a>
 
@@ -120,6 +122,9 @@
 - [ JSON Generator – Tool for generating random data ](https://json-generator.com/)
 - [ JSON to TypeScript transform ](https://transform.tools/json-to-typescript)
 - [ Symbols to Copy ](https://symbols.wentin.net/)
+- [ JSON Crack - Visualize, analyze, and manipulate JSON data with ease ](https://jsoncrack.com/editor)
+- [ ExtendsClass - Free Online Toolbox for developers ](https://extendsclass.com/)
+- [ KodyTools - collection of online tools designed to simplify your digital tasks ](https://www.kodytools.com/)
 
 ---
 
@@ -161,6 +166,7 @@
 - [ CSS Filters Generator ](https://justcode.today/filters/)
 - [ CSS Layout Generator ](https://layout.bradwoods.io/)
 - [ Keyframes - visual tool for generating css ](https://keyframes.app/)
+- [ CSS gradient text - Gradient Text Generator  ](https://www.cssgradienttext.com/)
 
 ---
 
@@ -341,6 +347,7 @@
 - [ Delightful Checkbox Animation ](https://codepen.io/dylanraga/pen/Qwqbab)
 - [ Pencil and Paper Checkboxes ](https://nisnom.com/veb-razrabotki/pencil-and-paper-checkboxes/)
 - [ Menu icon ](https://codepen.io/fromwireframes/pen/arMrYp)
+- [ CSS Scan - Beautiful CSS checkboxes examples ](https://getcssscan.com/css-checkboxes-examples)
 
 <a name="css5"></a>
 
@@ -1015,6 +1022,7 @@
 
 ## 13. Visual Studio Extensions :wrench:
 
+- [ .NET Portability Analyzer ](https://marketplace.visualstudio.com/items?itemName=ConnieYau.NETPortabilityAnalyzer)
 - [ Add New File ](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.AddNewFile)
 - [ Angular Language Service ](https://marketplace.visualstudio.com/items?itemName=TypeScriptTeam.AngularLanguageService)
 - [ Browser Reload on Save ](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.BrowserReloadonSave)
@@ -1046,21 +1054,21 @@
 - [ Microsoft Code Analysis 2019 ](https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.MicrosoftCodeAnalysis2019)
 - [ Microsoft RDLC Report Designer ](https://marketplace.visualstudio.com/items?itemName=ProBITools.MicrosoftRdlcReportDesignerforVisualStudio-18001)
 - [ Microsoft Reporting Services Projects ](https://marketplace.visualstudio.com/items?itemName=ProBITools.MicrosoftReportProjectsforVisualStudio)
-- [ .NET Portability Analyzer ](https://marketplace.visualstudio.com/items?itemName=ConnieYau.NETPortabilityAnalyzer)
 - [ Open Command Line ](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.OpenCommandLine)
 - [ Open in Visual Studio Code ](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.OpeninVisualStudioCode)
 - [ Output enhancer ](https://marketplace.visualstudio.com/items?itemName=NikolayBalakin.Outputenhancer)
 - [ OzCode ](https://marketplace.visualstudio.com/items?itemName=CodeValueLtd.OzCode)
 - [ Package Installer ](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.PackageInstaller)
-- [ Productivity Power Tools ](https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.ProductivityPowerPack2017)
+- [ PasteSQL C# Classes ](https://marketplace.visualstudio.com/items?itemName=GUI-Innovations.PasteSQL)
 - [ Power Commands for Visual Studio ](https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.PowerCommandsforVisualStudio)
+- [ Productivity Power Tools ](https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.ProductivityPowerPack2017)
 - [ Ref12 ](https://marketplace.visualstudio.com/items?itemName=SchabseSLaks.Ref12)
 - [ Regex Editor ](https://marketplace.visualstudio.com/items?itemName=GeorgyLosenkov.RegexEditorLite)
 - [ Roslynator 2019 ](https://marketplace.visualstudio.com/items?itemName=josefpihrt.Roslynator2019)
 - [ Sass Snippet Pack](https://marketplace.visualstudio.com/items?itemName=clydedsouza.SassSnippetVsixExtension)
 - [ Sharpen ](https://marketplace.visualstudio.com/items?itemName=ironcev.sharpen)
-- [ SonarLint  ](https://marketplace.visualstudio.com/items?itemName=SonarSource.SonarLintforVisualStudio2019)
 - [ Snippetica ](https://marketplace.visualstudio.com/items?itemName=josefpihrt.Snippetica)
+- [ SonarLint  ](https://marketplace.visualstudio.com/items?itemName=SonarSource.SonarLintforVisualStudio2019)
 - [ StyleCop ](https://marketplace.visualstudio.com/items?itemName=ChrisDahlberg.StyleCop&ssr=false#qna)
 - [ TypeScript Definition Generator](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.TypeScriptDefinitionGenerator)
 - [ U2U Consult Performance Analyzers ](https://marketplace.visualstudio.com/items?itemName=vs-publisher-363830.U2UConsultPerformanceCodeAnalyzersforC7)
@@ -1081,10 +1089,11 @@
 - [ CodeTrack ](https://www.getcodetrack.com/)
 - [ Database Note Taker ](http://databasenotetaker.com/)
 - [ DB Browser for SQLite ](https://sqlitebrowser.org/)
-- [ DevToys ](https://www.microsoft.com/en-il/p/devtoys/9pgcv4v3bk4w)
 - [ DDOSify - High-performance load testing tool ](https://github.com/ddosify/ddosify)
+- [ DevToys ](https://www.microsoft.com/en-il/p/devtoys/9pgcv4v3bk4w)
 - [ Docker Desktop ](https://www.docker.com/products/docker-desktop)
 - [ Fiddler ](https://www.telerik.com/fiddler)
+- [ Git Fork ](https://git-fork.com/)
 - [ IlSpy ](https://www.microsoft.com/en-us/p/ilspy/9mxfbkfvsq13)
 - [ Jetbrains dotPeek ](https://www.jetbrains.com/decompiler/)
 - [ LinqPad ](https://www.linqpad.net/)
@@ -1105,7 +1114,6 @@
 - [ WinMerge ](https://winmerge.org/)
 - [ Wireshark ](https://www.wireshark.org/)
 - [ Zeal ](https://zealdocs.org/)
-
 
 <a name="windows-musthave"></a>
 
@@ -1129,4 +1137,47 @@
 - [ Windows File Recovery ](https://www.microsoft.com/en-us/p/windows-file-recovery/9n26s50ln705)
 - [ Winget - Windows Package Manager CLI ](https://github.com/microsoft/winget-cli)
 
+<a name="mac-soft"></a>
 
+## 16. Programming Software for MacOS :credit_card:
+- [ Azure Data Studio ](https://docs.microsoft.com/en-us/sql/azure-data-studio/download-azure-data-studio)
+- [ DB Browser for SQLite ](https://sqlitebrowser.org/)
+- [ DevUtills](https://devutils.com/)
+- [ Git Fork ](https://git-fork.com/)
+- [ IlSpy port](https://github.com/icsharpcode/AvaloniaILSpy)
+- [ Postman ](https://www.postman.com/)
+- [ Rider (VS for mac is almost EOL) ](https://www.jetbrains.com/rider/)
+- [ TextMate](https://macromates.com/)
+- [ UltraCompare](https://www.ultraedit.com/products/ultracompare/)
+- [ UltraEdit ](https://www.ultraedit.com/)
+- [ Visual Studio ](https://visualstudio.microsoft.com/)
+- [ Visual Studio Code ](https://code.visualstudio.com/)
+
+<a name="mac-musthave"></a>
+
+## 17. Must have Software for MacOS :apple:
+##### Obvious apps like chrome, office etc. are not included
+- [ Amphetamine - keep-awake utility ](https://apps.apple.com/us/app/amphetamine/id937984704)
+- [ BrightIntosh - use the increased brightness of its Liquid Retina XDR display anytime ](https://brightintosh.de/index.html)
+- [ CleanMyMac ](https://cleanmymac.com/)
+- [ ClipGrab - tool for downloading videos from multiple streaming websites ](https://clipgrab.en.softonic.com/)
+- [ CoconutBattery - shows battery health ](https://www.coconut-flavour.com/coconutbattery/)
+- [ Commander One - file manager ](https://commander-one.com/)
+- [ Crop Any Video ](https://apps.apple.com/nz/app/crop-any-video/id923725977)
+- [ DirEqual - compare files and folders ](https://naarakstudio.com/direqual/)
+- [ Disk Space Analyzer ](https://apps.apple.com/us/app/disk-space-analyzer-inspector/id446243721)
+- [ FigrCollage - make collages ](https://www.figrcollage.com/)
+- [ HandBrake - video transcoder ](https://handbrake.fr/)
+- [ IINA - The modern media player for macOS ](https://iina.io/)
+- [ ImageOptim - Reduces image file size ](https://imageoptim.com/mac)
+- [ iNet Network scanner ](https://inetapp.de/en/inetx.html)
+- [ Lyn - fast media browser and viewer ](https://www.lynapp.com/)
+- [ NTFS for Mac ](https://www.paragon-software.com/home/ntfs-mac/)
+- [ Parallels Desktop - Run Windows on Mac ](https://www.parallels.com/products/desktop/)
+- [ PDFgear - FREE All-in-one PDF tool ](https://www.pdfgear.com/pdfgear-for-mac/)
+- [ Stats - system monitor in menu bar ](https://github.com/exelban/stats)
+- [ Topaz Gigapixel - Super scale any image with AI ](https://www.topazlabs.com/gigapixel)
+- [ Trim Any Video ](https://apps.apple.com/za/app/trim-any-video/id957834335)
+- [ WidsMob Panorama - Auto stitch for panoramas ](https://www.widsmob.com/panorama)
+- [ WiFi Explorer ](https://www.intuitibits.com/products/wifiexplorer/)
+- [ zCommander - file manager ](https://apps.apple.com/kw/app/zcommander-file-manager/id540356531)
