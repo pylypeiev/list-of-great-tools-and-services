@@ -1166,6 +1166,7 @@
 - [ Crop Any Video ](https://apps.apple.com/nz/app/crop-any-video/id923725977)
 - [ DirEqual - compare files and folders ](https://naarakstudio.com/direqual/)
 - [ Disk Space Analyzer ](https://apps.apple.com/us/app/disk-space-analyzer-inspector/id446243721)
+- [ Easy New File - finder extension ](https://apps.apple.com/ua/app/easy-new-file/id1162194131)
 - [ FigrCollage - make collages ](https://www.figrcollage.com/)
 - [ HandBrake - video transcoder ](https://handbrake.fr/)
 - [ IINA - The modern media player for macOS ](https://iina.io/)
