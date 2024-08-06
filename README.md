@@ -455,20 +455,19 @@
 11. [ React ](#react)
 11. [ DX - development and debug tools ](#dx)
 
-- [ Search for type script npm packages ](https://microsoft.github.io/TypeSearch/)
 - [ Angular 2+ Components & Libraries ](https://github.com/brillout/awesome-angular-components)
 
 <a name="sliders"></a>
 
 #### Sliders, Carousels, Lightboxes :framed_picture:
 
-- [ Simple slider ](http://ruyadorno.github.io/simple-slider/)
-- [ Slick carousel ](http://kenwheeler.github.io/slick/)
-- [ Image lightbox ](https://osvaldas.info/examples/image-lightbox-responsive-touch-friendly/)
-- [ Fancybox ](http://fancyapps.com/fancybox/3/)
+- [ A library for zooming images like on Medium ](https://github.com/francoischalifour/medium-zoom)
 - [ easy to integrate lightbox gallery library. Super-lightweight, outstanding performance, no dependencies. ](https://github.com/nextapps-de/spotlight)
 - [ Embla Extensible bare bones carousels for the web, written in TypeScript ](https://davidcetinkaya.github.io/embla-carousel/)
-- [ A library for zooming images like on Medium ](https://github.com/francoischalifour/medium-zoom)
+- [ Fancybox ](http://fancyapps.com/fancybox/3/)
+- [ Image lightbox ](https://osvaldas.info/examples/image-lightbox-responsive-touch-friendly/)
+- [ Simple slider ](http://ruyadorno.github.io/simple-slider/)
+- [ Slick carousel ](http://kenwheeler.github.io/slick/)
 
 <a name="alerts"></a>
 
@@ -481,91 +480,85 @@
 
 #### DOM effects :fire:
 
-- [ fullscreen background videos ](https://rishabhp.github.io/bideo.js/)
-- [ fluid and interactive gradient animations ](https://sarcadass.github.io/granim.js/index.html)
-- [ Animated spinners ](http://tobiasahlin.com/spinkit/)
-- [ Animate On Scroll Library ](https://michalsnik.github.io/aos/)
-- [ Yet Another Lazy Loader ](https://github.com/malchata/yall.js)
-- [ library for creating particles ](https://vincentgarreau.com/particles.js/)
-- [ Rallax dynamic parallax scrolling effect ](https://chriscavs.github.io/rallax-demo/)
-- [ Balloon.css — simple pure CSS tooltips ](https://kazzkiq.github.io/balloon.css/)
-- [ JS audio library howler.js ](https://github.com/goldfire/howler.js)
-- [ Add Clippy Office Assistant to any website for instant nostalgia ](https://www.smore.com/clippy-js)
-- [ Create and animate hand-drawn annotations on a web page ](https://github.com/pshihn/rough-notation)
 - [ A JS library to animate content on page scroll ](https://github.com/mamunhpath/josh.js)
+- [ Animate On Scroll Library ](https://michalsnik.github.io/aos/)
+- [ Animated spinners ](http://tobiasahlin.com/spinkit/)
+- [ Balloon.css — simple pure CSS tooltips ](https://kazzkiq.github.io/balloon.css/)
+- [ Create and animate hand-drawn annotations on a web page ](https://github.com/pshihn/rough-notation)
+- [ Favico.js - Make use of your favicon with badges, images or videos ](https://github.com/ejci/favico.js)
+- [ fluid and interactive gradient animations ](https://sarcadass.github.io/granim.js/index.html)
 - [ JavaScript Drag & Drop library ](https://github.com/Shopify/draggable)
-- [ PrintJs - A tiny library to help printing from the web ](https://github.com/crabbly/print.js)
+- [ JS audio library howler.js ](https://github.com/goldfire/howler.js)
+- [ library for creating particles ](https://vincentgarreau.com/particles.js/)
 - [ Pagemap - Mini map for web pages ](http://github.com/lrsjng/pagemap)
 - [ Placeholder loading - css only, content placeholder loading animation ](https://www.npmjs.com/package/placeholder-loading)
-- [ Favico.js - Make use of your favicon with badges, images or videos ](https://github.com/ejci/favico.js)
+- [ PrintJs - A tiny library to help printing from the web ](https://github.com/crabbly/print.js)
+- [ Rallax dynamic parallax scrolling effect ](https://chriscavs.github.io/rallax-demo/)
+- [ Yet Another Lazy Loader ](https://github.com/malchata/yall.js)
 
 <a name="data"></a>
 
 #### Data :date:
 
-- [ D3 Data-Driven Documents ](https://d3js.org/)
-- [ Charts ](https://www.chartjs.org/)
+- [ a vanilla javascript plugin to create interactive tables and spreadsheets compatible with Excel ](https://github.com/jspreadsheet/ce)
 - [ Chart Image from URL ](https://quickchart.io)
-- [ a vanilla javascript plugin to create interactive tables and spreadsheets compatible with Excel ](https://github.com/paulhodel/jexcel)
+- [ Charts ](https://www.chartjs.org/)
+- [ D3 Data-Driven Documents ](https://d3js.org/)
 - [ Excel Workbook Manager ](https://github.com/exceljs/exceljs)
 
 <a name="utilities"></a>
 
 #### Utilities :wrench:
 
-- [ Random generator of strings and numbers ](http://chancejs.com/)
-- [ Validation library ](https://github.com/imbrn/v8n)
+- [ Bliss - Lea Verou's collection of helpers and light syntactic sugar over Vanilla JS ](https://blissfuljs.com/)
 - [ Credit Card input masking and validation ](https://github.com/nogorilla/angular-cc-library)
-- [ Workbox  PWA |  Google Developers ](https://developers.google.com/web/tools/workbox/)
+- [ DOMPurify - a DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML](https://github.com/cure53/DOMPurify)
+- [ Generate RFC-compliant UUIDs ](https://github.com/uuidjs/uuid)
+- [ HtmlToImage - Generates an image from a DOM node using HTML5 canvas and SVG ](https://github.com/bubkoo/html-to-image)
 - [ instant.page just-in-time preloading — preload a page right before a user clicks on it](https://instant.page/)
 - [ javascript library for working with currency values](https://currency.js.org/)
-- [ DOMPurify - a DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML](https://github.com/cure53/DOMPurify)
-- [ Anti-XSS Security Filters for EJS and More ](https://github.com/salesforce/secure-filters)
-- [ lib for doing addition, subtraction, multiplication and division operations precisely ](https://github.com/nefe/number-precision)
-- [ Generate RFC-compliant UUIDs ](https://github.com/uuidjs/uuid)
-- [ Bliss - Lea Verou's collection of helpers and light syntactic sugar over Vanilla JS ](https://blissfuljs.com/)
 - [ JSZip - Create, read and edit .zip files ](https://github.com/Stuk/jszip)
-- [ HtmlToImage - Generates an image from a DOM node using HTML5 canvas and SVG ](https://github.com/bubkoo/html-to-image)
+- [ lib for doing addition, subtraction, multiplication and division operations precisely ](https://github.com/nefe/number-precision)
+- [ Random generator of strings and numbers ](http://chancejs.com/)
+- [ Validation library ](https://github.com/imbrn/v8n)
+- [ Workbox  PWA |  Google Developers ](https://developers.google.com/web/tools/workbox/)
 
 <a name="text"></a>
 
 #### Text :bookmark_tabs:
 
-- [ Highlight any text ](https://lumin.rocks/)
-- [ Typewriter effect library ](https://chriscavs.github.io/t-writer-demo/?utm_source=bypeople)
-- [ Auto complete ](https://github.com/TarekRaafat/autoComplete.js)
-- [ Form validation ](http://parsleyjs.org/)
-- [ Split words and charts ](https://splitting.js.org/)
-- [ .NET implementation of the GNU/Gettext library ](https://github.com/neris/NGettext)
-- [ Simple autocomplete pure vanilla JS library ](https://tarekraafat.github.io/autoComplete.js/#/)
 - [ animate typing utility ](https://typeitjs.com/)
+- [ Auto complete ](https://github.com/TarekRaafat/autoComplete.js)
 - [ Extra JavaScript string methods ](https://github.com/jprichardson/string.js)
-- [ JS library to detect links / URLs / Emails in text and convert them to clickable HTML anchor links ](http://alexcorvi.github.io/anchorme.js/)
-- [ Super fast unicode-aware string manipulation Javascript library ](https://github.com/sallar/stringz)
-- [ VerbalExpressions - library that helps construct REGEX ](https://www.npmjs.com/package/verbal-expressions)
+- [ Form validation ](http://parsleyjs.org/)
+- [ Highlight any text ](https://lumin.rocks/)
 - [ imaskjs - vanilla javascript input mask ](https://github.com/uNmAnNeR/imaskjs)
+- [ JS library to detect links / URLs / Emails in text and convert them to clickable HTML anchor links ](http://alexcorvi.github.io/anchorme.js/)
+- [ Simple autocomplete pure vanilla JS library ](https://tarekraafat.github.io/autoComplete.js/#/)
+- [ Split words and charts ](https://splitting.js.org/)
+- [ Super fast unicode-aware string manipulation Javascript library ](https://github.com/sallar/stringz)
+- [ Typewriter effect library ](https://chriscavs.github.io/t-writer-demo/?utm_source=bypeople)
+- [ VerbalExpressions - library that helps construct REGEX ](https://www.npmjs.com/package/verbal-expressions)
 
 <a name="numbers"></a>
 
 #### Time and numbers :date:
 
-- [ Parse, validate, manipulate, and display dates and times ](http://momentjs.com/)
-- [ ODOMETER numbers ](https://github.hubspot.com/odometer/docs/welcome/)
 - [ AutoNumeric.js ](http://autonumeric.org/examples)
+- [ ODOMETER numbers ](https://github.hubspot.com/odometer/docs/welcome/)
 
 <a name="animation"></a>
 
 #### Animation :dizzy:
 
 - [ Animate css ](https://daneden.github.io/animate.css/)
-- [ Some CSS classes to move your DOM ](https://elrumordelaluz.github.io/csshake/)
+- [ Anime JS ](https://animejs.com/)
+- [ curtains.js WebGL tool to animate images and videos ](https://www.curtainsjs.com/index.html)
+- [ Hover.css ](http://ianlunn.github.io/Hover/)
 - [ Magic animation ](https://www.minimamente.com/example/magic_animations/)
 - [ MicronJS animate via data attribute ](https://webkul.github.io/micron/)
-- [ Hover.css ](http://ianlunn.github.io/Hover/)
-- [ Anime JS ](https://animejs.com/)
 - [ Popmotion Pure | A functional, flexible JavaScript animation library ](https://popmotion.io/pure/)
-- [ curtains.js WebGL tool to animate images and videos ](https://www.curtainsjs.com/index.html)
-- [ force.js | Animation Library ](https://force-js.com/)
+- [ Some CSS classes to move your DOM ](https://elrumordelaluz.github.io/csshake/)
 - [ Ztext - 3D typography ](https://bennettfeely.com/ztext/)
 
 <a name="uploads"></a>
@@ -585,18 +578,17 @@
 #### React :lipstick:
 
 - [ Antd - A design system for enterprise-level products ](https://github.com/ant-design/ant-design)
+- [ Formik - Build forms in React](https://github.com/formium/formik)
+- [ Immer - Create the next immutable state by mutating the current one](https://github.com/immerjs/immer)
+- [ React admin - A framework for building data-driven applications running in the browser on top of REST/GraphQL APIs ](https://github.com/marmelab/react-admin)
+- [ React Codemirror ](https://github.com/uiwjs/react-codemirror)
+- [ React Freeze - Prevent React component subtrees from rendering ](https://github.com/software-mansion/react-freeze)
+- [ React hook form - Hooks for forms validation ](https://github.com/react-hook-form/react-hook-form)
+- [ React motion - solves your animation problems ](https://github.com/chenglou/react-motion)
+- [ React query - Hooks for fetching, caching and updating asynchronous data in React ](https://github.com/tannerlinsley/react-query)
+- [ React responsive - CSS media queries in react ](https://github.com/yocontra/react-responsive)
 - [ React virtualized - a components for efficiently rendering large lists and tabular data ](https://github.com/bvaughn/react-virtualized)
 - [ React window - a components for efficiently rendering large lists and tabular data (react virtualized lite)](https://github.com/bvaughn/react-window)
-- [ Immer - Create the next immutable state by mutating the current one](https://github.com/immerjs/immer)
-- [ Formik - Build forms in React](https://github.com/formium/formik)
-- [ React motion - solves your animation problems ](https://github.com/chenglou/react-motion)
-- [ React hook form - Hooks for forms validation ](https://github.com/react-hook-form/react-hook-form)
-- [ React admin - A framework for building data-driven applications running in the browser on top of REST/GraphQL APIs ](https://github.com/marmelab/react-admin)
-- [ React responsive - CSS media queries in react ](https://github.com/yocontra/react-responsive)
-- [ React query - Hooks for fetching, caching and updating asynchronous data in React ](https://github.com/tannerlinsley/react-query)
-- [ React Freeze - Prevent React component subtrees from rendering ](https://github.com/software-mansion/react-freeze)
-- [ React Codemirror ](https://github.com/uiwjs/react-codemirror)
-
 
 <a name="dx"></a>
 
@@ -605,52 +597,44 @@
 - [ Source-map-explorer - Analyze and debug JS code bloat through source maps ](https://github.com/danvk/source-map-explorer)
 - [ Redux-immutable-state-invariant - Redux middleware that spits an error on you when you try to mutate your state either inside a dispatch or between dispatches](https://github.com/leoasis/redux-immutable-state-invariant)
 - [ Webpack Bundle Analyzer ](https://github.com/webpack-contrib/webpack-bundle-analyzer)
-- [ Gzipper - CLI for compressing files. ](https://github.com/gios/gzipper)
-
 
 
 <a name="nuggets"></a>
 
 ## 9. .Net NuGet packages :gem:
-- [ Awesome .NET Core collection ](https://github.com/thangchung/awesome-dotnet-core)
 
 - [ AngleSharp - ultimate angle brackets parser library ](https://www.nuget.org/packages/AngleSharp)
 - [ ApprovalTests - assertion/verification library to aid unit testing ](https://www.nuget.org/packages/ApprovalTests/)
 - [ AspNetCoreRateLimit - ASP.NET Core rate limiting middleware ](https://www.nuget.org/packages/AspNetCoreRateLimit)
 - [ AutoFixture - Automating non-relevant Test Fixture Setup](https://www.nuget.org/packages/AutoFixture)
 - [ AutoMapper - A convention-based object-object mapper](https://www.nuget.org/packages/AutoMapper/)
+- [ Awesome .NET Core collection ](https://github.com/thangchung/awesome-dotnet-core)
 - [ Awesome C-Sharp frameworks, libraries and software ](https://github.com/uhub/awesome-c-sharp)
 - [ Ben.Demystifier - Make error logs more productive ](https://www.nuget.org/packages/Ben.Demystifier/)
 - [ BenchmarkDotNet - Powerful .NET library for benchmarking](https://www.nuget.org/packages/BenchmarkDotNet/)
 - [ Bogus - data generator for populating objects, supports different locales](https://www.nuget.org/packages/Bogus)
 - [ BookFx - creating Excel workbooks.](https://www.nuget.org/packages/BookFx/)
-- [ CacheManager.Core - caching abstraction layer for .NET ](https://www.nuget.org/packages/CacheManager.Core)
 - [ CliWrap - Library for running shell commands](https://www.nuget.org/packages/CliWrap)
 - [ ClosedXML - library for reading, manipulating and writing Excel files ](https://www.nuget.org/packages/ClosedXML/)
 - [ CommandLineParser - Terse syntax C# command line parser ](https://www.nuget.org/packages/CommandLineParser/)
 - [ ConsoleAppFramework - an infrastructure of creating CLI tools ](https://github.com/Cysharp/ConsoleAppFramework/)
 - [ ConsoleTab les - Allows you to print out objects in a table view in a console application](https://www.nuget.org/packages/ConsoleTables/)
-- [ Microsoft.Coyote - a tool to help ensure that your code is free of concurrency bugs](https://www.nuget.org/packages/Microsoft.Coyote/)
-- [ CSCore - advanced audio library](https://www.nuget.org/packages/CSCore/)
 - [ CSharpFunctionalExtensions - functional extensions for C# ](https://www.nuget.org/packages/CSharpFunctionalExtensions/)
 - [ CsvHelper - A library for reading and writing CSV files](https://www.nuget.org/packages/CsvHelper/)
 - [ Dapper - high performance Micro-ORM](https://www.nuget.org/packages/Dapper/)
 - [ DbUp -  runs the change scripts that are needed to get your database up to date ](https://www.nuget.org/packages/dbup)
 - [ dot.NEXT - family of powerful libraries](https://sakno.github.io/dotNext/)
 - [ Downloader - Fast and reliable multipart downloader](https://www.nuget.org/packages/Downloader)
-- [ Elasticsearch.Net - Exposes all the Elasticsearch API endpoints](https://www.nuget.org/packages/Elasticsearch.Net/)
-- [ EntityFramework - object-relational mapper for .NET ](https://www.nuget.org/packages/EntityFramework/)
 - [ EntityFramework Core - a lightweight and extensible version of the popular EF](https://www.nuget.org/packages/Microsoft.EntityFrameworkCore/)
 - [ FakeItEasy - mocking library for .NET ](https://www.nuget.org/packages/FakeItEasy/)
 - [ Fastenshtein - Levenshtein calculates the shortest possible distance between two string ](https://www.nuget.org/packages/Fastenshtein/)
 - [ FluentAssertions - Fluent API for asserting the results of unit tests ](https://www.nuget.org/packages/FluentAssertions/)
 - [ FluentEmail.Core - Send emails very easily ](https://www.nuget.org/packages/FluentEmail.Core/)
-- [ FluentValidation - A validation library for .NET](https://www.nuget.org/packages/fluentvalidation)
 - [ FluentMigrator - a database migration framework](https://www.nuget.org/packages/fluentvalidation)
+- [ FluentValidation - A validation library for .NET](https://www.nuget.org/packages/fluentvalidation)
 - [ Flurl - A fluent, portable URL builder](https://www.nuget.org/packages/Flurl/)
 - [ Fody - Extensible tool for weaving .net assemblies ](https://www.nuget.org/packages/Fody/)
 - [ Gematria - library for calculating the Gematria value of strings of Hebrew text, or convert numbers into Hebrew Text ](https://www.nuget.org/packages/Gematria/)
-- [ HackerSpray - defend from brute force and Denial-of-service attacks ](https://www.nuget.org/packages/HackerSpray/)
 - [ Handlebars.Net - templating language ](https://www.nuget.org/packages/Handlebars.Net/)
 - [ HangFire - An easy way to perform background processing in .NET ](https://www.nuget.org/packages/Hangfire/)
 - [ Hashids.net - generate YouTube-like hashes from one or many numbers ](https://www.nuget.org/packages/Hashids.net/)
@@ -669,14 +653,15 @@
 - [ MassTransit - a message-based distributed application framework ](https://www.nuget.org/packages/MassTransit)
 - [ MediatR - Simple, unambitious mediator implementation in .NET ](https://www.nuget.org/packages/MediatR/)
 - [ MetadataExtractor - Easily and efficiently read metadata from images, video and audio files. ](https://www.nuget.org/packages/MetadataExtractor/)
+- [ Microsoft.Coyote - a tool to help ensure that your code is free of concurrency bugs](https://www.nuget.org/packages/Microsoft.Coyote/)
 - [ Microsoft.IO.RecyclableMemoryStream - a MemoryStream replacement for performance-critical systems](https://www.nuget.org/packages/MiniProfiler/)
+- [ Microsoft.Playwright ](https://www.nuget.org/packages/Microsoft.Playwright)
 - [ MiniProfiler - Lightweight mini-profiler, designed for ASP.NET](https://www.nuget.org/packages/MiniProfiler/)
 - [ MockHttp - Testing layer for HttpClient ](https://www.nuget.org/packages/RichardSzalay.MockHttp/)
 - [ MongoDB.Driver - Official .NET driver for MongoDB ](https://www.nuget.org/packages/mongodb.driver)
 - [ Moq - friendly mocking framework for .NET](https://www.nuget.org/packages/Moq/)
 - [ MoreLinq - enhances LINQ to Objects ](https://www.nuget.org/packages/morelinq/)
 - [ MvvmCross - MVVM framework for cross-platform solutions](https://www.nuget.org/packages/MvvmCross/)
-- [ NEST - Strongly typed interface to Elasticsearch](https://www.nuget.org/packages/NEST/)
 - [ Newtonsoft.Json - high-performance JSON framework for .NET](https://www.nuget.org/packages/Newtonsoft.Json/)
 - [ Nito.AsyncEx - A helper library for async/await. ](https://www.nuget.org/packages/Nito.AsyncEx/)
 - [ Nito.Comparers - The last comparison library you'll ever need!](https://www.nuget.org/packages/Nito.Comparers/)
@@ -685,7 +670,6 @@
 - [ OneOf - F# style discriminated unions ](https://www.nuget.org/packages/OneOf/)
 - [ ParkSquare.AspNetCore.Sitemap - sitemap and robots.txt generator](https://www.nuget.org/packages/ParkSquare.AspNetCore.Sitemap/)
 - [ PdfPig - Reads text content from PDF](https://nuget.org/packages/PdfPig/)
-- [ PlaywrightSharp - Playwright for .NET](https://www.nuget.org/packages/PlaywrightSharp)
 - [ Polly - a library that allows developers to express resilience and transient fault handling policies](https://www.nuget.org/packages/Polly/)
 - [ PowerArgs - The ultimate command line application framework](https://www.nuget.org/packages/PowerArgs)
 - [ Protobuf - fast and efficient "Protocol Buffers" serialization](https://www.nuget.org/packages/protobuf-net)
@@ -707,12 +691,9 @@
 - [ sqlite-net-pcl - library providing easy SQLite database storage ](https://www.nuget.org/packages/sqlite-net-pcl)
 - [ StackExchange.Redis - High performance Redis client ](https://www.nuget.org/packages/StackExchange.Redis/)
 - [ Stateless - Create state machines ](https://www.nuget.org/packages/Stateless/)
-- [ Swashbuckle - adds a Swagger to WebApi projects ](https://www.nuget.org/packages/Swashbuckle/)
 - [ Tavis.UriTemplates - URI Template resolution library ](https://www.nuget.org/packages/Tavis.UriTemplates/)
 - [ TinyORM - Simple, fast, and secure micro ORM for .NET](https://www.nuget.org/packages/TinyORM/)
-- [ Topshelf - Windows service framework for the .NET ](https://www.nuget.org/packages/Topshelf)
 - [ UAParser - user agent parser ](https://www.nuget.org/packages/UAParser/)
-- [ UnitConversion - Expansible Unit Conversion Library ](https://www.nuget.org/packages/UnitConversion/)
 - [ Warden.NET - simplifies launching and managing processes on Windows ](https://www.nuget.org/packages/Warden.NET)
 - [ YamlDotNet - .NET library for YAML ](https://www.nuget.org/packages/YamlDotNet/)
 
