@@ -1058,6 +1058,7 @@
 - [ NTFS for Mac ](https://www.paragon-software.com/home/ntfs-mac/)
 - [ Parallels Desktop - Run Windows on Mac ](https://www.parallels.com/products/desktop/)
 - [ PDFgear - FREE All-in-one PDF tool ](https://www.pdfgear.com/pdfgear-for-mac/)
+- [ Shareful - add save to and open in to share menu ](https://apps.apple.com/il/app/shareful/id1522267256?mt=12)
 - [ Stats - system monitor in menu bar ](https://github.com/exelban/stats)
 - [ Swish - window manager with gestures ](https://highlyopinionated.co/swish/)
 - [ System Color Picker ](https://apps.apple.com/us/app/system-color-picker/id1545870783?mt=12)
