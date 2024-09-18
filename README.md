@@ -892,6 +892,7 @@
 - [ P42 JavaScript Assistant ](https://marketplace.visualstudio.com/items?itemName=p42ai.refactor)
 - [ Paste JSON as Code ](https://marketplace.visualstudio.com/items?itemName=quicktype.quicktype)
 - [ Path Intellisense ](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
+- [ Pretty TypeScript Errors ](https://marketplace.visualstudio.com/items?itemName=yoavbls.pretty-ts-errors)
 - [ Prettier - Code formatter ](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 - [ Polyglot Notebooks ](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.dotnet-interactive-vscode)
 - [ Rainbow CSV ](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv)
