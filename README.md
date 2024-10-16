@@ -906,6 +906,7 @@
 - [ SonarLint ](https://marketplace.visualstudio.com/items?itemName=SonarSource.sonarlint-vscode)
 - [ Sort JSON objects ](https://marketplace.visualstudio.com/items?itemName=richie5um2.vscode-sort-json)
 - [ Sort lines ](https://marketplace.visualstudio.com/items?itemName=Tyriar.sort-lines)
+- [ SQL Formatter ](https://marketplace.visualstudio.com/items?itemName=adpyke.vscode-sql-formatter)
 - [ SQL Server (mssql) ](https://marketplace.visualstudio.com/items?itemName=ms-mssql.mssql)
 - [ Styco - styled components converter ](https://marketplace.visualstudio.com/items?itemName=DanielHuth.styco)
 - [ TabNine ](https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode)
