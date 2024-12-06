@@ -843,6 +843,7 @@
 - [ Code Runner ](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
 - [ Code Spell Checker ](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
 - [ Codeium - AI Coding Autocomplete ](https://marketplace.visualstudio.com/items?itemName=Codeium.codeium)
+- [ Codesnap - Beautiful screenshots ](https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap)
 - [ CodeTour - record and playback guided tours of codebases ](https://marketplace.visualstudio.com/items?itemName=vsls-contrib.codetour)
 - [ Color Highlight ](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)
 - [ Color Picker ](https://marketplace.visualstudio.com/items?itemName=anseki.vscode-color)
@@ -868,6 +869,7 @@
 - [ ILSpy .NET Decompiler ](https://marketplace.visualstudio.com/items?itemName=icsharpcode.ilspy-vscode)
 - [ Image preview ](https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-gutter-preview)
 - [ Import Cost ](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost)
+- [ indent-rainbow - colorize the indentation ](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
 - [ Inline Parameters for VSCode ](https://marketplace.visualstudio.com/items?itemName=liamhammett.inline-parameters)
 - [ Instant Markdown ](https://marketplace.visualstudio.com/items?itemName=dbankier.vscode-instant-markdown)
 - [ IntelliSense for CSS class names in HTML ](https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion)
@@ -1069,4 +1071,3 @@
 - [ WidsMob Panorama - Auto stitch for panoramas ](https://www.widsmob.com/panorama)
 - [ WiFi Explorer ](https://www.intuitibits.com/products/wifiexplorer/)
 - [ zCommander - file manager ](https://apps.apple.com/kw/app/zcommander-file-manager/id540356531)
-
