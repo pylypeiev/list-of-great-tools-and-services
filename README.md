@@ -67,7 +67,6 @@
 - [ JSON Generator – Tool for generating random data ](https://json-generator.com/)
 - [ JSON parser to any language ](https://app.quicktype.io/)
 - [ JSON Schema Validator ](https://www.jsonschemavalidator.net/)
-- [ JSON to TypeScript transform ](https://transform.tools/json-to-typescript)
 - [ KodyTools - collection of online tools designed to simplify your digital tasks ](https://www.kodytools.com/)
 - [ Lorem Ipsum ](https://www.lipsum.com/)
 - [ Lorem Ipsum Generator](https://www.webfx.com/tools/lorem-ipsum-generator/)
@@ -85,8 +84,6 @@
 - [ SQL Tables Generator ](https://editor.datatables.net/generator/)
 - [ Stack Trace Formatter - Pretty print your exception messages | elmah.io ](https://elmah.io/tools/stack-trace-formatter/)
 - [ SVG compression ](https://jakearchibald.github.io/svgomg/)
-- [ Svg Path Editor ](https://omatsuri.app/)
-- [ SVG to JSX ](https://omatsuri.app/svg-to-jsx)
 - [ Swagger Editor ](https://editor.swagger.io/)
 - [ Symbols to Copy ](https://symbols.wentin.net/)
 - [ The Mailto Link Generator ](https://mailtolink.me/)
@@ -114,7 +111,6 @@
 - [ CSS Clip-path maker ](https://bennettfeely.com/clippy/)
 - [ CSS Filters Generator ](https://justcode.today/filters/)
 - [ CSS gradient text - Gradient Text Generator  ](https://www.cssgradienttext.com/)
-- [ CSS Grid Generator ](https://wweb.dev/resources/css-separator-generator)
 - [ CSS Layout Generator ](https://layout.bradwoods.io/)
 - [ CSS Section Separator Generator ](https://wweb.dev/resources/css-separator-generator)
 - [ CSS3 Generator ](http://css3generator.com/)
@@ -376,7 +372,6 @@
 <a name="api"></a>
 
 ## 6. Public APIs :key:
-- [ A collective list of free APIs for use in software and web development. ](https://github.com/toddmotto/public-apis)
 - [ Any API ](https://any-api.com)
 - [ API Marketplace - Free Public & Open Rest APIs | RapidAPI ](https://rapidapi.com/)
 - [ Countries Get information about countries via a RESTful API ](https://restcountries.com/)
@@ -616,7 +611,7 @@
 - [ MassTransit - a message-based distributed application framework ](https://www.nuget.org/packages/MassTransit)
 - [ MetadataExtractor - Easily and efficiently read metadata from images, video and audio files. ](https://www.nuget.org/packages/MetadataExtractor/)
 - [ Microsoft.Coyote - a tool to help ensure that your code is free of concurrency bugs](https://www.nuget.org/packages/Microsoft.Coyote/)
-- [ Microsoft.IO.RecyclableMemoryStream - a MemoryStream replacement for performance-critical systems](https://www.nuget.org/packages/MiniProfiler/)
+- [ Microsoft.IO.RecyclableMemoryStream - a MemoryStream replacement for performance-critical systems](https://www.nuget.org/packages/Microsoft.IO.RecyclableMemoryStream/)
 - [ Microsoft.Playwright ](https://www.nuget.org/packages/Microsoft.Playwright)
 - [ MiniProfiler - Lightweight mini-profiler, designed for ASP.NET](https://www.nuget.org/packages/MiniProfiler/)
 - [ MockHttp - Testing layer for HttpClient ](https://www.nuget.org/packages/RichardSzalay.MockHttp/)
@@ -766,7 +761,6 @@
 ## 12. Visual Studio Code Extensions :hammer:
 
 - [ .NET Core Test Explorer ](https://marketplace.visualstudio.com/items?itemName=formulahendry.dotnet-test-explorer)
-- [ .NET Interactive Notebooks ](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.dotnet-interactive-vscode)
 - [ Angular Snippets - TypeScript, Html, Angular Material, ngRx, RxJS & Flex Layout ](https://marketplace.visualstudio.com/items?itemName=Mikael.Angular-BeastCode)
 - [ Angular Language Service ](https://marketplace.visualstudio.com/items?itemName=Angular.ng-template)
 - [ Auto Import ](https://marketplace.visualstudio.com/items?itemName=steoates.autoimport)
@@ -1076,6 +1070,8 @@
 - [ Awesome c#: A curated list of awesome frameworks, libraries and software. ](https://github.com/uhub/awesome-c-sharp)
 - [ Info about devices viewport,width etc. ](https://www.mydevice.io/)
 - [ The Ultimate Guide to Learning CSS ](https://zendev.com/ultimate-guide-to-learning-css.html)
-
+- [ Svg Path Editor ](https://omatsuri.app/)
+- [ SVG to JSX ](https://omatsuri.app/svg-to-jsx)
+- [ JSON to TypeScript transform ](https://transform.tools/json-to-typescript)
 
 </details>
