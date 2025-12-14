@@ -234,7 +234,7 @@
 - [ Unicode Codepoint Chart ](http://inamidst.com/stuff/unidata/)
 - [ VISIWIG - Icons ](https://www.visiwig.com/icons/)
 - [ Worldvectorlogo - SVG Brand logos ](https://worldvectorlogo.com/)
- 
+
 <a name="css2"></a>
 
 #### Buttons :radio_button:
@@ -937,8 +937,8 @@
 ## 17. Must have Software for MacOS :apple:
 ##### Obvious apps like chrome, office etc. are not included
 - [ Amphetamine - keep-awake utility ](https://apps.apple.com/us/app/amphetamine/id937984704)
+- [ AppCleaner ](https://freemacsoft.net/appcleaner/)
 - [ BrightIntosh - use the increased brightness of its Liquid Retina XDR display anytime ](https://brightintosh.de/index.html)
-- [ CleanMyMac ](https://cleanmymac.com/)
 - [ CleanShot - a powerful replacement for the macOS tool ](https://cleanshot.com)
 - [ ClipGrab - tool for downloading videos from multiple streaming websites ](https://clipgrab.en.softonic.com/)
 - [ CoconutBattery - shows battery health ](https://www.coconut-flavour.com/coconutbattery/)
@@ -960,6 +960,7 @@
 - [ NTFS for Mac ](https://www.paragon-software.com/home/ntfs-mac/)
 - [ Parallels Desktop - Run Windows on Mac ](https://www.parallels.com/products/desktop/)
 - [ PDFgear - FREE All-in-one PDF tool ](https://www.pdfgear.com/pdfgear-for-mac/)
+- [ Pearcleaner ](https://github.com/alienator88/Pearcleaner)
 - [ Phoenix Slides - fast images browser and viewer ](https://blyt.net/phxslides/)
 - [ Raindrop - Bookmark manager ](https://raindrop.io/)
 - [ Resize master - Resize and watrmark images ](https://apps.apple.com/us/app/resize-master/id1025306797?mt=12)
@@ -1079,5 +1080,6 @@
 - [ Svg Path Editor ](https://omatsuri.app/)
 - [ SVG to JSX ](https://omatsuri.app/svg-to-jsx)
 - [ JSON to TypeScript transform ](https://transform.tools/json-to-typescript)
+- [ CleanMyMac ](https://cleanmymac.com/)
 
 </details>
