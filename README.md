@@ -956,6 +956,7 @@
 - [ ImageOptim - removes metadata from images. ](https://imageoptim.com/mac)
 - [ iNet Network scanner ](https://inetapp.de/en/inetx.html)
 - [ Little Snitch ](https://www.obdev.at/products/littlesnitch/index.html)
+- [ Maccy - clipboard manager ](https://github.com/p0deje/Maccy)
 - [ Mp3tag - edit metadata of audio files ](https://mp3tag.app/)
 - [ NTFS for Mac ](https://www.paragon-software.com/home/ntfs-mac/)
 - [ Parallels Desktop - Run Windows on Mac ](https://www.parallels.com/products/desktop/)
