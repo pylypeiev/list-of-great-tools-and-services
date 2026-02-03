@@ -969,6 +969,7 @@
 - [ Stats - system monitor in menu bar ](https://github.com/exelban/stats)
 - [ System Color Picker ](https://apps.apple.com/us/app/system-color-picker/id1545870783?mt=12)
 - [ Topaz Gigapixel - Super scale any image with AI ](https://www.topazlabs.com/gigapixel)
+- [ Transnomino - A batch rename utility ](https://www.transnomino.com)
 - [ Trim Any Video ](https://apps.apple.com/za/app/trim-any-video/id957834335)
 - [ WidsMob Panorama - Auto stitch for panoramas ](https://www.widsmob.com/panorama)
 - [ WiFi Explorer ](https://www.intuitibits.com/products/wifiexplorer/)
